@@ -1,0 +1,8 @@
+1.Băng	Đá			氷
+Nước thêm 1 phẩy ra đá
+2.Vĩnh	Vĩnh cửu	永
+Băng đá vĩnh cửu
+3.Vịnh	Bơi			泳
+Nước vĩnh cửu dùng để bơi
+4.Vịnh	Ngâm thơ	詠
+Lời nói vĩnh cửu là ngâm thơ

@@ -1,0 +1,14 @@
+1.Trường	Công trường		場
+Vật vã 1 ngày trên mảnh đất ở công trường
+2.Thương	Vết thương		傷
+Vật vã 1 ngày lúc đứng lúc nằm là bị thương
+3.Tràng		Đại tràng		腸
+Nguyệt vật vã suốt 1 ngày với bệnh đại tràng
+4.Thang		Nước nóng		湯
+Vật vã 1 ngày không có nước nóng
+5.Dương		Mặt trời		陽
+Bố vật vã làm việc 1 ngày dưới ánh nắng mặt trời
+6.Dương		Tuyên dương		揚
+Tay làm việc vật vã 1 ngày nên được tuyên dương
+7.Dương		Lở loét			瘍
+Vật vã 1 ngày do bệnh lở loét

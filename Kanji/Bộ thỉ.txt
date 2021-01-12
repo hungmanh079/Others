@@ -1,0 +1,24 @@
+1.Đồn	Con lợn		豚
+Nghe đồn chị Nguyệt sắp bán lợn
+2.Gia	Gia đình	家
+Dưới mái nhà có gia đình lợn
+3.Giá	Lấy chồng	嫁
+Gia đình có con gái đi lấy chồng
+4.Giá	Kiếm tiền	稼
+Gia đình bán lúa gạo để kiếm tiền
+5.Trục	Trục xuất	逐
+Nuôi lợn dẫn tới bị trục xuất
+6.Trủng	Đống đất	塚
+Trong đêm lợn nằm trên đất thành đống
+7.Toại	Toại nguyện	遂
+Bắt được 8 con lợi dẫn tới toại nguyện
+8.Đội	Bộ đội		隊
+Bộ đội nuôi 8 con lợn
+9.Trụy	Rơi xuống	墜
+Bộ đội bị rơi xuống đất
+10.Hào	Hào hoa		豪
+Con lợn trong đêm mở mồm đầu tiên là của nhà phú hào
+11.Tượng	Con voi	象
+Móc cả ngày con lợi thành con voi
+12.Tượng	Hình tượng	像
+Người coi voi là hình tượng

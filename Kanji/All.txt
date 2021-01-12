@@ -1,0 +1,245 @@
+1.言		Ngôn	Nói				Mồm đang Nói
+2.信		Tín		Tin tưởng		Người quen nói thì sẽ Tin tưởng
+3.語		Ngữ		Ngôn ngữ		Mồm nói 5 Ngôn Ngữ
+4.悟		Ngộ		Giác ngộ		5 cái Mồm thì Tâm sẽ Giác ngộ
+
+1.米		Mễ		Gạo				Cây trổ bông là Gạo
+2.来		Lai		Tương lai		Có 1 loại gạo trong Tương lai
+3.迷		Mê		Bị lạc			Ăn nhiều Gạo Dẫn tới bị Mê
+4.謎		Mê		Câu đố			Lời Nói Mê hoặc là Câu đố
+
+1.門		Môn		Cổng			Giống cái Cổng
+2.閑		Nhàn	Nhàn hạ			Trông Cây trước Cổng thì Nhàn hạ
+3.聞		Văn		Nghe			Dưới Cổng có cái Tai đang Nghe
+4.問		Vấn		Hỏi				Dưới Cổng có cái Mồm đang Hỏi	
+5.開		Khai	Mở				Chắp 2 tay Mở Cổng
+6.閉		Bế		Đóng			Ô cái Cổng đang Đóng
+7.間		Gian	Thời gian		Ở bên Nhật có cái Cổng Thời gian
+8.簡		Giản	Đơn giản		Trồng Trúc thì mất Thời gian chứ không Đơn giản
+
+1.立		Lập		Đứng			Đứng Đầu 21 ngày
+2.位		Vị		Vị trí			Người đứng đúng Vị trí
+3.泣		Khấp	Khóc			Người Đứng ra Nước là đang Khóc
+4.粒		Lạp		Hạt, hột		Hạt Gạo Đứng
+
+1.音		Âm		Âm thanh		Đứng ở Nhật nhờ về Âm thanh quê hương
+2.暗		Ám		Ám ảnh			Âm thanh ồn ào cả Ngày gây Ám ảnh
+3.闇		Ám		U ám			Âm thanh phía sau Cổng rất U ám
+4.意		Ý		Ý kiến			Âm thanh trong Tâm là Ý kiến của mình
+5.億		Ức		100 triệu		Người đứng có ý kiến 100 triệu
+6.憶		Ức		Ký ức			Nhứng Ý trong Tâm giờ đã thành Ký ức
+7.臆		Ức		Rụt rè			Nguyệt có Ý kiến nhưng Rụt rè
+
+1.林		Lâm		Rừng thưa		2 Cây là Rừng thưa
+2.森		Sâm		Rừng rậm		3 Cây là Rừng rậm
+3.保		Bảo		Bảo hiểm		Người đứng Mồm cắm vào Cây là có Bảo hiểm
+4.褒		Bao		Khen ngợi		Làm Bảo hiểm Y như rằng được khen
+5.休		Hưu		Nghỉ			Người dựa Cây là đang Nghỉ ngơi
+6.本		Bản		Sách			Chặt Cây để làm Sách
+7.体		Thể		Cơ thể			Nhân Bản Cơ thể
+8.鉢		Bát		Cái bát			Ở Nhật Bản dùng vàng làm Bát
+9.条		Điều	Điều kiện		Phía sau cái Cây có điều muốn nói
+10.栄	Vinh	Vinh quang		Đứng ở gốc Cây trong Đêm tỏa sáng là Vinh quang
+11.杉	Sam		Cây liễu sam	Cây Sam 
+12.漆	Tất		Cây sơn			Người đang quét Cây sơn, nước bắn tung tóe
+13.礎	Sở		Cơ sở			Hạ Nhân dùng Đá trong Rừng làm Cơ sở
+14.床	Sàng	Cái giường		Dưới Hiên nhà có 1 cái Giường bằng Cây gỗ
+
+1.麻		Ma		Cây lanh		2 Cây dưới Hiên là Cây lanh
+2.摩		Ma		Ma sát			Ma dùng Tay làm Ma sát
+3.磨		Ma		Mài				Ma dùng Đá để Mài
+4.魔		Ma		Ma quỷ			Ma quỷ
+
+1.午		Ngọ		Buổi trưa		Nằm ngủ tới 10 giờ trưa
+2.許		Hứa		Cho phép		Nói chuyện Buổi trưa cần Cho phép
+
+1.牛		Ngưu	Trâu			Ngọ thêm sừng là Trâu
+2.件		Kiện	Sự kiện			Người dẫn Trâu đi Sự kiện
+
+1.王		Vương	Vua				Có 3 ông vua
+2.玉		Ngọc	Viên ngọc		Ông vua có 1 viên Ngọc
+3.宝		Bảo		Bảo vật			Viên ngọc dưới mái nhà là Bảo vật
+4.国		Quốc	Quốc gia		Viên ngọc được bao bọc là Quốc gia
+5.皇		Hoàng	Hoàng đế		Ông Vua da Trắng là Hoàng đế
+6.呈		Trình	Trình bày		Mồm ông Vua đang Trình bày
+7.程		Trình	Lộ trình		Hòa đang Trình bày về Lộ trình học
+8.聖		Thánh	Thần thánh		Tai và Mồm ông Vua Thần thánh
+
+1.目		Mục		Mắt				Giống hình đôi mắt
+2.算		Toán	Tính toán		Trúc nhắm mắt, chắp tay học toán
+3.県		Huyện	Tỉnh			Mắt lớn, mắt nhỏ là người sống trên tỉnh
+4.懸		Huyền	Cố gắng			Tâm cố gắng hệ thống công việc của tỉnh
+
+1.見		Kiến	Nhìn			Mắt nhìn chân
+2.覚		Giáp	Nhớ ra			Nhìn vào trong đêm, toát 3 giọt mồ hôi là nhớ ra
+3.視		Thị		Thị lực			Nhìn vào quả thị để kiểm tra thị lực
+4.親		Thân	Thân thích		Đứng trên cây nhìn về người thân thích
+5.現		Hiện	Hiện thực		Ông vua nhìn vào hiện thực
+6.規		Quy		Quy tắc			Ông chồng nhìn vào quy tắc
+7.寛		Khoan	Khoan dung		Dưới mái nhà cô thảo nhìn mọi người khoan dung
+
+1.直		Trực	Trực tiếp		10 mắt lớn nhìn trực tiếp
+2.値		Trị		Giá trị			Người đứng nói trực tiếp là có giá trị
+3.置		Trí		Đặt để			Mắt nhìn trực tiếp xem đặt để
+4.植		Thực	Trồng cây		Trực tiếp trồng cây
+5.殖		Thực	Thực dân		Xấu xa trực tiếp là thực dân
+
+1.負		Phụ		Thua			Bị móc mất bảo bối thì thua
+2.敗		Bại		Thất bại		Bảo bối bị đánh cắp là thất bại
+3.買		Mãi		Mua				Mắt nhìn thấy bảo bối là mua ngay
+4.則		Tắc		Quy tắc			Dùng đao chia bảo bối theo quy tắc
+5.側		Trắc	Phía			Người đứng về phía quy tắc
+6.測		Trắc	Đo đạc			Đo đạc lượng nước theo quy tắc
+7.賛		Tán		Tán thành		2 ông chồng giơ bảo bối để tán thành
+8.質		Chất	Chất lượng		Dùng 2 cái búa gõ vào bảo bối để kiểm tra chất lượng
+9.唄		Bái		Bài hát			Bảo bối mở mồm ra hát
+10.員	Viên	Nhân viên		Mở mồm đòi bảo bối là nhân viên
+11.損	Tổn		Tổn hại			Tay nhân viên làm tổn hại đồ đạc
+12.韻	Vận		Vần điệu		Âm thanh của nhân viên rất vần điệu
+
+1.字		Tự		Chữ				Dưới mái nhà trẻ con đang viết chữ
+2.学		Học		Học sinh		Đứa trẻ con trong đêm toát 3 giọt mồ hôi do học bài
+3.乳		Nhũ		Sữa				Đứa trẻ con búng móng tay ra sữa
+4.浮		Phù		Nổi lên			Trẻ con búng móng tay xuống nước làm mọi thử nổi lên
+
+1.糸		Mịch	Sợi tơ			Giống hình cây thông noel
+2.系		Hệ		Hệ thống		1 sợi tơ tạo ra hệ thống
+3.係		Hệ		Quan hệ			Người được vào hệ thống thì chắc chắn là có quan hệ
+4.孫		Tôn		Cháu			Đứa trẻ con trong hệ thống nhà mình thì là con cháu
+5.遜		Tốn		Khiên tốn		Dẫn cháu vào con đường khiêm tốn
+6.索		Tác		Tìm kiếm		Mất 10 đêm để tìm kiếm sợi tơ
+7.素		Tố		Yếu tố			Yếu tố tạo nên ông vua phải có nhiều tơ
+8.麦		Mạch	Lúa mạch		Ông vua lòi đầu　truy tìm lúa mạch
+
+1.生		Sinh	Học sinh		Nằm trên đất để sinh
+2.性		Tính	Tính cách		Tâm sinh tính
+3.姓		Tính	Họ				Con gái sau khi sinh sẽ lấy họ bố
+4.牲		Sinh	Hy sinh			Con trâu vừa sinh đã hy sinh
+5.星		Tinh	Ngôi sao		Mặt trời sinh ra ngôi sao
+6.醒		Tỉnh	Tỉnh cơn say	Uống rượu ngắm sao rất tỉnh
+7.産		Sản		Sinh sản		Đứng trên sườn núi sinh sản
+
+1.化		Hóa		Biến hóa		Người đứng cười hihi rồi biến hóa
+2.花		Hoa		Bông hoa		Cô thảo biến hóa thành bông hoa
+3.貨		Hóa		Hàng hóa		Biến hóa bảo bối thành hàng hóa
+4.靴		Ngoa	Giầy dép		Biến hóa da thuộc thành giày dép
+
+1.雨		Vũ		Mưa				Trời mưa 4 hạt
+2.雷		Lôi		Sấm				Mưa xuống ruộng tạo ra sấm
+3.電		Điện	Dòng điện		Sấm lòi ra dòng điện
+4.雪		Tuyết	Bông tuyết		Em đi dưới trời mưa tuyết
+
+1.車		Xa		Xe				2 ngày làm ra 1 chiếc xe
+2.連		Liên	Liên lạc		Em liên là xước xe
+3.運		Vận		Vận động		Em liên vận động trong màn đêm
+4.軍		Quân	Quân đội		Xe đi trong đêm là xe quân đội
+5.揮		Huy		Chỉ huy			Dùng tay chỉ huy quân đội
+6.輝		Huy		Huy hoàng		Đăng quang trong quân đội rất huy hoàng
+7.庫		Khố		Kho				Xe để dưới hiên nhà ở trong nhà kho
+8.陣		Trận	Trận địa		Em bồ cưỡi xe ra trận địa
+9.斬		Trảm	Chém			Dùng búa để chém đôi xe
+10.暫	Tạm		Tạm thời		Tạm thời rảnh rỗ ngồi chém gió cả ngày
+11.漸	Tiệm	Tiệm cận		Tiệm nước này chém giá cao
+12.軸	Trục	Cái trục xe		Tự do quay quanh trục xe
+
+1.舌		Thiệt	Cái lưỡi		Mồm có nghìn cái lưỡi
+2.話		Thoại	Hội thoại		Lời nói qua cá lưỡi thành hội thoại
+3.活		Hoạt	Sinh hoạt		Lưỡi phải có nước mới sinh hoạt được
+4.括		Quát	Bao quát		Tay túm lưỡi là hết quát
+5.乱		Loạn	Hỗn loạn		Lưỡi làm loạn
+
+1.寺		Tự		Chùa			Động vào đất chùa thì rất thốn
+2.時		Thời	Thời gian		Dành thời gian cả ngày ở chùa
+3.持		Trì		Duy trì			Dùng tay để duy trì ngôi chùa
+4.詩		Thi		Thi ca			Lời nói trên chùa là thi ca
+5.侍		Thị		Người hầu		Người được chùa cưu mang là người hầu
+6.待		Đãi		Đợi				2 người đợi nhau đi chùa
+7.特		Đặc		Đặc biệt		Trâu ở trên chùa rất đặc biệt
+8.等		Đẳng	Bình đẳng		Trúc lên chùa được đối xử bình đẳng
+
+1.申		Thân	Gọi tên			Gọi tên em cả ngày
+2.神		Thần	Thần thánh		Mang quả thị đến làm thân với thần
+3.伸		Thân	Dãn ra			Thân người dãn ra
+4.紳		Thân	Đàn ông			Thân mỏng manh như sợi tơ là đàn ông
+
+1.氷		Băng	Đá				Nước thêm 1 phẩy ra đá
+2.永		Vĩnh	Vĩnh cửu		Băng đá vĩnh cửu
+3.泳		Vịnh	Bơi				Nước vĩnh cửu dùng để bơi
+4.詠		Vịnh	Ngâm thơ		Lời nói vĩnh cửu là ngâm thơ
+
+1.録		Lục		Kỷ lục			Em thủy đạt HCV là kỷ lục
+2.緑		Lục		Xanh lá cây		Em thủy thích tơ màu xanh lá cây
+3.剝		Bác		Bóc, gọt		Em thủy dùng đao để gọt
+4.縁		Duyên	Duyên số		Em lợn dùng sợi tơ se duyên
+
+1.豚		Đồn		Con lợn			Nghe đồn chị Nguyệt sắp bán lợn
+2.家		Gia		Gia đình		Dưới mái nhà có gia đình lợn
+3.嫁		Giá		Lấy chồng		Gia đình có con gái đi lấy chồng
+4.稼		Giá		Kiếm tiền		Gia đình bán lúa gạo để kiếm tiền
+5.逐		Trục	Trục xuất		Nuôi lợn dẫn tới bị trục xuất
+6.塚		Trủng	Đống đất		Trong đêm lợn nằm trên đất thành đống
+7.遂		Toại	Toại nguyện		Bắt được 8 con lợi dẫn tới toại nguyện
+8.隊		Đội		Bộ đội			Bộ đội nuôi 8 con lợn
+9.墜		Trụy	Rơi xuống		Bộ đội bị rơi xuống đất
+10.豪	Hào		Hào hoa			Con lợn trong đêm mở mồm đầu tiên là của nhà phú hào
+11.象	Tượng	Con voi			Móc cả ngày con lợi thành con voi
+12.像	Tượng	Hình tượng		Người coi voi là hình tượng
+
+1.毎		Mỗi		Mỗi ngày		Đừng chỉ nằm mỗi ngày như thế
+2.海		Hải		Biển			Nước mỗi ngày chảy ra biển
+3.悔		Hối		Hối hận			Tâm mỗi ngày đều cảm thấy hối hận
+4.梅		Mai		Cây mơ			Cây mỗi ngày là cây mơ
+5.侮		Vũ		Khinh thường	Người chồng mỗi ngày bị khinh thường
+6.敏		Mẫn		Mẫn cảm			Mỗi ngày đều đánh phấn khiến da bị mẫn cảm
+7.繫		Phồn	Phồn thịnh		Cần mẫn dệt tơ sẽ có ngày phồn thịnh
+8.毒		Độc		Thuốc độc		Xin đừng cho vua uống thuốc độc
+
+1.良		Lương	Tốt				
+2.食		Thực	Ăn				Người tốt thì được ăn ngon
+3.娘		Nương	Con gái			Nuôi dạy con gái trở thành phụ nữ tốt
+4.狼		Lang	Chó sói			Chó tốt là chó sói
+5.郎		Lang	Con trai		Tốt với bồ là con trai
+6.廊		Lang	Hành lang		Dưới hiên nhà con trai đang dọn hành lang
+7.朗		Lãng	Rõ ràng			Ánh trăng tốt thì sẽ chiếu rõ ràng
+8.浪		Lãng	Lãng tử			Lãng tử chỉ được cái tốt nước sơn
+
+1.銀		Ngân	Bạc				Bạc không tốt bằng vàng
+2.痕		Ngân	Vết sẹo			Bị bệnh mà điều trị không tốt thì có sẹo
+3.恨		Hận		Hận thù			Trái tim không tốt để lại hận thù
+4.根		Căn		Gốc rễ			Cây không tốt là do gốc rễ
+5.限		Hạn		Giới hạn		Em bồ không tốt nên giới hạn thôi
+6.眼		Nhãn	Nhãn cầu		Mắt không tốt do nhãn cầu
+7.退		Thoái	Rút lui			Dẫn quân không tốt phải rút lui
+8.爵		Tước	Tước hầu		Tước hầu dùng móng tay chạm mắt không tốt dẫn tới thốn
+9.郷		Hương	Quê hương		Yêu mà không tốt với bồ thì nó bỏ về quê hương
+10.響	Hưởng	Âm hưởng		Âm thanh quê hương tạo ra âm hưởng
+11.即	Tức		Tức khắc		Gặp người không tốt thì tức điên tiết
+12.節	Tiết	Tiết kiệm		Trúc trong tức khắc biết tiết kiệm
+
+1.魚		Ngư		Cá				Móc cá trên ruộng để nướng
+2.漁		Ngư		Ngư nghiệp		Nuôi cá dưới nước là nghề ngư nghiệp
+
+1.介		Giới	Giới thiệu		Giống hình mũi tên suy ra
+2.界		Giới	Thế giới		Thế giới có ruộng
+
+1.里		Lý		Làng			Có nhiều ruộng đất là ông lý
+2.理		Lý		Lý do			Ông vua xử ông lý là có lý do
+3.鯉		Lý		Cá chép			Loại cá ông lý thích nhất là cá chép
+4.裏		Lý		Mặt trái		Ông ý mặc y phục bị trái
+5.野		Dã		Hoang dã		Ông lý dự đoán sắp bị dã
+6.埋		Mai		Chôn			Chôn ông lý xuống đất
+7.量		Lượng	Số lượng		Ngày mồng 1 ông lý đi mua số lượng hàng lớn
+8.糧		Lương	Lương thực		Số lượng gạo lớn là lương thực
+9.童		Đồng	Nhi đồng		Đứng trên đầu ông lý là nhi đồng
+10.瞳	Đồng	Đồng tử			Mặt của nhi đồng có đổng tử
+11.鐘	Chung	Chuông			Nhi đồng dùng vàng đúc chuông
+12.憧	Sung	Mong ước		Trái tim nhi đồng rất nhiều mong ước
+13.黒	Hắc		Màu đen			Ruộng đất cháy đen
+14.墨	Mặc		Mực đen			Dùng đất đen để làm mực
+15.黙	Mặc		Lặng im			Con chó đen thì phải im lặng
+16.厘	Li		Một ít			Dưới sườn núi ông lý bé li ti
+
+
+
+
+

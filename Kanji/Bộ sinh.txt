@@ -1,0 +1,14 @@
+1.Sinh	Học sinh		生
+Nằm trên đất để sinh
+2.Tính	Tính cách		性
+Tâm sinh tính
+3.Tính	Họ				姓
+Con gái sau khi sinh sẽ lấy họ bố
+4.Sinh	Hy sinh			牲
+Con trâu vừa sinh đã hy sinh
+5.Tinh	Ngôi sao		星
+Mặt trời sinh ra ngôi sao
+6.Tỉnh	Tỉnh cơn say	醒
+Uống rượu ngắm sao rất tỉnh
+7.Sản	Sinh sản		産
+Đứng trên sườn núi sinh sản

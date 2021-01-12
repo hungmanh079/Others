@@ -1,0 +1,28 @@
+1.Lâm	Rừng thưa	林
+2 Cây là Rừng thưa
+2.Sâm	Rừng rậm	森
+3 Cây là Rừng rậm
+3.Bảo	Bảo hiểm	保
+Nghỉ Hưu Mồm vẫn có ăn là do đóng Bảo hiểm
+4.Bao	Khen ngợi	褒
+Làm Bảo hiểm Y như rằng được Khen
+5.Hưu	Nghỉ ngơi	休
+Người ngồi dựa Cây là đang Nghỉ ngơi
+6.Bản	Sách		本
+Chặt 1 Cây để làm Sách
+7.Thể	Cơ thể		体
+Nhân bản Cơ thể
+8.Bát	Cái bát		鉢
+Ở Nhật Bản dùng Vàng làm Bát
+9.Điều	Điều kiện	条
+Phía Sau cái Cây có điều muốn nói
+10.Vinh	Vinh quang	栄
+Đứng ở gốc Cây trong Đêm tỏa sáng là Vinh quang
+11.Sam	Cây liễu sam	杉
+Cây Sam
+12.Tất	Cây sơn		漆
+Người đang quét Cây sơn, Nước bắn tung tóe
+13.Sở	Cơ sở		礎
+Hạ Nhân dùng Đá ở Rừng làm Cơ sở
+14.Sàng	Cái giường	床
+Dưới Hiên nhà có 1 cái Giường bằng Cây gỗ

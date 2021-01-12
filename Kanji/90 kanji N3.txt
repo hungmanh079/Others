@@ -1,0 +1,90 @@
+1.　算	Toán	Toán học	Trúc nhắm mắt chắp tay học toán
+2.　鼻	Tị		Cái mũi		Tự làm ruộng bằng tay thở ra mũi
+3.　谷	Cốc		Thung lũng	8 nhân khẩu sống dưới thung lũng
+4. 浴	Dục		Tắm			Nước ở thung lũng dùng để tắm　
+5.　欲	Dục		Dục vọng	Ở thung lũng thiếu dục vọng
+6. 俗	Tục		Phong tục	Người đứng ở thung lũng có phong tục riêng　　
+7.　容	Dung	Bao dung	Sống ở mái nhà thung lũng rất bao dung
+8.　寺	Tự		Chùa		Đất thốn là tự chùa
+9.　時	Thời	Thời gian	Thời gian cả ngày ở chùa
+10.持	Trì		Duy trì		Tay duy trì chùa
+11.侍	Thị		Người hầu	Người đúng trên chùa là người hầu
+12.詩	Thi		Thơ			Lời nói trên chùa là thi ca
+13.待	Đãi		Chiêu đãi	Đè chùa ra chiêu đãi
+14.特	Đặc		Đặc biệt	Con trâu trên chùa rất đặc biệt
+15.等	Đẳng	Bình đẳng	Trúc trên chùa được đối xử bình đẳng
+16.事	Sự		Sự việc		Mồm em bị đâm xuyên là sự việc nghiêm trọng
+17.律	Luật	Luật pháp	Bút viết ra pháp luật để đè người
+18.筆	Bút		Cái bút		Bút trúc vẫn là cái bút
+19.書	Thư		Viết		Dùng bút viết thư cả ngày
+20.津	Tân		Bến cảng	Dùng bút nước để vẽ bến cảng
+21.Trường	Công trường	Nhật như một con vật ở công trường
+22.陽	Dương	Mặt trời	Em bồ ở công trường tỏa sáng như mặt trời
+23.揚	Dương	Tuyên dương	Tay làm việc ở công trường được tuyên dương
+24.瘍	Dương	Lở loét		Làm việc ở công trường phát bệnh lở loét
+25.場	Trường	Công trường	Sang đất nhật sống như một con vật ở công trường
+26.腸	Tràng	Ruột		Em nguyệt làm việc ở công trường bị đau ruột
+27.傷	Thương	Vết thương	Người đứng người nằm ở công trường là bị thương
+28.湯	Thang	Nước nóng	Nước ở công trường là nước nóng
+29.刀	Đao		Con đao		Lực thừa đao thụt
+30.初	Sơ		Sơ cấp		Nhìn sơ y như bị đao
+31.辺	Biên	Biên giới	Dẫn đao ra biên giới
+32.切	Thiết	Cắt			Dùng 7 con đao để cắt
+33.窃	Thiết	Trộm cắp	Cắt cái lỗ là trộm cắp
+34.刃	Nhẫn		Sắc nhọn	Con đao bị xước nhưng vẫn sắc nhọn
+35.忍	Nhẫn	Nhẫn nại	Nhẫn trong tâm là nhẫn nại
+36.認	Nhận	Xác nhận	Lời nói nhẫn nại là xác nhận
+37.土	Thổ		Đất			
+38.吐	Thổ		Nôn			Mồm nôn ra đất
+39.圧	Áp		Áp lực		Sườn núi đè lên đất tạo ra áp lực
+40.泉	Tuyền	Dòng suối	Nước trắng là dòng suối
+41.線	Tuyến	Tuyến đường	Sợi tơ bên dòng suối tạo ra tuyến đường
+42.腺	Tuyến	Tuyến cơ thể	Tuyến cơ thể em nguyệt tuôn trào như suối
+43.直	Trực	Trực tiếp	10 cái mắt lớn nhìn trực tiếp
+44.値	Trị		Giá trị		Người đứng trực tiếp tạo ra giá trị
+45.置	Trí		Đặt để		Mắt nhìn trực tiếp trang trí đặt để
+46.植	Thực	Trồng cây	Trồng cây trực tiếp
+47.殖	Thực	Thực dân	Xấu xa trực tiếp là thực dân
+48.毎	Mỗi		Mỗi ngày	Đừng nằm mỗi ngày
+49.侮	Vũ		Khinh thường	Người đứng mỗi ngày không làm gì thì bị kinh thường
+50.敏	Mẫn		Mẫn cảm		Đánh phấn mỗi ngày trở nên mẫn cảm
+51.梅	Mai		Cây mơ		Cây mỗi ngày là cây mơ
+52.海	Hải		Biển		Nước chảy ra biển mỗi ngày
+53.悔	Hối		Hối hận		Trái tim mỗi ngày hối hận
+54.雨	Vũ		Mưa			Trời mưa 4 hạt
+55.分	Phân	Phân chia	Dùng 8 con đao để phân chia
+56.雰	Phân	Bầu không khí	Mưa phân chia bầu không khí
+57.貧	Bần		Nghèo		Phân chia bảo bối thì bị nghèo đi
+58.木	Mộc		Cây			
+59.未	Vị		Chưa đến	Chưa đến 1 cây
+60.味	Vị		Hương vị	Chưa đến mồm thì chưa biết hương vị
+61.妹	Muội	Em gái		Cô gái chưa đến tuổi là em gái
+62.昧	Muội	Ngu muội	Chưa đến Nhật thì vẫn còn ngu muội
+63.集	Tập		Tập trung	Chim tập trung trên cây
+64.進	Tiến	Tiến bộ		Dẫn con chim tiến về phía trước
+65.九	Cửu		Số 9		
+66.雑	Tạp		Tạp chí		9 con chim đậu trên cây ở trong tạp chí
+67.大	Đại		To			
+68.田	Điền	Ruộng		
+69.奮	Phấn	Hưng phấn	Có con chim to trên ruộng rất hưng phấn
+70.芸	Nghệ	Nghệ thuật	Cô thảo 24h làm nghệ thuật
+71.伝	Truyền	Truyền đạt	Người đứng suốt 24h để truyền đạt
+72.転	Chuyển	Chuyển động	Xe chuyển động suốt 24h
+73.雲	Vân		Mây			Mưa suốt 24h thì hết mây
+74.月	Nguyệt	Trăng		
+75.育	Dục		Giáo dục	Em nguyệt đầu tư cho giáo dục
+76.元	Nguyên	Nguyên khí	Nguyên 1 cặp chân
+77.完	Hoàn	Hoàn thành	Hoàn thành nguyên cái mái nhà
+78.院	Viện	Bệnh viện	Em bồ hoàn thành bệnh viện
+79.手	Thủ		Tay			
+80.毛	Mao		Lông		
+81.尾	Vĩ		Đuôi		Xác chết mọc lông đuôi
+82.桜	Anh		Anh đào		Cô gái đứng ở cây hoa anh đào tỏa sáng
+83.ロ	Khẩu	Mồm
+84.央	Ương	Trung ương	Lên trung ương thì không được mồm to
+85.英	Anh		Tiếng anh	Cô thảo lên trung ương dạy tiếng anh
+86.介	Giới	Giới thiệu	Giống hình mũi tên
+87.界	Giới	Thế giới	Giới thiệu ruộng ra thế giới
+88.昆	Côn		Côn trùng	Ở nhật có tỉ con côn trùng
+89.混	Hỗn		Hỗn loạn	Côn trùng gặp nước thì bay hỗn loạn
+90.

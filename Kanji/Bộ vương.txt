@@ -1,0 +1,16 @@
+1.Vương	Vua			王
+Có 3 ông Vua
+2.Ngọc	Viên ngọc	玉
+Ông Vua có 1 Viên ngọc
+3.Bảo	Bảo vật		宝
+Viên ngọc dưới Mái nhà là Bảo vật
+4.Quốc	Quốc gia	国
+Viên ngọc được Vây quanh là Quốc gia
+5.Hoàng	Hoàng đế	皇
+Ông Vua da Trắng là Hoàng đế
+6.Trình	Trình bày	呈
+Mở mồm ra Trình bày với Vua
+7.Trình	Lộ trình	程
+Hòa đang Trình bày về Lộ trình học
+8.Thánh	Thần thánh	聖
+Trình độ Nghe trở nên Thần thánh

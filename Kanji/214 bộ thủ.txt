@@ -1,0 +1,214 @@
+1. 水		Thủy			Nước		Nước, Liên quan tới sông nước, chất lỏng
+2. 火		Hỏa				Lửa			Lửa, Liên quan tới lửa hay việc sử dụng lửa
+3. 冫		2 chấm			Băng		Biểu thị nhiệt độ thấp, hoặc liên quan tới nước
+4. 氵		3 chấm			Thủy		Liên quan tới nước
+5. 灬		4 chấm			Hỏa			Liên quan tới lửa, nóng
+6. 人		Nhân			Người		Người, biểu thị con người, các động tác, hành vi, tính cách hay sự việc
+7. 亻		Nhân đứng		Người		Liên quan tới người
+8. 𠂉		Nhân nằm		Người		Liên quan tới người
+9. 儿		Nhân đi (Nhi)				Đứa trẻ con, con trai, biểu thị các sự việc liên quan tới con người
+10.彳		Xích(Nhân đè)				Bước Chân Trái, liên quan tới đi lại, đường sá, động tác của con người (thường là chân)
+11.又		Hựu				Lại nữa		Lại nữa, một lần nữa, biểu thị sự việc, động tác liên quan tới tay
+12.夂		Truy			Phía sau	Đến Ở Phía Sau,
+13.攵		Phộc			Đánh khẽ	Đánh Khẽ, Động tác đánh nhẹ
+14.几		Kỉ				Ghế			Ghế dựa, biểu thị đồ dùng bằng gỗ nhỏ, thấp cho việc uống trà
+15.殳		Thù				Binh khí	Binh Khí Dài, Một loại vũ khí dài, không mũi nhọn	Dùng ghế làm binh khí chạy lại
+16.力		Lực				Sức lực		Sức mạnh, liên quan đến việc dùng sức lực	Lực thừa
+17.刀		Đao				Con đao		Lực thừa, đao thụt
+18.刂		Bộ đao						Con dao, cây đao (vũ khí), chỉ động tác hay sự việc liên quan tới vũ khí
+19.九 		Cửu				Số 9		
+20.巾		Cân				Cái khăn	Cái Khăn, liên quan tới dệt may
+21.辶		Sước			Bước đi		Chợt bước đi chợt dừng lại
+22.廴		Dẫn				Bước dài	Bước Dài, liên quan tới việc đi lại
+23.勹		Bao				Bao bọc		Bao bọc, biểu thị các sự việc liên quan tới con người
+24.厶		Tư				Riêng tư	Riêng tư, thường làm nét chữ đôi khi biểu thị sự việc liên quan đến riêng tư
+25.阝		Ấp, Phụ			Đống đất	Vùng đất, đất phong cho quan
+26.口		Khẩu			Cái mồm		Cái Miệng, liên quan ngôn ngữ hoặc động tác miệng, ngoài ra còn liên quan tới đồ vật hình vuông.
+27.囗		Vi				Vây quanh	Vây Quanh, liên quan tới sự bao vây, vòng tròn…
+28.凵		Khảm			Há miệng	Há miệng, liên quan tới hang hốc hay lõm xuống
+29.冂		Quynh			Biên giới	Vùng biên giới xa, hoang địa, biểu thị sự việc liên quan tới 1 khu vực
+30.匚		Phương			Tủ đựng		Tủ đựng, biểu thị các đồ vật, sự việc có liên quan tới đồ đựng hình vuông
+31.卩		Tiết			Đốt tre		Đốt tre, biểu thị sự việc liên quan tới quỳ gối
+32.土		Thổ				Đất			Đất, liên quan tới bùn, đất đai
+33.士		Sĩ				Binh sĩ		Kẻ Sĩ, liên quan tới con trai, đàn ông
+34.寸		Thốn			Đơn vị đo	Đơn Vị "Tấc" (Đo Chiều Dài), liên quan tới phép đo, độ dài
+35.隹		Chuy			Chim		Chim đuôi ngắn
+36.夕		Tịch			Chiều tối	Đêm Tối, liên quan tới thời gian hay các hoạt động về đêm
+37.歹		Ngạt			Xấu xa		Xấu Xa, Tệ Hại, Bộ Đãi/Ngạt ý chỉ việc xấu, không tốt	1 mình ta xấu xa
+38.心		Tâm				Trái tim	Tâm (Tâm Đứng): Quả Tim, Tâm Trí, Thể hiện tình cảm, thái độ và các hoạt động tâm lý
+39.忄		Bộ tâm đứng		
+40.尸		Thi				
+41.山		Sơn				Núi			Núi Non, liên quan tới đá, núi
+42.川		Xuyên			Sông		
+43.巛		Bộ xuyên					Sông Ngòi, liên quan tới sông nước
+44.皿		Mãnh			Đĩa			Bát đĩa
+45.血		Huyết			Máu			
+46.爿		Tường			Bức tường	Mảnh Gỗ, Cái Giường
+47.勿		Vật				Con vật		
+48.罒		Võng			Cái lưới	Mắt nằm ngang
+49.Móc									
+50.21									
+51.亠		Chấm đầu					Thường chỉ biểu thị nét chữ
+52.宀		Miên			Mái nhà		Mái Nhà Mái Che, liên quan tới nhà cửa hay những việc trong nhà
+53.冖		Mịch			Màn đêm		Biểu thị các sự việc liên quan tới che, đậy, phủ lên
+54.厂		Hán				Sườn núi	Sườn núi, vách đá, biểu thị các sự việc có liên quan tới vách núi hoặc nhà xưởng
+55.广		Nghiễm			Hiên nhà	Mái Nhà, liên quan tới công trình kiến trúc, nhà cửa
+56.幺		Yêu				Nhỏ			Nhỏ Nhắn, liên quan tới sự vật nhỏ bé như sợi tơ
+57.玄		Huyền			Màu đen		Màu đen huyền, huyền bí
+58.糸(糹)	Mịch			Sợ tơ		Sợi tơ nhỏ
+59.斤		Cân				Cái  rìu	Cái Búa, Rìu, Dụng cụ đốn cây
+60.氏		Thị				Họ			Họ, Họ, ngành họ mạc trong một gia tộc. Phần đệm trong họ tên phái nữ.
+61.己		Kỉ				Bản thân	Bản Thân Mình, liên quan tới trẻ sơ sinh
+62.弓		Cung			Cung tên	Cái Cung (Để Bắn Tên), liên quan tới vũ khí, cung nỏ
+63.弋		Dặc				Chiếm lấy	Bắn, Chiếm Lấy, thường không biểu thị ý nghĩa
+64.戈		Qua				Cây qua		Kích (mác), Một loại binh khí dài cổ xưa
+65.彡		Sam				Tóc			Lông Tóc Dài, liên quan tới trang sức, hình ảnh, tranh vẽ
+66.毛		Mao				Lông		Lông, Liên quan tới lông của loài thú hay râu tóc của con người.
+67.手		Thủ				Tay			Tay, Liên quan tới động tác tay
+68.扌		Bộ thủ						
+69.艹		Thảo			Cây cỏ		Cỏ
+70.廾		Củng			Chắp tay	Chắp Tay, liên quan tới việc dùng 2 tay để cầm nắm vật gì
+71.日		Nhật			Ngày		Ngày, Mặt Trời, Liên quan tới Mặt trời, thời gian (tính bằng ngày)
+72.白		Bạch			Màu trắng	
+73.目		Mục				Mắt			
+74.自		Tự				Bản thân	Tự bản thân, kể từ
+75.頁(页)	Hiệt			Tờ giấy		Đầu; trang giấy
+76.爪		Trảo			Móng tay	Móng Vuốt, Của động vật
+77.爫		Bộ trảo						
+78.大		Đại				To			To Lớn, liên quan tới sự việc to lớn hoặc người
+79.木		Mộc				Cây			Gỗ, Cây Cối, Cây, gỗ (hình cây có cành và rễ).
+80.禾		Hòa				Cây lúa		
+81.羊		Dương			Con dê		
+82.牛		Ngưu			Con trâu	Trâu, Liên quan tới động vật tương tự Trâu, bò
+83.牜		Bộ ngưu			
+84.犬		Khuyển			Con chó		Con Chó, Nói tới loài chó
+85.犭		Bộ khuyển		
+86.王		Vương			Vua			
+87.疒		Nạch			Bệnh tật	
+88.舟		Chu				Thuyền		Cái thuyền
+89.聿		Duật			Bút			
+90.言		Ngôn			Nói			
+91.礻		Bộ thị			Chỉ thị		Giống chữ nê
+92.衣		Y				Áo
+93.衤		Bộ y							Bộ thị thêm 1 chấm
+94.豕		Thỉ				Con lợn
+95.貝		Bối				Con sò		Con sò 8 mắt
+96.匕		Chủy			Cái thìa	Giống chữ hi
+97.比		Tỷ				So sánh		Cười hihi
+98.食		Thực				Ăn
+99.飠		Bộ thực			
+100.入		Nhập			Vào			Ngược với nhân
+101.出		Xuất			Ra			2 núi đè thì không thể xuất ra được
+102.工		Công			Công nghiệp	Người Thợ, Công Việc, liên quan tới công cụ, người thợ
+103.万		Vạn				10.000		
+104.方		Phương			Phương pháp	Vạn thêm 1 chấm
+105.八		Bát				Số 8		
+106.十		Thập			Số 10		
+107.干		Can				Khô			Thiên Can, Can Dự
+108.文		Văn				Văn học		Văn Vẻ, Văn Chương, Liên quan tới hoa văn hay trang sức nhiều màu sắc	Đầu đội sổ môn văn
+109.卜		Bốc				Quẻ bói		Xem bói, biểu thị các sự việc liên quan tới bói toán	Giống chữ tô
+110.支		Chi				Chi nhánh	Cành Nhánh, Của Cây	Đi lại ở 10 chi nhánh
+111.皮		Bì				Da			Mở chi nhánh ở sườn núi bán đồ da
+112.女		Nữ				Phụ nữ		Nữ Giới, Con Gái, Đàn Bà, liên quan tới phụ nữ, sự xinh đẹp hay họ tên
+113.子		Tử				Con			Con, liên quan tới con cái
+114.戸		Hộ				Cửa			Có 1 xác chết ở cửa
+115.小		Tiểu			Nhỏ			Nhỏ Bé, liên quan tới các việc nhỏ bé
+116.示		Thị				Chỉ thị		2 nhỏ là chỉ thị
+117.彐		Kệ				Đầu nhím	Đầu Con Nhím, thường dùng làm nét chữ	Giống chữ e ngược (em)
+118.斗		Đấu				Cái đấu		Cái Đấu, Đơn vị đo lường lương thực (đấu thóc, đấu gạo)
+119.月		Nguyệt			Trăng		
+120.米		Mễ				Gạo			Cây trổ bông là cây gạo
+121.耒		Lỗi				Cái cày		2 cây làm ra cái cày
+122.欠		Khiếm			Thiếu		Khiếm Khuyết, Thiếu Vắng, Thiếu (khiếm nhã, khiếm khuyết).	Trong đêm thiếu người
+123.田		Điền			Ruộng		
+124.魚		Ngư				Cá
+125.下		Hạ				Dưới		
+126.上		Thượng			Trên		
+127.止		Chỉ				Dừng lại	Dừng Lại, Chỉ động tác của chân	Lên cao phải dừng lại
+128.毋		Vô				Chớ, đừng	Giống điền nhưng lòi đuôi
+129.气		Khí				Không khí	Không khí không thể mê được
+130.父		Phụ				Cha			Cha, Nói tới người đàn ông đã trưởng thành	Ông bố 8x
+131.母		Mẫu				Mẹ			
+132.片		Phiến			Tấm, mảnh	Mảnh, Tấm, Miếng, Mảnh vật mỏng và phẳng
+133.牙		Nha				Răng		14 tuổi mọc răng
+134.穴		Huyệt			Lỗ			Dưới mái nhà có 8 cái lỗ
+135.午		Ngọ				Buổi trưa	Người nằm tới 10 giờ trưa
+136.缶		Phẫu			Đồ sành		Buổi trưa lên núi nhặt đồ sành
+137.玉		Ngọc			Viên ngọc	Ông vua có 1 viên ngọc
+138.生		Sinh			Học sinh	sinh đẻ, sinh sống
+139.瓦		Ngõa			Gạch, nói	Có 12 viên gạch ngược
+140.甘		Cam				Ngọt		Cô thảo sang nhật thích ăn cam ngọt
+141.用		Dụng			Sử dụng		Cắt nửa vầng trăng
+142.角		Giác			Góc			Góc, sừng thú	Sử dụng cái móc ở trong góc
+143.癶		Bát				Trở lại		Gạt ngược lại, trở lại
+144.見		Kiến			Nhìn		
+145.四		Tứ				Số 4		
+146.疋		Thất			Đếm con vật	Đơn vị đo chiều dài, tấm (vải)
+147.首		Thủ				Đầu			21 tuổi đầu tự làm thủ tướng
+148.天		Thiên			Trời		1 thứ to lớn nhất là trời
+149.矢		Thỉ				Mũi tên		Mũi tên bắn lên trời
+150.丨		Cổn				Sổ thẳng	Nét sổ, đường thẳng đứng trên xuống dưới
+151.丶		Chủ				Nét chấm	Nét chấm, một điểm
+152.丿		Phiệt			Nét phẩy	Nét phảy, nét nghiêng từ phải qua trái, chỉ động tác
+153.乙		Ất				Can ất		Can thứ hai trong mười can (Giáp, ất , bính, đinh…)
+154.亅		Quyết						Nét sổ có móc, cái móc
+155.左		Tả				Trái		
+156.右		Hữu				Phải		10 cái mồm nói lời phải
+157.石		Thạch			Đá			Hòn đá phải vuông vức
+158.竹		Trúc			Tre trúc	
+159.⺮		Bộ trúc			
+160.Quan						Ông trời có 1 cái râu là quan
+161.立		Lập				Đứng		
+162.音		Âm				Âm thanh	
+163.羽		Vũ				Lông chim	
+164.耳		Nhĩ				Cái tai		Có 3 ô
+165.内		Nội				Bên trong	Người ở trong biên giới
+166.肉		Nhục			Thịt		
+167.臣		Thần			Đại thần	
+168.至		Chí				Đạt đến		Đạt được 14 mảnh đất
+169.臼		Cũu				Cối đá		2 em có cối đá
+170.百		Bách			100
+171.千		Thiên			Nghìn
+172.舌		Thiệt			Lưỡi		Nghìn cái mồm có lưỡi
+173.良		Lương			Tốt			
+174.Cấn				Quẻ			
+175.色		Sắc				Màu sắc		Sang nhật bị móc túi là biến sắc
+176.虍		Hổ				Con hổ		Ở trên sườn núi có 7 con hổ chân đang đi
+177.Trung			Trung tâm	
+178.Trùng			Côn trùng	
+179.Hành			Đi			
+180.Cốc				Thung lũng	8 nhân khẩu sống dưới mái nhà ở thung lũng
+181.Đậu				Hạt đậu		1 cái mồm ăn 21 hạt đậu
+182.Xích			Màu đỏ		Đốt đất đỏ
+183.Xa				Xe			
+184.Thân			Bản thân	Bản thân không cần ô dù
+185.Tẩu				Chạy		Hạ nhân chạy trên đất
+186.Túc				Chân		Chân đá tung mồm hạ nhân
+187.Bộ túc			
+188.Bộ nhi			Mà
+189.Thần			Thìn		Thần y ở sườn núi mặc 1 bộ y phục
+190.Dậu				Chị dậu		
+191.Lý				Làng		
+192.Hắc				Đen			Làng bị đốt cháy ra màu đen
+193.Kim				Vàng		Người làm vua có 2 túi tiền
+194.Trường			Dài			Em mặc y phục dài
+195.Môn				Cổng		
+196.Đãi				Kịp đến		Em thủy kịp đến
+197.雨		Vũ				Mưa			
+198.Thanh			Màu xanh	Ông vua mắng em nguyệt xanh mặt
+199.Phi				Phi thường	
+203.Cao				Cao			
+204.Hương			Hương thơm	
+205.Cốt				Xương		Ở cửa sổ trong đêm ngắm trăng ngã gãy xương
+206.Vi				Da			5 cái mồm ăn chung bị xước da
+207.Thánh			Thần thánh	Đi lại trên đất là thần thánh
+208.Suyễn			Sai lầm		Ta mà sống ở trung tâm là sai lầm
+209.Mã				Con ngựa	
+210.Điểu			Con chim	5 con chim trắng đang bị đốt
+211.Qua				
+212.Kì							Giống bối nhưng lòi đầu
+213.Triệt			Mầm non		Núi mọc mầm
+214.Đinh			Can đinh	Giống cái đinh
+215.Liễu			Kết thúc	Giống chữ tử con, thiếu gạch ngang
+216.Dự				Dự đoán		Gặp ma dự sẽ hét A
+217.Mâu				Mâu thuẫn	Giống chữ dự nhưng thêm nét phẩy

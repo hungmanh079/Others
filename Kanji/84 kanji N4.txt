@@ -1,0 +1,84 @@
+1.　米	Mễ		Gạo			Cây trổ bông là gạo
+2.　来	Lai		Tương lai	1 loại gạo xuất hiện trong tương lai
+3.　新	Tân		Mới			Đứng trên cây cầm cái rìu mới
+4.　親	Thân	Thân thích	Đứng trên cây nhìn về người thân
+5.　売	Mại		Bán			Binh sỹ trong đêm chạy đi bán
+6.　読	Độc		Đọc			Nói như bán là đang đọc
+7.　晴	Tình	Trời nắng	Cả ngày trời xanh là trời nắng
+8.　知	Tri		Tri thức	Mũi tên cắm vào mồm có ngay tri thức
+9.　己	Kỉ		Bản thân	Giống số 2
+10.紀	Kỉ		Thế kỉ		Sợi tơ nối liền 2 thế kỉ
+11.記	Kí		Nhật kí		Lời nói của bản thân viết vào nhật kí
+12.配	Phối	Phân phối	Bản thân phân phối rượu
+13.起	Khởi	Thức dậy	Bản thân thức dậy chạy
+14.羽	Vũ		Lông chim	
+15.習	Tập		Tập luyện	Tập luyện đến mức trắng cả lông
+16.化	Hóa		Biến hóa	Người cười hihi đang biến hóa
+17.花	Hoa		Bông hoa	Cô thảo biến hóa thành bông hoa
+18.雨	Vũ		Mưa			Trời mưa 4 hạt
+19.雲	Vân		Mây			Mưa suốt 24h thì tan mây
+20.電	Điện	Dòng điện	Mưa xuống ruộng thì có dòng điện
+21.雪	Tuyết	Bông tuyết	Em đi dưới trời mưa tuyết
+22.音	Âm		Âm thanh	Đứng ở nước Nhật nhớ về âm thanh quê hương
+23.暗	Ám		Tối			Đứng giữa 2 ngày là một đêm tối
+24.意	Ý		Ý kiến		Âm thanh ở trong tâm là ý
+25.憶	Ức		Kí ức		Ý trong tâm là ký ức
+26.億	Ức		100 triệu	Người đứng có ý 100 triệu
+27.天	Thiên	Trời		1 thứ to lớn nhất là trời
+28.矢	Thỉ		Mũi tên		Mũi tên bắn lên trời
+29.医	Y		Y học		Mũi tên trong tủ là y học
+30.車	Xa		Xe			2 ngày làm ra 1 chiếc xe
+31.庫	Khố		Cái kho		Xe cất dưới hiên nhà kho
+32.連	Liên	Liên lạc	Em liên làm xước xe
+33.運	Vận		Vận chuyển	Em liên trong đêm đang vận động
+34.欠	Khuyết	Thiếu		Trong đêm thiếu người
+35.次	Thứ		Tiếp theo	Thứ thiếu tiếp theo là băng
+36.吹	Xúy		Thổi		Thiếu mồm thì không thổi được
+37.炊	Xúy		Đun nấu		Thiếu lửa thì không đun nấu được
+38.飲	Ẩm		Uống		Thiếu ăn thì phải có uống
+39.文	Văn		Văn học		Đầu đội sổ môn văn
+40.紋	Văn		Hoa văn		Trong văn học thì sợi tơ được mô tả hoa văn
+41.蚊	Văn		Con muỗi	Muỗi vằn
+42.立	Lập		Đứng		Đứng đầu 21 ngày
+43.位	Vị		Vị trí		Người đứng đúng vị trí
+44.泣	Khốc	Khóc		Người đứng ra nước là khóc
+45.用	Dụng	Sử dụng		Cắt nửa vầng trăng
+46.通	Thông	Giao thông	Sử dụng ma để dẫn đường giao thông
+47.痛	Thống	Đau			Sử dụng ma chữa bệnh đau
+48.角	Giác	Góc			Sử dụng móc trong góc
+49.解	Giải	Giải quyết	Dồn con trâu vào góc để giải quyết
+50.觸	Xúc		Xúc giác	Không sờ côn trùng trong góc
+51.右	Hữu		Bên phải	10 cái mồm nói lời phải
+52.石	Thạch	Đá			Hòn đá phải vuông vức
+53.灰	Hôi		Tro			Lửa đốt sườn núi ra tro
+54.尻	Khào	Cái mông	9 cái xác khào mông
+55.風	Phong	Gió			Côn trùng dưới ghế tránh gió
+56.棚	Bằng	Cái giá		Cây mất 2 tháng tạo ra cái giá
+57.糸	Mịch	Sợi tơ		Giống cây thông
+58.系	Hệ		Hệ thống	1 sợi tơ tạo ra hệ thống
+59.係	Hệ		Quan hệ		Người đứng trong hệ thống phải có quan hệ
+60.孫	Tôn		Cháu		Đứa trẻ con trong hệ thống là cháu
+61.京	Kinh	Kinh đô		Người đầu mồm nhỏ ở kinh đô
+62.魚	Ngư		Cá			Móc cá ở ruộng lên nướng
+63.鯨	Kình	Cá voi		Con cá ở kinh đô là cá voi
+64.涼	Lương	Mát mẻ		Nước ở kinh đô mát mẻ
+65.兄	Huynh	Anh trai	Anh trai mồm nói chân đi
+66.況	Huống	Tình huống	Tình huống anh trai xuống nước
+67.祝	Chúc	Chúc mừng	Mang thị chúc mừng anh trai
+68.呪	Chú		Thần chú	Mồm anh trai niệm thần chú
+69.克	Khắc	Khắc phục	Có 10 anh trai thì khắc phục mọi thứ
+70.党	Đảng	Đảng phái	Anh trai trong đêm tỏa sáng là vào đảng
+71.工	Công	Công trường	
+72.攻	Công	Công kích	Công đánh là công kích
+73.カ	Lực		Sức lực		Lực thừa, đao thụt
+74.功	Công	Thành công	Có công lực thì sẽ thành công
+75.貝	Bối		Bảo bối		Bảo bối có 8 mắt
+76.項	Cống	Cống hiến	Có công tìm ra bảo bối là cống hiến
+77.穴	Huyệt	Cái lỗ		
+78.突	Đột		Đột nhiên	Đột nhiên có cái lỗ to
+79.空	Không	Không khí	Lỗ ở công trường thoát ra không khí
+80.父	Phụ		Cha			Ông bố 8x
+81.交	Giao	Giao lưu	Lần đầu giao lưu với bố vợ
+82.郊	Giao	Ngoại thành	Giao lưu với bồ ở ngoại thành
+83.校	Hiệu	Hiệu trưởng	Giao lưu với hiệu trưởng thì phải có cây vàng
+84.効	Hiệu	Hiệu quả	Giao lưu với người có lực thì đạt hiệu quả

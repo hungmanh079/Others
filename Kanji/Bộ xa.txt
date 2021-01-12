@@ -1,0 +1,24 @@
+1.Xa	Xe			車
+2 ngày làm ra 1 chiếc xe
+2.Liên	Liên lạc	連
+Em liên là xước xe
+3.Vận	Vận động	運
+Em liên vận động trong màn đêm
+4.Quân	Quân đội	軍
+Xe đi trong đêm là xe quân đội
+5.Huy	Chỉ huy		揮
+Dùng tay chỉ huy quân đội
+6.Huy	Huy hoàng	輝
+Đăng quang trong quân đội rất huy hoàng
+7.Khố	Kho			庫
+Xe để dưới hiên nhà ở trong nhà kho
+8.Trận	Trận địa	陣
+Em bồ cưỡi xe ra trận địa
+9.Trảm	Chém		斬
+Dùng búa để chém đôi xe
+10.Tạm	Tạm thời	暫
+Tạm thời rảnh rỗ ngồi chém gió cả ngày
+11.Tiệm	Tiệm cận	漸
+Tiệm nước này chém giá cao
+12.Trục	Cái trục xe	軸
+Tự do quay quanh trục xe
