@@ -1,0 +1,20 @@
+1.者		Giả		Tác giả
+Chống Gậy xuống Đất cả Ngày là Tác giả
+2.暑		Thử		Sức nóng
+Tác giả đứng dưới ánh Mặt trời để Thử Sức nóng
+3.署		Thự		Chức vụ
+Tác giả có con Mắt tinh tường sẽ có được Chức vụ tốt
+4.緒		Tự		Cùng nhau
+Cùng nhau dệt tơ với Tác giả
+5.煮		Chử		Đun nấu
+Tác giả dùng lửa để Đun nấu
+6.著		Trứ		Trứ danh
+Cô thảo là Tác giả Trứ danh
+7.箸		Trứ		Đôi đũa
+Tác giả dùng Trúc làm đũa
+8.都		Đô		Kinh đô
+Tác giả đi chơi với Bồ ở kinh Đô
+9.賭		Đổ		Đánh bạc
+Tác giả mang theo bảo Bối để Đánh bạc
+10.諸	Chư		Chư hầu
+Tác giả đang Nói chuyện với Chư hầu

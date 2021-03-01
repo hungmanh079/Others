@@ -1,0 +1,756 @@
+清	Thanh	Thanh khiết
+請	Thỉnh	Thỉnh cầu
+争	Tranh	Chiến tranh
+浄	Tịnh	Thanh tịnh
+静	Tĩnh	Tĩnh lặng
+責	Trách	Trách nhiệm
+債	Trái	Khoản nợ
+績	Tích	Thành tích
+積	Tích	Tích trữ
+漬	Tí		Ngâm, tẩm
+計	Kế		Kế hoạch
+針	Châm	Cái kim
+汁	Trấp	Nước súp
+原	Nguyên	Nguyên nhân
+源	Nguyên	Nguyên thủy
+願	Nguyện	Nguyện ước
+候	Hậu		Khí hậu
+喉	Hầu		Yết hầu
+侯	Hầu		Hầu tước
+告	Cáo		Quảng cáo
+造	Tạo		Sáng tạo
+酷	Khốc	Khốc liệt
+曽	Tằng	Cháu chắt
+層	Tằng	Tầng
+増	Tăng	Tăng lên
+僧	Tăng	Tăng lữ
+贈	Tặng	Quà tặng
+憎	Tăng	Ghét
+隊	Đội		Quân đội
+墜	Trụy	Rơi xuống
+堕	Đọa		Xa đọa
+惰	Nọa		Lười biếng
+享	Hưởng	Hưởng thụ
+郭	Quách	Thành quách
+省	Tỉnh	Tỉnh lược
+選	Tuyển	Tuyển chọn
+遷	Thiên	Biến thiên
+倉	Thương	Thương khố
+創	Sáng	Sáng tạo
+則	Tắc		Quy tắc
+側	Trắc	Phía
+測	Trắc	Đo lường
+的	Đích	Mục đích
+約	Ước		Giao ước
+酌	Chước	Chuốc rượu
+釣	Điếu	Câu cá
+均	Quân	Bình quân
+奴	Nô		Nô lệ
+努	Nỗ		Nỗ lực
+怒	Nộ		Phẫn nộ
+念	Niệm	Kỷ niệm
+捻	Niệm	Vặn xoắn
+専	Chuyên	Chuyên môn
+博	Bác		Bác học
+薄	Bạc		Nhạt
+縛	Phược	Buộc
+簿	Bộ		Sổ sách
+今	Kim		Bây giờ
+含	Hàm		Bao hàm
+貪	Tham	Tham lam
+吟	Ngâm	Ngâm thơ
+陰	Âm		Âm u
+琴	Cầm		Đàn
+沸	Phí		Nước sôi
+費	Phí		Phí tổn
+恋	Luyến	Luyến ái
+変	Biến	Biến đổi		ĐẦU bốc LỬA sau đó BIẾN ĐỔI
+蛮	Man		Man rợ
+湾	Loan	Vịnh
+心	Tâm		Tim
+必	Tất		Tất yếu
+秘	Bí		Bí mật
+泌	Bí		Tiết ra
+密	Mật		Bí mật
+蜜	Mật		Mật ong
+熱	Nhiệt	Nhiệt độ
+勢	Thế		Thế lực
+熟	Thục	Thành thục
+塾	Thục	Tư thục
+然	Nhiên	Tự nhiên
+燃	Nhiên	Nhiên liệu
+丘	Khâu	Ngọn đồi
+兵	Binh	Binh sỹ
+浜	Banh	Bãi biển
+岳	Nhạc	Núi cao
+陸	Lục		Lục địa
+陵	Lăng	Lăng tẩm
+隆	Long	Hưng thịnh
+睦	Mục		Thân thiết
+益	Ích		Lợi ích
+溢	Dật		Tràn đầy
+畑	Điền	Ruộng hoa màu
+演	Diễn	Diễn xuất
+過	Quá		Quá khứ
+渦	Qua		Vòng xoáy
+禍	Họa		Tai họa
+鍋	Oa		Nồi
+干	Can		Khô
+肝	Gan		Gan
+汗	Hãn		Mồ hôi
+刊	San		Tập san
+幹	Cán		Cán bộ
+冊	Sách	Quyển, tập
+柵	Sách	Hàng rào
+倫	Luân	Luân lý
+輪	Luân	Bánh xe
+論	Luận	Luận văn
+亡	Vong	Chết
+忙	Mang	Bận rộn
+忘	Vong	Quên			TRÁI TIM CHẾT thì mới QUÊN
+望	Vọng	Nguyện vọng
+網	Võng	Cái võng
+妄	Vọng	Vọng tưởng
+盲	Manh	Mù
+編	Biên	Biên tập
+偏	Thiên	Thiên vị
+遍	Biến	Phổ biến
+騙	Phiến	Lừa đảo
+数	Số		Số đếm
+楼	Lâu		Lầu
+包	Bao		Bọc gói
+抱	Bão		Ôm
+胞	Bào		Tế bào
+飽	Bão		Chán
+泡	Phao	Bọt
+砲	Pháo	Khẩu pháo
+令	Lệnh	Mệnh lệnh
+冷	Lãnh	Lạnh
+領	Lãnh	Lãnh đạo
+齢	Linh	Tuổi
+零	Linh	Số 0
+鈴	Linh	Cái chuông
+因	Nhân	Nguyên nhân
+恩	Ân		Ân nhân
+姻	Nhân	Hôn nhân
+咽	Yết		Yết hầu
+困	Khốn	Khốn cùng		Phang CÂY to vào MỒM thì thật KHỐN KHỔ
+囚	Tù		Ngục tù
+韋	Bộ vi	Da				
+違	Vi		Sai trái		DẪN VI đi chơi là SAI TRÁI
+偉	Vĩ		Vĩ nhân
+緯	Vĩ		Vĩ độ
+衛	Vệ		Vệ tinh
+韓	Hàn		Hàn quốc
+幹	Cán		Cán bộ
+乾	Cạn		Cạn
+軒	Hiên	Hiên nhà
+朝	Triều	Buổi sáng
+潮	Triều	Thủy triều
+嘲	Trào	Trào phúng
+奇	Kì		Kì lạ
+寄	Kí		Kí gửi
+埼	Kì		Mũi đất
+崎	Khi		Mũi đất
+騎	Kị		Kị sĩ
+椅	Y		Cái ghế
+現	Hiện	Hiện thực
+規	Quy		Quy tắc
+替	Thế		Thay thế
+潜	Tiềm	Tiềm ẩn
+賛	Tán		Tán thành
+質	Chất	Chất lượng
+林	Lâm		Rừng thưa
+禁	Cấm		Nghiêm cấm
+襟	Khâm	Cổ áo
+礎	Sở		Cơ sở
+貫	Quán	Nhất quán
+慣	Quán	Tập quán
+基	Cơ		Cơ bản
+寒	Hàn		Lạnh
+塞	Tắc		Bế tắc
+爪	Trảo	Móng vuốt
+脈	Mạch	Mạch máu
+派	Phái	Phái đoàn
+孤	Cô		Cô độc
+弧	Hồ		Cung tròn
+歴	Lịch	Lịch sử
+暦	Lịch	Quyền lịch
+麻	Ma		Cây đay
+摩	Ma		Ma sát
+磨	Ma		Mài
+瞬	Thuấn	Thoáng qua
+隣	Lân		Lân cận
+傑	Kiệt	Tuấn kiệt
+暇	Hạ		Nhàn hạ
+峠	Đèo		Con đèo
+句	Cú		Câu cú
+拘	Câu		Bắt giữ
+駒	Câu		Ngựa con
+旬	Tuần	10 ngày
+殉	Tuẫn	Chết theo
+盾	Thuẫn	Mâu thuẫn
+循	Tuần	Tuần hoàn
+酸	Toan	Axit
+唆	Toa		Xúi giục
+俊	Tuấn	Tuấn tú
+再	Tái		Tái tạo
+講	Giảng	Bài giảng
+構	Cấu		Cấu tạo
+購	Cấu		Mua bán
+溝	Câu		Rãnh nước
+契	Khế		Khế ước
+喫	Khiết	Ăn uống
+潔	Khiết	Thanh khiết
+耒	Lỗi		Cái cày
+耕	Canh	Canh tác
+耗	Háo		Hao hụt
+護	Hộ		Bảo hộ
+穫	Hoạch	Thu hoạch
+獲	Hoạch	Săn bắt
+災	Tai		Tai họa
+拶	Tạt		Chào hỏi
+巡	Tuần	Tuần tra
+能	Năng	Năng lực
+態	Thái	Thái độ
+罷	Bãi		Bãi bỏ
+熊	Hùng	Con gấu
+愚	Ngu		Ngu ngốc
+遇	Ngộ		Hội ngộ
+偶	Ngẫu	Ngẫu nhiên
+隅	Ngung	Góc xó
+独	Độc		Cô độc
+狂	Cuồng	Phát cuồng
+獄	Ngục	Địa ngục
+猟	Liệp	Săn bắt
+状	Trạng	Trạng thái
+壮	Tráng	Cường tráng
+装	Trang	Trang phục
+荘	Trang	Khu nghỉ dưỡng
+属	Thuộc	Phụ thuộc
+繭	Kiển	Kén tằm
+蚕	Tàm		Con tằm
+蛍	Huỳnh	Đom đóm
+蛇	Xà		Con rắn
+騒	Tào		Ồn ào
+掻	Tào		Gãi, toát
+適	Thích	Thích hợp
+敵	Địch	Kẻ địch
+摘	Trích	Hái
+滴	Trích	Nhỏ giọt
+嫡	Đích	Đích tôn
+危	Nguy	Nguy hiểm
+犯	Phạm	Phạm tội
+範	Phạm	Phạm vi
+氾	Phiếm	Phù phiếm
+厄	Ách		Tai họa
+帥	Súy		Nguyên soái
+師	Sư		Giáo viên
+飾	Sức		Trang sức
+識	Thức	Kiến thức
+職	Chức	Chức vụ
+織	Chức	Dệt vải
+墨	Mặc		Mực
+黙	Mặc		Im lặng
+状	Trạng	Trạng thái
+粧	Trang	Trang điểm
+罰	Phạt	Hình phạt
+漏	Lậu		Rò rỉ
+留	Lưu		Lưu lại
+貿	Mậu		Mậu dịch
+瑠	Lưu		Lưu ly
+充	Sung	Sung túc
+銃	Súng	Khẩu súng
+統	Thống	Truyền thống
+比	Tỷ		So sánh
+批	Phê		Phê phán
+紫	Tử		Màu tím
+雌	Thư		Giống cái
+雄	Hùng	Giống đực
+墓	Mộ		Ngôi mộ
+慕	Mộ		Hâm mộ
+暮	Mộ		Trời tối
+募	Mộ		Chiêu mộ
+幕	Mạc		Cái rèm
+暴	Bạo		Bạo lực
+爆	Bộc		Bom
+綿	Miên	Bông vải
+錦	Cẩm		Thổ cẩm
+絹	Quyên	Lụa
+輸	Thâu	Nhập khẩu
+愉	Du		Vui vẻ
+諭	Dụ		Dạy bảo
+癒	Dũ		Chữa khỏi
+濁	Trọc	Vẩn đục
+帝	Đế		Hoàng đế
+締	Đế		Ràng buộc
+諦	Đế		Từ bỏ
+宇	Vũ		Vũ trụ
+芋	Dụ		Củ khoai
+余	Dư		Dư thừa
+除	Trừ		Trừ bỏ
+徐	Từ		Từ từ
+互	Hỗ		Hỗ trợ
+茶	Trà		Trà xanh
+途	Đồ		Đường
+塗	Đồ		Sơn
+斜	Tà		Mặt nghiêng
+凶	Hung	Hung ác
+胸	Hung	Ngực
+脳	Não		Não bộ
+悩	Não		Phiền não
+秀	Tú		Tuấn tú
+誘	Dụ		Mời
+透	Thấu	Trong suốt
+携	Huề		Đi cùng
+疑	Nghi	Nghi ngờ
+擬	Nghĩ	Làm theo
+凝	Ngưng	Ngưng đọng
+郷	Hương	Quê hương
+響	Hưởng	Ảnh hưởng
+肥	Phì		Phì nhiêu
+把	Bả		Cầm, giữ
+仙	Tiên	Cô tiên
+仏	Phật	Phật giáo
+払	Phất	Trả tiền		TAY cầm 4 triệu đi TRẢ TIỀN
+私	Tư		Riêng tư
+机	Kỷ		Cái bàn
+肌	Cơ		Da thịt
+飢	Cơ		Đói
+処	Xử		Xử lý
+拠	Cứ		Chứng cứ
+冗	Nhũng	Đùa
+敬	Kính	Tôn kính
+驚	Kinh	Kinh ngạc
+警	Cảnh	Cảnh sát
+勤	Cần		Cần cù
+謹	Cẩn		Cẩn trọng
+僅	Cận		Lượng nhỏ
+憂	Ưu		Buồn rầu
+優	Ưu		Hiền lành
+慶	Khánh	Khánh thành
+穴	Huyệt	Cái hố
+坑	Khanh	Chôn
+抗	Kháng	Kháng cự
+若	Nhược	Trẻ
+匿	Nặc		Nặc danh
+諾	Nặc		Đồng ý
+叫	Khiếu	Hét
+収	Thu		Thu nhập
+糾	Củ		Quy củ
+裁	Tài		Phán xét
+栽	Tài		Trồng cây
+載	Tải		Vận tải
+戴	Đái		Nhận
+磁	Từ		Từ trường
+滋	Tư		Phồn thịnh
+慈	Từ		Nhân từ
+幽	U		U sầu
+就	Tựu		Thành tựu
+蹴	Xúc		Đá
+沈	Trầm	Trầm ngâm
+枕	Chẩm	Cái gối
+虹	Hồng	Cầu vồng
+紅	Hồng	Son môi
+江	Giang	Giang sơn
+座	Tọa		Ngồi
+挫	Tỏa		Bẻ cong
+刻	Khắc	Điêu khắc
+劾	Hặc		Buộc tội
+核	Hạch	Hạt
+該	Cai		Tương ứng
+骸	Hài		Thi hài
+担	Đảm		Đảm đương
+胆	Đảm		Can đảm
+但	Đãn		Tuy nhiên
+壇	Đàn		Bệ bục
+旦	Đán		Nguyên đán
+宣	Tuyên	Tuyên truyền
+喧	Huyên	Ầm ỹ
+恒	Hằng	Vĩnh hằng
+垣	Viên	Hàng rào
+唐	Đường	Nhà Đường
+糖	Đường	Chất đường
+班	Ban		Ban nhóm
+斑	Ban		Lốm đốm
+純	Thuần	Đơn thuần
+鈍	Độn		Cùn
+頓	Đốn		Chỉnh đốn
+宅	Trạch	Nhà riêng
+託	Thác	Ủy thác
+補	Bổ		Bổ sung
+捕	Bổ		Bắt
+哺	Bộ		Mớm
+浦	Phổ		Bến sông
+舗	Phố		Phố xá
+一	Nhất	Số 1
+壱	Nhất	Số 1
+二	Nhị		Số 2
+弐	Nhị		Số 2
+匹	Thất	Đếm con vật
+春	Xuân	Mùa xuân
+奏	Tấu		Diễn tấu
+泰	Thái	Thái bình
+奉	Phụng	Phụng sự
+棒	Bổng	Cái gậy
+俸	Bổng	Bổng lộc
+操	Thao	Thao tác
+繰	Tao		Kéo tơ
+藻	Tảo		Tảo biển
+燥	Táo		Khô ráo
+蔵	Tàng	Tàng trữ
+臓	Tạng	Nội tạng
+覧	Lãm		Triển lãm
+艦	Hạm		Chiến hạm
+鑑	Giám	Gương
+監	Giám	Giám đốc
+濫	Lạm		Lạm phát
+藍	Lam		Màu chàm
+鬼	Quỷ		Ma quỷ
+塊	Khối	Tảng khối
+魂	Hồn		Linh hồn
+魔	Ma		Ma quỷ
+魅	Mị		Ma mị
+醜	Xú		Xấu xí
+為	Vi		Hành vi
+偽	Ngụy	Ngụy biện
+卵	Noãn	Trứng
+柳	Liễu	Cây liễu
+模	Mô		Mô hình
+膜	Mô		Mô, màng
+摸	Mạc		Sao lại
+漠	Mạc		Sa mạc
+玄	Huyền	Đen
+弦	Huyền	Dây cung
+舷	Huyền	Mạn thuyền
+絃	Huyền	Dây đàn
+幺	Yêu		Nhỏ
+幻	Ảo		Huyền ảo
+幼	Ấu		Ấu thơ
+荒	Hoang	Hoang vắng
+慌	Hoảng	Hoảng hốt
+威	Uy		Uy quyền
+滅	Diệt	Bất diệt
+蔑	Miệt	Miệt thị
+隠	Ẩn		Ẩn giấu
+穏	Ổn		Ổn định
+交	Giao	Cắt nhau
+郊	Ngoại	Ngoại ô
+較	Giác	So sánh
+絞	Giảo	Vắt thắt
+唱	Xướng	Ca xướng
+冒	Mạo		Mạo hiểm
+帽	Mạo		Mũ
+貌	Mạo		Dung mạo
+劇	Kịch	Ca kịch
+虚	Hư		Hư không
+嘘	Hư		Nói dối
+戯	Hí		Du hí
+膚	Phu		Da
+慮	Lự		Lưỡng lự
+虎	Hổ		Con hổ
+虜	Lỗ		Tù binh
+虐	Ngược	Ngược đãi
+呉	Ngô		Nước Ngô
+誤	Ngộ		Ngộ nhận
+悟	Ngộ		Giác ngộ
+娯	Ngu		Vui vẻ
+虞	Ngu		Sợ hãi
+卸	Tá		Bán sỉ
+御	Ngự		Ngự uyển
+狭	Hiệp	Hẹp
+挟	Hiệp	Kẹp
+峡	Hạp		Hẻm núi
+出	Xuất	Ra
+拙	Chuyết	Vụng về
+屈	Khuất	Bất khuất
+掘	Quật	Khai quật
+堀	Quật	Hang động
+窟	Quật	Cái hang
+仰	Ngưỡng	Ngưỡng mộ
+迎	Nghênh	Nghênh đón
+抑	Ức		Đè nén
+頼	Lại		Ỷ lại			THÚC vào ĐẦU chừa thói Ỷ LẠI
+瀬	Lại		Nông cạn
+頃	Khoảnh	Khoảnh khắc
+頑	Ngoan	Ngoan cố
+願	Nguyện	Nguyện ước
+題	Đề		Vấn đề
+項	Hạng	Hạng mục
+顕	Hiển	Hiển nhiên
+煩	Phiền	Phiền não
+頒	Ban		Ban bố
+傾	Khuynh	Khuynh hướng
+須	Tu		Cần thiết
+侵	Xâm		Xâm lược
+浸	Tẩm		Ngâm tẩm
+寝	Tẩm		Ngủ
+尋	Tầm		Tìm kiếm, hỏi
+堅	Kiên	Kiên cố
+賢	Hiền	Khôn ngoan
+緊	Khẩn	Khẩn trương
+腎	Thận	Quả thận
+叔	Thúc	Bác trai
+淑	Thục	Hiền thục
+寂	Tịch	Lặng im
+戚	Thích	Thân thích
+耐	Nại		Nhẫn nại
+端	Đoan	Cực đoan
+需	Nhu		Nhu cầu
+濡	Nhu		Ướt
+儒	Nho		Nho nhã
+龍	Long	Con rồng
+襲	Tập		Tập kích
+籠	Lung	Cái giỏ
+称	Xưng	Danh xưng
+衡	Hành	Sự cân bằng
+昼	Trú		Buổi trưa
+尽	Tận		Tận cùng
+迅	Tấn		Nhanh chóng
+畜	Súc		Gia súc
+蓄	Súc		Tích trữ
+赤	Xích	Màu đỏ
+赦	Xá		Xá tội
+跡	Tích	Dấu tích
+踏	Đạp		Đạp đổ
+嚇	Hách	Dọa nạt
+凡	Phàm	Phàm tục
+帆	Phàm	Thuyền buồm
+汎	Phiếm	Tràn lan
+邪	Tà		Tà ma
+雅	Nhã		Nho nhã
+之	Chi		Đây, này
+芝	Chi		Cỏ thơm
+乏	Phạp	Nghèo
+乙	Ất		Can thứ 2
+乞	Khất	Ăn xin
+乾	Cạn		Khô cạn
+辰	Thần	Thìn
+辱	Nhục	Nhục nhã
+震	Chấn	Địa chấn
+振	Chấn	Chấn động
+娠	Thần	Mang thai
+唇	Thần	Cái môi
+避	Tỵ		Tỵ nạn
+壁	Bích	Bức tường
+璧	Bích	Hoàn bích
+癖	Phích	Thói quen
+逢	Phùng	Trùng phùng
+縫	Phùng	Khâu vá
+峰	Phong	Núi cao
+蜂	Phong	Con ong
+寮	Liêu	Ký túc xá
+僚	Liêu	Đồng nghiệp
+療	Liệu	Trị liệu
+瞭	Liệu	Rõ ràng
+家	Gia		Gia đình
+嫁	Giá		Lấy chồng
+稼	Giá		Kiếm tiền
+豚	Đồn		Con lợn
+隊	Đội		Bộ đội
+逐	Trục	Trục xuất
+塚	Trủng	Mô đất
+遂	Toại	Toại nguyện
+微	Vi		Nhỏ bé
+徴	Trưng	Đặc trưng
+懲	Trừng	Trừng phạt
+暴	Bạo		Bạo lực
+爆	Bộc		Bộc phá
+泊	Bạc		Trở lại
+拍	Phách	Vỗ tay
+迫	Bách	Bí bách
+伯	Bá		Bá tước
+舶	Bạc		Tàu thuyền
+桃	Đào		Cây đào
+逃	Đào		Đào tẩu
+兆	Triệu	Nghìn tỉ
+跳	Khiêu	Khiêu vũ
+挑	Khiêu	Khiêu chiến
+眺	Thiếu	Tầm nhìn
+苗	Miêu	Cây non
+描	Miêu	Miêu tả
+猫	Miêu	Con mèo
+噴	Phún	Phun ra
+墳	Phần	Phần mộ
+憤	Phẫn	Phẫn nộ
+般	Ban		Bình thường
+搬	Ban		Vận chuyển
+盤	Bàn		Địa bàn
+餅󠄀	Bính	Bánh dày
+併	Tinh	Tuy nhiên
+塀	Hiên	Hàng rào
+慢	Mạn		Ngạo mạn
+漫	Mạn		Lãng mạn
+離	Li		Li biệt
+璃	Li		Lưu li
+壌	Nhưỡng	Thổ nhưỡng
+醸	Nhưỡng	Lên men
+譲	Nhượng	Nhượng bộ
+嬢	Nương	Cô gái
+酔	Túy		Say
+粋	Túy		Tinh túy
+砕	Toái	Phá vỡ
+枠	Khung	Cái khung
+有	Hữu		Có
+賄	Hối		Hối lộ
+随	Tùy		Tùy tùng
+髄	Tủy		Xương tủy
+凹	Ao		Chỗ lõm
+凸	Đột		Chỗ lồi
+募	Mộ		Chiêu mộ
+寡	Quả		Quả phụ
+隷	Lệ		Nô lệ
+款	Khoản	Điều khoản
+鹿	Lộc		Tuần lộc
+麗	Lệ		Đẹp đẽ
+麓	Lộc		Chân núi
+宛	Uyên	Phân công
+腕	Oản		Cánh tay
+怨	Oán		Oán hận
+尉	Úy		Đại úy
+慰	Úy		An ủi
+既	Kí		Đã qua
+慨	Khái	Khẳng khái
+概	Khái	Khái niệm
+隔	Cách	Ngăn cách
+融	Dung	Dung môi
+甚	Thậm	Rất, lắm
+堪	Kham	Chịu đựng
+勘	Khám	Trực giác
+換	Hoán	Hoán đổi
+喚	Hoán	Hô hoán
+掲	Yết		Niêm yết
+謁	Yết		Yết kiến
+喝	Hát		Quát mắng
+渇	Khát	Khát khô		HÁT mà không được uống NƯỚC thì KHÁT KHÔ
+褐	Hạt		Sắc nâu
+甘	Cam		Ngọt
+紺	Cám		Xanh sẫm
+某	Mỗ		Anh ta
+謀	Mưu		Mưu đồ
+媒	Môi		Môi giới
+墾	Khẩn	Khai khẩn
+懇	Khẩn	Thành khẩn
+斬	Trảm	Chém
+暫	Tạm		Tạm thời
+漸	Tiệm	Tiệm cận
+摂	Nhiếp	Nhiếp chính
+渋	Sáp		Ngưng trệ
+又	Hựu		Lại nữa
+双	Song	Song sinh
+刈	Ngải	Cắt
+死	Tử		Chết
+葬	Táng	Mai táng
+卓	Trác	Cái bàn
+悼	Điệu	Truy điệu
+阜	Phụ		Gò đất
+止	Chỉ		Dừng lại
+祉	Chỉ		Phúc lợi
+企	Xí		Xí nghiệp
+肯	Khẳng	Khẳng định
+寿	Thọ		Trường thọ
+鋳	Chú		Đúc
+竜	Long	Con rồng
+滝	Lang	Thác nước
+俺	Yêm		Xưng tôi
+亀	Quy		Con rùa
+縄	Thằng	Sợi dây
+謡	Dao		Ca dao
+揺	Dao		Dao động
+陶	Đào		Đồ sành
+卑	Ti		Thấp hèn
+碑	Bi		Bia mộ
+見	Kiến	Nhìn
+覚	Giác	Nhớ ra
+寛	Khoan	Nghỉ ngơi
+朴	Bốc		Chất phác
+赴	Phó		Tới
+訃	Phó		Cáo phó
+曹	Tào		Họ Tào
+槽	Tào		Cái máng
+遭	Tao		Bắt gặp
+台	Đài		Vũ đài
+怠	Đãi		Lười
+胎	Thai	Phôi thai
+挿	Sáp		Sáp nhập
+捜	Sưu		Sưu tập
+痩	Sấu		Gầy đi
+貞	Trinh	Trinh tiết
+偵	Trinh	Trinh thám
+爵	Tước	Tước hầu
+傘	Tán		Cái ô
+爽	Sảng	Sảng khoái
+璽	Tỷ		Dấu ấn
+喪	Tang	Tang lễ
+膝	Tất		Đầu gối
+漆	Tất		Cây sơn
+庶	Thứ		Thứ dân
+遮	Già		Chặn che
+励	Lệ		Khích lệ
+栃	Dẻ		Tên tỉnh
+煙	Yên		Khói
+慄	Lật		Run sợ
+弁	Biện	Biện hộ
+弄	Lộng	Lộng hành
+臭	Xú		Hôi thối
+嗅	Khứu	Khứu giác
+瓦	Ngõa	Viên gạch
+瓶	Bình	Cái bình
+弱	Nhược	Yếu
+溺	Nịch	Chết đuối
+勾	Câu		Móc lấy
+匂	Mùi		Mùi hương
+句	Cú		Câu cú
+旬	Tuần	10 ngày
+太	Thái	Béo
+汰	Thái	Thái quá
+括	Quát	Bao quát
+捉	Tróc	Túm lấy
+覇	Bá		Bá quyền
+鬱	Uất		Uất ức
+叱	Sất		Quát mắng
+冥	Minh	U tối
+鉢	Bát		Cái bát
+銘	Minh	Khắc tên
+串	Xuyến	Xuyên qua
+患	Hoạn	Bệnh hoạn
+徹	Triệt	Triệt để
+撤	Triệt	Rút bỏ
+累	Lụy		Hệ lụy
+塁	Lũy		Thành lũy
+幣	Tệ		Tiền tệ
+弊	Tệ		Tệ bạc
+蔽	Tế		Che lấp
+酎	Trữu	Rượu nặng
+肘	Trửu	Khuỷu tay
+棄	Khí		Bỏ, quên
+裕	Dụ		Dư thừa
+庸	Dung	Ung dung
+窯	Diêu	Bếp lò
+仁	Nhân	Nhân sĩ
+挨	Ai		Chào hỏi
+拶	Tạt		Chào hỏi
+蓋	Cái		Nắp vung
+那	Na		Nhiều
+寧	Ninh	Lịch thiệp
+臆	Ức		Rụt rè
+釜	Phủ		Nồi
+隙	Khích	Lỗ hổng
+股	Cổ		Cái đùi
+桁	Hành	Trụ gỗ
+啓	Khải	Làm sáng tỏ
+催	Thôi	Thôi thúc
+宴	Yến		Yến tiệc
+妥	Thỏa	Thỏa thuận
+婿	Tế		Chú rể
+酬	Thù		Báo đáp
+妬	Đố		Đố kị
+剥	Bác		Bóc
+勃	Bột		Bồng bột
+辣	Lạt		Gian ác
+嫉	Tật		Ghen ghét
+芯	Tâm		Cái lõi
+脊	Tích	Cột sống
+煎	Tiên	Rang
+撃	Kích	Công kích
+繋	Hệ		Kết nối

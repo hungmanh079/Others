@@ -1,0 +1,208 @@
+億	Ức		100 triệu
+兆	Triệu	1000 tỉ
+地	Địa		Đất
+池	Trì		Cái ao
+汽	Khí		Hơi nước
+気	Khí		Không khí
+仕	Sĩ		Công việc
+了	Liễu	Kết thúc
+字	Tự		Chữ
+夫	Phu		Chồng
+丈	Trượng	Trượng phu
+村	Thôn	Làng
+覚	Giác	Nhớ ra
+組	Tổ		Tổ chức
+豆	Đậu		Hạt đậu
+頭	Đầu		Cái đầu
+思	Tư		Suy nghĩ
+細	Tế		Tế bào
+紙	Chỉ		Tờ giấy
+込	Nhập	Đông đúc
+正	Chính	Chính xác
+早	Tảo		Sớm
+草	Thảo	Cỏ
+茶	Trà		Trà xanh
+青	Thanh	Xanh nước biển
+赤	Xích	Màu đỏ
+晩	Vãn		Buổi tối
+才	Tài		Thiên tài
+丁	Đinh	Can thứ 4
+黒	Hắc		Màu đen
+社	Xã		Xã hội
+礼	Lễ		Lễ nghi
+光	Quang	Sáng
+斗	Đấu		Cái đấu
+科	Khoa	Khoa học
+料	Liệu	Nguyên liệu
+画	Họa		Hội họa
+面	Diện	Bề mặt
+絵	Hội		Hội họa
+同	Đồng	Đồng dạng
+州	Châu	Châu lục
+角	Giác	Góc
+究	Cứu		Nghiên cứu
+顔	Nhan	Khuôn mặt
+聞	Văn		Nghe
+鳴	Minh	Kêu réo
+任	Nhiệm	Trách nhiệm
+舟	Chu		Thuyền nhỏ
+強	Cường	Khỏe
+引	Dẫn		Kéo ra
+考	Khảo	Suy nghĩ
+斤	Cân		Đơn vị đo, rìu
+研	Nghiên	Nghiên cứu
+尸	Thi		Thây ma
+戸	Hộ		Cánh cửa
+番	Phiên	Lần lượt
+原	Nguyên	Nguyên nhân
+谷	Cốc		Thung lũng
+道	Đạo		Con đường
+食	Thực	Ăn
+数	Số		Số liệu, chữ số
+室	Thất	Phòng
+埋	Mai		Chôn
+予	Dự		Dự báo
+野	Dã		Hoang dã
+点	Điểm	Điểm số
+計	Kế		Kế hoạch
+船	Thuyền	Cái thuyền
+答	Đáp		Đáp án
+革	Cách	Cải cách
+敗	Bại		Thất bại
+負	Phụ		Thua
+餌󠄀	Nhị		Mồi câu
+秩	Trật	Trật tự
+鉄	Thiết	Sắt
+駄	Đà		Thồ hàng
+伏	Phục	Phục kích
+献	Hiến	Dâng hiến
+飛	Phi		Bay
+畑	Điền	Ruộng
+促	Xúc		Xúc tiến
+徒	Đồ		Sinh đồ
+労	Lao		Lao động
+励	Lệ		Khích lệ
+筋	Cân		Bắp thịt
+企	Xí		Xí nghiệp
+政	Chính	Chính trị
+愁	Sầu		Buồn
+終	Chung	Kết thúc
+必	Tất		Tất yếu
+歳	Tuế		Tuổi
+札	Trát	Tiền giấy
+刷	Loát	In ấn
+河	Hà		Sông
+荷	Hà		Hành lý
+苛	Hà		Bắt nạt
+忠	Trung	Trung thực
+沖	Trùng	Rộng lớn
+吹	Xúy		Thổi
+炊	Xúy		Đun nấu
+宿	Túc		Trọ lại
+技	Kĩ		Kĩ thuật
+伎	Kĩ		Kĩ nghệ
+岐	Kì		Phân nhánh
+洗	Tẩy		Rửa
+観	Quan	Quan sát
+猿	Viên	Con khỉ
+弁	Biện	Biện luận
+升	Thăng	Đơn vị đo, lên
+昇	Thăng	Thăng chức
+送	Tống	Đưa đi
+笑	Tiếu	Cười
+咲	Tiếu	Nở hoa
+横	Hoành	Hoành tráng
+録	Lục		Kỷ lục
+緑	Lục		Xanh lá cây
+踊	Dũng	Nhảy múa
+湧	Dũng	Sôi sục
+庁	Sảnh	Đại sảnh
+貯	Trữ		Tích trữ
+関	Quan	Liên quan
+闘	Đấu		Chiến đấu
+欄	Lan		Lan can
+潤	Nhuận	Lợi nhuận
+閣	Các		Nội các
+閥	Phiệt	Quân phiệt
+材	Tài		Tài nguyên
+財	Tài		Tài chính
+牙	Nha		Răng
+芽	Nha		Mạch nha
+干	Can		Khô
+遅	Trì		Muộn
+類	Loại	Chủng loại
+灰	Hôi		Tro
+尻	Khào	Mông
+棚	Bằng	Cái giá
+炭	Than	Than đá
+岸	Ngạn	Bờ biển
+嵐	Lam		Bão tố
+崩	Băng	Phá hủy
+頑	Ngoan	Ngoan cố
+玩	Ngoạn	Du ngoạn
+冠	Quán	Đứng đầu
+頰	Giáp	Cái má
+額	Ngạch	Cái trán
+括	Quát	Bao quát
+乱	Loạn	Hỗn loạn
+忌	Kị		Đố kị
+改	Cải		Cải cách
+妃	Phi		Phi tần
+流	Lưu		Giao lưu
+硫	Lưu		Lưu huỳnh
+掃	Tảo		Quét, dọn
+婦	Phụ		Phụ nữ
+涼	Lương	Mát mẻ
+停	Đình	Đình chỉ
+祈	Kỳ		Cầu chúc
+匠	Tượng	Thợ
+逝	Thệ		Chết
+誓	Thệ		Tuyên thệ
+析	Tích	Phân tích
+老	Lão		Người già
+考	Khảo	Suy nghĩ
+拷	Khảo	Tra khảo
+酵	Giếu	Lên men
+弔	Điếu	Viếng thi
+第	Đệ		Đệ nhất
+鋭	Nhuệ	Nhọn, sắc
+脱	Thoát	Thoát y
+悦	Duyệt	Mãn nguyện
+攻	Công	Công kích
+貢	Cống	Cống hiến
+空	Không	Không khí
+控	Khống	Khống chế
+窓	Song	Cửa sổ
+翁	Ông		Ông già
+鉱	Khoáng	Khoáng sản
+拡	Khuếch	Khuếch đại
+盟	Minh	Đồng minh
+炉	Lô		Cái lò
+所	Sở		Nơi chốn
+声	Thanh	Âm thanh
+稿	Cảo		Bản thảo
+豪	Hào		Hào hoa
+橋	Kiều	Cây cầu
+矯	Kiểu	Nắn thẳng
+郊	Ngoại	Ngoại ô
+効	Hiệu	Hiệu quả
+苦	Khổ		Khốn khổ
+枯	Khô		Khô héo
+居	Cư		Cư trú
+据	Cư		Lắp đặt
+裾	Cư		Vạt áo
+固	Cố		Kiên cố
+故	Cố		Sự cố
+湖	Hồ		Cái hồ
+個	Cá		Cá thể, đếm
+箇	Cá		Số đếm
+定	Định	Cố định
+錠	Đĩnh	Cái khóa
+綻	Trán	Đường khâu
+廷	Đình	Triều đình
+庭	Đình	Sân vườn
+艇	Đĩnh	Thuyền nhỏ
+従	Tòng	Làm theo
+縦	Tung	Trục tung
+延	Duyên	Kéo dài
+誕	Đản		Sinh ra

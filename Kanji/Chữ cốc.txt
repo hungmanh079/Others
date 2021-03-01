@@ -1,0 +1,14 @@
+1.Cốc		Thung lũng
+8 Nhân Khẩu sống dưới Thung lũng
+2.Dục		Dục vọng
+Ở Thung lũng Thiếu Dục vọng
+3.Dục		Tắm
+Nước trong Cốc dùng để Tắm
+4.Dung		Nội dung
+Dưới Mái nhà có cái Cốc đang dung
+5.Dung		Dung dịch
+Dung môi hòa vào Nước thành Dung dịch
+6.Tục		Phong tục
+Người sống trong Cốc có Phong tục riêng
+7.Dụ		Giàu có
+Mặc Y phục đẹp trong Cốc là người Giàu có

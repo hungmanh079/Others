@@ -1,0 +1,85 @@
+1.　一	N5	Nhất		Số 1				1 gạch ngang
+2.　ニ	N5	Nhị			Số 2				2 gạch ngang
+3.　三	N5	Tam			Số 3				3 gạch ngang
+4.　四	N5	Tứ			Số 4				Chân chạy 4 góc
+5.　五	N5	Ngũ			Số 5				Tầng 15
+6.　六	N5	Lục			Số 6				Đầu năm phát lộc
+7.　七	N5	Thất		Số 7				Số 7 ngược
+8.　八	N5	Bát			Số 8				Chân đi hình chữ bát
+9.　九	N5	Cửu			Số 9				Giống chữ R
+10.十	N5	Thập		Số 10				Giống dấu cộng
+11.百	N5	Bách		Số 100				Trắng là được 100 điểm
+12.千	N5	Thiên		Nghìn				10 thêm 1 phẩy là 1000
+13.円	N5	Viên		Tiền yên, vòng tròn	
+14.万	N5	Vạn			10 nghìn			Phương thừa, vạn thụt
+15.日	N5	Nhật		Ngày				Hình mặt trời
+16.月	N5	Nguyệt		Tháng, Mặt trăng	Hình mặt trăng
+17.行	N5	Hành		Đi					Bị 1 cái đinh đè vào nhưng vẫn phải đi
+18.母	N5	Mẫu			Mẹ					
+19.年	N5	Niên		Năm					Nằm suốt 4 năm
+20.先	N5	Tiên		Tiên sinh, Trước	Cô tiên chân đất
+21.上	N5	Thượng		Bên trên			Hướng lên
+22.下	N5	Hạ			Bên dưới			Hướng xuống
+23.左	N5	Tả			Bên trái			Ta nói ê bạn là sai trái
+24.右	N5	Hữu			Bên phải			Ta mồm nói điều phải
+25.石	N3	Thạch		Đá					Đá thì phải nhẵn nhụi
+26.友	N5	Hữu			Bạn bè				Ta đi lại cùng bạn
+27.有	N4	Hữu			Có					Chị nguyệt có quả na
+28.図	N4	Đồ			Bản đồ				Đánh dấu x 2 điểm trong phạm vi bản đồ
+29.前	N5	Tiền		Trước				Em nguyệt cầm 21 đao đi trước
+30.後	N5	Hậu			Sau					Yêu thầm lặng lẽ bước phía sau
+31.気	N5	Khí			Nguyên khí			Khí làm người khác mê là nguyên khí
+32.汽	N1	Khí			Hơi nước			Khí có nước là hơi nước
+33.東	N5	Đông		Phía đông			Mặt trời lấp sau cái cây ở phía đông
+34.西	N5	Tây			Phía tây			Có 4 phía nhưng nhất định đi về phía tây
+35.南	N5	Nam			Phía nam			Lúc 10 giờ ở biên giới phía nam thiếu 1 con dê
+36.北	N5	Bắc			Phía bắc			Dựa tường cười hihi nhìn về phía bắc
+37.人	N5	Nhân		Người				
+38.大	N5	Đại			To lớn				Có 1 người rất to cao
+39.犬	N4	Khuyển		Con chó				Con chó to có 1 đốm ở lưỡi
+40.太	N3	Thái		Béo					Vừa to vừa béo
+41.天	N5	Thiên		Trời				To lớn nhất là trời
+42.矢	N1	Thỉ			Mũi tên				Mũi tên bắn lên trời
+43.夫	N3	Phu			Chồng				Cao hơn trời là chồng
+44.失	N3	Thất		Thất bại			Lấy chồng là thất bại
+45.水	N5	Thủy		Nước				Giống như giọt nước bắn sang 2 bên
+46.火	N5	Hỏa			Lửa					Người vẫy tay khi lửa cháy
+47.木	N5	Mộc			Cây					Hình cái cây
+48.金	N5	Kim			Tiền, vàng			Người làm vua có 2 túi tiền
+49.夕	N4	Tịch		Chiều tối			Giống chữ ta trong katakana
+50.風	N4	Phong		Gió					Có 1 con côn trùng đang nấp dưới ghế để tránh gió
+51.和	N3	Hòa			Hòa bình			Thoải mái lúa gạo đưa vào mồm là thời hòa bình
+52.田	N4	Điền		Ruộng				Giống hình ruộng lúa
+53.山	N5	Sơn			Núi					Hình ngọn núi
+54.川	N5	Xuyên		Sông				Sông có 3 dòng nước
+55.口	N4	Khẩu		Cái miệng			Hình cái miệng
+56.小	N5	Tiểu		Nhỏ					Người co tay lại trong sẽ nhỏ
+57.子	N5	Tử			Con					Kết thúc 1 cuộc tình là có đứa con
+58.女	N5	Nữ			Phụ nữ				Phụ nữ không được phân biệt lớn nhỏ
+59.物	N4	Vật			Động vật			Trâu vật là động vật
+60.手	N4	Thủ			Cái tay				Có 3 cái lông ở tay trái
+61.毛	N2	Mao			Lông				Có 3 cái lông ở tay phải
+62　足	N4	Túc			Chân				Người hạ nhân mồm nói chân đi
+63.走	N4	Tẩu			Chạy				Đang chạy dưới đất là hạ nhân
+64.入	N5	Nhập		Đi vào				Ngược với chữ nhân
+65.込	N3	Nhập		Đông đúc			Đi vào nhiều dẫn đến đông đúc
+66.耳	N3	Nhĩ			Tai					Tai dài hơn mắt
+67.恥	N3	Sỉ			Xấu hổ				Tai đỏ vì trong tâm xấu hổ
+68.心	N4	Tâm			Trái tim			Một vầng trăng khuyết 3 sao giữa trời
+69.社	N4	Xã			Xã hội				Xã hội đích thị nhiều đất
+70.光	N3	Quang		Sáng				Người có 1 đôi chân đẹp sẽ tỏa sáng
+71.当	N3	Đương		Đương nhiên			Em xinh đẹp tỏa sáng là đương nhiên
+72.酒	N3	Tửu			Rượu				Ở tây rượu mà có nước với 1 lớp cặn là rượu ngon
+73.画	N4	Họa, hoạch	Họa sĩ				Một khi được tự do thì tôi sẽ há miệng nói về kế hoạch của mình
+74.回	N3	Hồi			Quay lại			Mồm nói liên hồi
+75.向	N3	Hướng		Hướng về			Mồm đang hướng về phía biên giới
+76.馬	N3	Mã			Con ngựa			
+77.鼻	N2	Tịch		Cái mũi				Tự làm ruộng chắp tay thở bằng mũi
+78.竹	N2	Trúc		Tre					Cười keke khi nhìn thấy trúc
+79.村	N2	Thôn		Làng				Trong thôn trồng toàn cây thốn
+80.貝	N2	Bối			Con sò				Con sò có 8 cái mắt
+81.片	N2	Phiến		Tấm, mảnh			Tớ có 4 tấm gỗ
+82.匹	N2	Thất		Đếm con vật			Đếm xem con vật trong tủ đựng có mấy chân
+83.刀	N1	Đao			Con đao				Giống hình cây đao
+84.穴	N1	Huyệt		Cái lỗ				Trên mái nhà có 8 cái lỗ
+85.氏	N1	Thị			Họ					Em là người có họ tên

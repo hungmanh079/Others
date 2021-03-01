@@ -1,0 +1,8 @@
+1.Văn		Văn học		文
+Đầu rất mê văn học
+2.Văn		Hoa văn		紋
+Trong văn học sợi tơ được mô tả rất hoa văn
+3.Văn		Con muỗi	蚊
+Trong văn học con côn trùng là con muỗi
+4.Đối		Phản đối	対
+Làm văn thốn quá nên bị phản đối

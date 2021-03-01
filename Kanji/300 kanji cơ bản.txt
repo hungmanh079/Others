@@ -1,0 +1,324 @@
+一		Nhất 		số một 
+ニ		Nhị 		số hai 
+三		Tam 		số ba 
+四		Tứ 			số bốn 
+五		Ngũ			số năm
+六		Lục 		số sáu 
+七		Thất		số bảy 
+八		Bát 		số tám 
+九		Cửu 		số chín
+十		Thập		số mười
+百		Bách 		một trăm 
+千		Thiên 		một nghìn
+五		Vạn 		mười nghìn
+億		Ức 			một trăm triệu
+兆		Triệu		một nghìn tỷ			4 Triệu cái lông Chân đáng giá Một nghìn tỷ
+金		Kim 		vàng 
+木		Mộc 		cây 
+水		Thủy 		nước 
+火		Hỏa 		lửa 
+土		Thổ			đất
+上		Thượng 		trên 
+下		Hạ 			dưới 
+左		Tả 			trái 
+右		Hữu 		phải 
+石		Thạch		viên đá
+東		Đông 		phía đông
+西		Tây 		phía tây
+南		Nam 		phía nam
+北		Bắc 		phía bắc
+中		Trung		trung tâm
+天		Thiên 		trời 
+地		Địa 		đất 					DÃ(也) THỔ là ĐẤT
+池		Trì 		cái ao 					DÃ(也) THỦY là AO
+汽		Khí 		hơi nước 
+気		Khí			không khí
+円		Viên 		hình tròn 
+雨		Vũ 			mưa 
+士		Sĩ 			nhân sĩ 
+仕		Sĩ 			công việc 				CÔNG VIỆC của NGƯỜI NHÂN SĨ là bảo vệ tổ quốc
+己		Kỉ			bản thân
+人		Nhân 		người 
+了		Liễu 		kết thúc 				Liễu kết thúc thiếu 1 đứa trẻ
+子		Tử 			con 
+字		Tự 			chữ 
+学		Học			học tập
+大		Đại 		to lớn 
+天		Thiên 		trời
+夫		Phu 		chồng
+太		Thái 		béo
+犬		Khuyển		chó
+丈		Trượng 		trượng phu				Thằng to nhưng bị vẹo không phải trượng phu
+矢		Thỉ 		mũi tên
+失		Thất 		thất bại
+竹		Trúc 		cây trúc
+村		Thôn		thôn làng
+王		Vương 		vua chúa 
+玉		Ngọc 		viên ngọc 
+宝		Bảo 		bảo vật 
+国		Quốc 		quốc gia 
+酒		Tửu			rượu					Có mồi ngon như thịt Gà(酉) ta uống Rượu(酒) nhiều như Nước lã(氵)
+山		Sơn 		ngọn núi 
+海		Hải 		biển 
+林		Lâm 		rừng 
+森		Sâm			rừng sâu
+目		Mục 		mắt 
+見		Kiến 		nhìn 
+覚		Giác 		nhớ ra 					Nhìn trong đêm tỏa sáng là nhớ ra
+帰		Quy			trở về					Từ bỏ ĐAO(刀) kiếm ta trở về(QUY 帰) quê hương cầm chổi(TRỬU 帚) quét nhà cho vợ
+貝		Bối 		con sò 
+糸		Mịch 		sợi tơ 
+泉		Tuyền		suối					Nước trắng là nước suối
+線		Tuyến 		tuyến đường				Tuyến đường sợi tơ bên dòng suối
+組		Tổ			tổ chức					THẢ(且) SỢI TƠ(糸) vào TỔ CHỨC kiến lửa
+父		Phụ 		cha 
+母		Mẫu 		mẹ 
+日		Nhật 		ngày 
+月		Nguyệt 		trăng, tháng
+年		Niên		năm
+口		Khẩu 		mồm 
+図		Đồ 			bản đồ 
+豆		Đậu 		hạt đậu 				1 cái mồm ngậm 21 hạt đậu
+耳		Nhĩ 		cái tai 
+音		Âm			âm thanh
+手		Thủ 		cái tay 
+毛		Mao 		cái lông 
+足		Túc 		cái chân 
+走		Tẩu 		chạy 
+頭		Đầu			cái đầu					Đầu óc bã đậu trắng như tờ giấy
+心		Tâm 		trái tim 
+思		Tư 			suy nghĩ 				Trái tim hay suy nghĩ về đồng ruộng
+田		Điền 		ruộng 
+細		Tế 			tế bào 					Mày cầm cuộn CHỈ ra RUỘNG mà TẾ à thằng kia
+紙		Chỉ			tờ giấy					Chỉ thị viết lên giấy
+車		Xa 			xe 
+出		Xuất		đi ra 
+入		Nhập		đi vào 
+込		Nhập		đông đúc 				Đi vào nhiều dẫn tới đông đúc
+友		Hữu			bạn hữu
+男		Nam 		đàn ông 
+女		Nữ 			phụ nữ 
+生		Sinh 		sinh sản
+星		Tinh 		ngôi sao				Mặt trời sinh ra ngôi sao
+死		Tử			chết					Một mình ta cười hihi trước khi chết
+止		Chỉ 		đình chỉ 
+正		Chính		chính xác 				Nhất dương chỉ đã dùng là chính xác
+小		Tiểu 		nhỏ 
+少		Thiểu		thiểu số 
+カ		Lực			sức lực
+魚		Ngư 		cá 
+漁		Ngư 		ngư nghiệp				Tát nước để bắt cá là ngư nghiệp
+早		Tảo 		sớm						Ngày thức dậy lúc 10h là sớm
+草		Thảo 		cỏ 						Cô thảo buổi sớm đi cắt cỏ
+茶		Trà			trà xanh				Cô thảo là người cười hô hô khi uống trà
+青		Thanh 		xanh nước biển			Ông vua thanh lòi đầu chửi em nguyệt xanh mặt
+赤		Xích 		màu đỏ 					Lửa đốt đất ra màu đỏ
+緑		Lục 		xanh lá cây				Em thủy chỉ thích tơ xanh
+由		Do 			tự do 					Tự do cắm cọc trên ruộng
+黄		Hoàng		màu vàng				Ở hàng rào đang đi tự do thì dẵm phải bát vàng
+朝		Triều 		buổi sáng 				Buổi sáng ngày 10 tháng 10
+昼		Trú 		buổi trưa 				Bị xích trong ngày mồng 1 đến buổi trưa
+夕		Tịch 		buổi chiều				
+晩		Vãn 		buổi tối 				Ngày miễn tội thì đi chơi đến tối
+夜		Dạ			buổi đêm				Sau một đêm trở thành người đứng đầu
+才		Tài 		thiên tài 				Ô anh tài
+虫		Trùng 		côn trùng 
+丁		Đinh 		can thứ 4 
+町		Đinh 		thị trấn 				Ruộng có nhiều đinh là ở trong thị trấn
+前		Tiền		trước
+文		Văn 		văn học 
+支		Chi 		chi nhánh				Đi lại ở 10 chi nhánh
+枝		Chi 		cành cây 				Chi nhánh của cây là cành cây
+先		Tiên		trước 
+後		Hậu			sau						Đè trước yêu sau
+白		Bạch 		trắng 
+百		Bách 		một trăm 
+黒		Hắc 		đen 
+社		Xã 			xã hội 					Xã hội đích thị có nhiều đất
+礼		Lễ			lễ nghi					Đích thị L là lễ
+木		Mộc 		cây 
+本		Bản 		sách 
+休		Hưu 		nghỉ ngơi
+体		Thể 		cơ thể 
+保		Bảo			bảo hiểm
+今		Kim 		bây giờ 
+行		Hành 		du hành
+光		Quang 		ánh sáng 				Chân Quang tỏa sáng
+名		Danh 		họ tên 
+立		Lập			đứng
+春		Xuân 		mùa xuân				3 người đi chơi trong ngày xuân
+夏		Hạ 			mùa hạ 					Còn lại 1 mình sau mùa hạ
+秋		Thu 		mùa thu 				Lúa cháy vàng là mùa thu
+冬		Đông		mùa đông				Sau khi có 2 chấm băng là mùa đông
+斗		Đấu 		cái đấu 				Có 2 hạt trong 10 cái đấu
+科		Khoa 		khoa học 				Đấu lúa để nghiên cứu khoa học
+料		Liệu 		nguyên liệu				Đấu gạo là nguyên liệu
+園		Viên 		công viên 				Ra công viên nhét đất vào mồm mọc ra cây kì lạ
+遠		Viễn		xa						Dẫn ra công viên cho xa
+豕		Bộ Thỉ 		con lợn 
+家		Gia 		gia đình 
+欠		Khuyết 		thiếu 
+画		Họa 		hội họa 				Một nghề tự do há mồm là họa sỹ
+面		Diện		mặt, bề ngoài			Bề mặt có 1 mắt một mồm
+何		Hà 			cái gì 
+会		Hội 		gặp gỡ 
+絵		Hội 		hội họa 				Hội thêm tơ ra hội họa
+回		Hồi 		vòng quanh
+同		Đồng		đồng dạng				Ở biên giới có chung 1 mồm rất giống nhau
+外		Ngoại 		bên ngoài 
+当		Đương 		đương nhiên				Em tỏa sáng là đương nhiên
+川		Xuyên 		con sông 
+州		Châu 		châu lục 				Những dòng SÔNG ở các CHÂU lục đều có nhiều CÁT
+歌		Ca			ca hát					Cuộc sống sẽ rất buồn chán nếu Thiếu 欠 Khả Năng 可 Ca, Hát 歌.
+用		Dụng 		sử dụng 
+角		Giác 		góc 					Sử dụng cái móc ở trong góc
+勇		Dũng 		dũng cảm				Đàn ông không sợ ma thì rất dũng cảm
+通		Thông		giao thông				Sử dụng ma để dẫn đường giao thông
+曜		Diệu		ngày
+九		Cửu 		số chín 
+究		Cứu 		nghiên cứu				Nghiên cứu 9 cái lỗ
+丸		Hoàn 		hình tròn 				Số 9 bị cắt đuôi thì hoàn tròn
+顔		Nhan 		khuôn mặt				Đứng ở sườn núi xõa tóc giấy bay vỡ mặt
+切		Thiết		cắt
+舌		Thiệt 		cái lưỡi 				Mồm có nghìn cái lưỡi
+活		Hoạt 		sinh hoạt 				Lưỡi phải có nước mới sinh hoạt được
+話		Thoại 		đàm thoại				Lời nói từ cái lưỡi là đàm thoại
+楽		Lạc 		vui 					Cây bắn nước trắng tung tóe là đang vui
+薬		Dược		thuốc					Loại thảo dược làm mình vui vẻ hơn là thuốc
+門		Môn 		cổng, cửa 
+問		Vấn 		hỏi 
+聞		Văn 		nghe 
+間		Gian 		thời gian 
+簡		Giản		đơn giản
+石		Thạch 		đá 
+風		Phong 		gió 
+岩		Nham 		nham thạch				Dưới núi lửa có đá là nham thạch
+明		Minh 		sáng 
+鳴		Minh		kêu réo					Mồm con chim đang kêu réo
+己		Kỉ 			bản thân 
+紀		Kỉ 			thế kỉ 
+記		Kí 			nhật kí 				Lời nói của bản thân viết vào nhật kí
+配		Phối 		phân phối 
+起		Khởi		thức dậy				Bản thân thức dậy chạy vào lúc 2h
+午		Ngọ 		buổi trưa 
+牛		Ngưu 		con trâu 
+羊		Dương 		con cừu 
+鳥		Điểu 		con chim 				Nướng 5 con chim trắng
+馬		Mã			con ngựa
+許		Hứa 		cho phép 
+京		Kinh 		kinh đô 
+亭		Đình 		đình làng 				Đầu khẩu mịch đinh là đình
+任		Nhiệm 		trách nhiệm				Người làm vua phải có trách nhiệm
+舟		Chu			thuyền					Giống cái thuyền có 2 người đang chèo
+強		Cường 		khỏe 					Dùng cung bắng 4 côn trùng thì phải khỏe
+弱		Nhược 		yếu 					Sống ở trong cung băng thì nhược yếu
+引		Dẫn 		kéo ra 					Cầm cán kéo cung
+羽		Vũ 			lông chim 
+習		Tập			tập luyện
+老		Lão 		người già 				Chống gậy xuống đất cười hihi là người già
+考		Khảo 		suy nghĩ 				Chống gậy xuống đất suy nghĩ 5 lần
+教		Giáo 		giáo dục 				Giáo dục đứa con sau hiếu thảo
+斤		Cân 		đơn vị đo, rìu			Sườn núi có cái rìu to
+近		Cận			gần						Cầm rìu dẫn đường cận chiến
+研		Nghiên 		nghiên cứu				Chắp tay nghiên cứu đá
+校		Hiệu 		trường học			CHA lần ĐẦU trồng CÂY cho ngôi TRƯỜNG này
+交		Giao 		giao lưu 				Lần đầu giao lưu với bố vợ
+言		Ngôn 		nói 
+語		Ngữ			ngôn ngữ
+公		Công 		công cộng				84 là biển công cộng
+広		Quảng 		rộng 					Hiên nhà rộng 4 mét
+尸		Thi 		thây ma 
+戸		Hộ 			cánh cửa
+音		Thanh		âm thanh
+化		Hóa 		biến hóa 
+花		Hoa 		bông hoa 
+雲		Vân 		mây 
+電		Điện 		dòng điện
+雪		Tuyết		bông tuyết
+兄		Huynh 		anh trai 
+弟		Đệ 			em trai 				
+市		Thị 		thành phố				Đầu quàng khăn là người thành phố
+姉		Tỉ 			chị gái 				Chị gái là con gái thành phố
+妹		Muội		em gái
+番		Phiên 		lần lượt 				Đến phiên vác gạo ra đồng
+分		Phân 		phân chia 
+歩		Bộ 			đi bộ 
+方		Phương 		phương hướng
+毎		Mỗi			mỗi ngày
+弓		Cung 		cung tên 
+元		Nguyên 		nguyên khí
+原		Nguyên 		nguyên nhân				Nguyên nhân sườn núi trắng nhỏ
+工		Công 		công trường				
+空		Không		không khí				Cái lỗ ở công trường thoát ra không khí
+合		Hợp 		tập hợp 				Người có 1 cái miệng là hợp lý
+谷		Cốc 		thung lũng
+道		Đạo 		đường đi 				Dẫn đường cho thủ tướng
+首		Thủ 		cái cổ, thủ tướng		21 tuổi tự làm thủ tướng
+色		Sắc			màu sắc					Sang nhật bị móc hết đồ là mặt biến sắc
+米		Mễ 			gạo 
+来		Lai 		đi đến
+内		Nội 		bên trong 				Người sống bên trong biên giới
+肉		Nhục 		thịt
+食		Thực		ăn
+寺		Tự 			chùa 
+時		Thời 		thời gian 
+新		Tân 		mới 
+親		Thân 		thân thích
+数		Số			số liệu, chữ số			Người con gái ăn gạo đánh chồng là có số má
+自		Tự 			bản thân 
+室		Thất 		phòng 					Dưới mái nhà phòng 14m đất
+週		Chu 		tuần 					Dẫn ra biên giới nhét đất vào mồm 1 tuần
+書		Thư 		sách 
+場		Trường		công trường				Sang Nhật sống như 1 con vật ở công trường
+里		Lý 			đơn vị, độ dài			Ruộng đất của ông Lý để đo độ dài
+理		Lý 			lý do, vật lý			Ông vua xử ông lý là có lý do
+埋		Mai 		chôn					Chôn ông lý xuống đất
+予		Dự 			dự báo					Gặp Ma dự sẽ hét Aaaaa
+野		Dã			hoang dã				Ông lý dự là sắp bị dã
+点		Điểm 		điểm số 				Đốt lửa xem bói mở mồm chỉ điểm
+店		Điếm 		cửa hàng 				Dưới hiên cửa hàng xem bói
+売		Mại 		bán 
+読		Độc 		đọc 
+買		Mãi			mua
+計		Kế 			kế hoạch 				Nói 10 lần ra kế hoạch
+古		Cổ 			cổ kính, cũ				
+高		Cao 		chiều cao, đắt			Lúc đầu mồm to nhưng ở biên giới cao thì mồm nhỏ lại
+作		Tác 		tác giả 				Người đứng bị ép sáng tác là tác giả
+算		Toán		toán học
+晴		Tình 		trời nắng 				Cả ngày trời xanh là trời nắng
+船		Thuyền 		cái thuyền				Ngồi trên thuyền tám chuyện bằng mồm
+多		Đa 			nhiều 
+台		Đài 		vũ đài 					4 cái mồm nói như đài
+知		Tri			tri thức				Mũi tên cắm mồm là có tri thức
+長		Trường 		dài 					Em mặc y phục dài
+直		Trực 		trực tiếp 
+答		Đáp 		đáp án 					Trúc trả lời rất hợp với đáp án
+麦		Mạch 		lúa mạch 				Ông vua lòi đầu truy tìm lúa mạch
+半		Bán			một nửa					Chặt 3 cái que ra làm đôi, nhưng chỉ có 1 nửa bị đứt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

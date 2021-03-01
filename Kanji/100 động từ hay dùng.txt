@@ -1,0 +1,100 @@
+行く		[いく]		iku 		:  đi
+見る		[みる]		miru 		:  nhìn, xem, ngắm
+する		[する]		suru		:  làm
+出る		[でる]		deru		:  đi ra, rời khỏi
+使う		[つかう]		tuskau		:  sử dụng
+作る		[つくる]		tsukuru		:  làm, tạo ra
+思う		[おもう]		omou		:  nghĩ
+持つ		[もつ]		motsu		:  cầm, nắm, có
+買う		[かう]		kau			:  mua
+知る		[しる]		shiru		:  biết
+なる		[なる]		naru		:  trở nên, trở thành
+聞く		[きく]		kiku		:  nghe, hỏi
+言う		[いう]		iu			:  nói
+終わる	[おわる]		owaru		:  kết thúc
+あげる		[あげる]		ageru		:  cho, tặng
+くれる		[くれる]		kureru		:  nhận được
+始める	[はじめる]		hajimeru	:  bắt đầu
+起きる		[おきる]		okiru		:  thức  dậy
+置く		[おく]		oku			:  đặt, để
+住む		[すむ]		sumu		:  sống
+働く		[はたらく]		hataraku	:  làm việc
+立つ		[たつ]		tatsu		:  đứng
+呼ぶ		[よぶ]		yobu		:  gọi
+帰る		[かえる]		kaeru		:  trở về
+分かる	[わかる]		wakaru		:  hiểu, biết
+走る		[はしる]		hashiru		:  chạy
+入れる	[いれる]		ireru		:  đặt vào, cho vào
+教える	[おしえる]		oshieru		:  dạy, chỉ bảo
+歩く		[あるく]		aruku		:  đi bộ
+会う		[あう]		au			:  gặp gỡ
+書く		[かく]		kaku		:  viết
+売る		[うる]		uru			:  bán
+飛ぶ		[とぶ]		tobu		:  bay
+読む		[よむ]		yomu		:  đọc
+飲む		[のむ]		nomu		:  uống
+起こす	[おこす]		okosu		:  đánh thức
+見せる	[みせる]		miseru		:  cho xem, cho thấy
+楽しむ	[たのしむ]		tanoshimu	:  thưởng thức
+取る		[とる]		toru		:  lấy, có được
+できる		[できる]		dekiru		:  có thể
+落ちる		[おちる]		ochiru		:  ngã, rơi xuống
+払う		[はらう]		harau		:  chi trả
+見つける	[みつける]		mitsukeru	:  tìm thấy
+忘れる	[わすれる]		wasureru	:  quên
+覚える	[おぼえる]		oboeru		:  nhớ
+着る		[きる]		kiru		:  mặc
+笑う		[わらう]		warau		:  cười
+探す		[さがす]		sagasu		:  tìm kiếm
+歌う		[うたう] 		utau		:  hát
+遊ぶ		[あそぶ]		 asobu		:  chơi
+座る		[すわる]		suwaru		:  ngồi
+浴びる	[あびる]		 abiru		:  tắm
+寝る		[ねる]		neru		:  ngủ
+消す		[けす]		kesu		:  tắt (điện)
+引く		[ひく]		hiku		:  kéo (níu kéo)
+上げる	[あげる]		ageru		:  nâng lên, đưa lên
+やる		[やる]		yaru		:  làm
+起こる		[おこる]		okoru		:  xảy ra, diễn ra
+送る		[おくる]		okuru		:  gửi
+死ぬ		[しぬ]		shinu		:  chết
+乗る		[のる]		noru		:  lên (xe..)
+いる		[いる]		iru			:  ở, có
+開ける	[あける]		akeru		:  mở (cửa)
+閉める	[しめる]		shimeru		:  đóng (cửa)
+続く		[つづく]		tsuduku		:  tiếp tục
+待つ		[まつ]		matsu		:  đợi , chờ
+もらう		[もらう]		morau		:  nhận
+食べる	[たべる]		taberu		:  ăn
+話す		[はなす]		hanasu		:  nói chuyện
+閉じる		[とじる]		tojiru		:  đóng, nhắm (ví dụ, đóng sách, nhắm mắt)
+切る		[きる]		kiru		:  cắt
+手伝う	[てつだう]		tetsudau	:  giúp đỡ
+起きる		[おきる]		okiru		:  dậy, thức giấc
+載せる	[のせる]		noseru		:  đặt lên
+しゃべる	[しゃべる]		shaberu		:  tán chuyện
+始まる		[はじまる]		hajimaru	:  bắt đầu
+泊まる		[とまる]		tomaru		:  trọ lại
+掛ける	[かける]		kakeru		:  treo lên, đặt lên
+曲がる	[まがる]		magaru		:  rẽ
+要る		[いる]		iru			:  cần
+晴れる	[はれる]		hareru		:  nắng
+空く		[すく]		suku		:  vắng vẻ
+上る		[のぼる]		noboru		:  leo lên
+つける		[つける]		tsukeru		:  bật (đèn)
+入る		[はいる]		hairu		:  nhập vào
+開く		[ひらく]		hiraku		:  mở (ví dụ mở sách, mở mắt..)
+締める	[しめる]		shimeru		:  buộc chặt, thắt
+曇る		[くもる]		kumoru		:  có mây
+触る		[さわる]		sawaru		:  chạm, sờ
+渇く		[かわく]		kawaku		:  khát
+直る		[なおる]		naosu		:  sửa
+考える	[かんがえる]	kangaeru	:  suy nghĩ, cân nhắc
+戻る		[もどる]		modoru		:  trở lại
+変える	[かえる]		kaeru		:  thay đổi
+頑張る	[がんばる]		ganbaru		:  cố gắng
+来る		[くる]		kuru		:  đến
+違う		[ちがう]		chigau		:  khác, sai rồi
+ある		[ある]		aru			:  có, ở
+答える	[こたえる]		kotaeru		:  trả lời
+出す		[だす]		dasu		:  lấy ra

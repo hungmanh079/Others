@@ -1,0 +1,16 @@
+1.Trọng		Nặng
+Xe chở Nặng 2 đầu
+2.Chủng		Chủng loại
+Trọng lượng Lúa gạo là do Chủng loại
+3.Thũng		Sưng lên
+Nguyệt Nặng là do chỗ tay Sưng lên
+4.Xung		Xung đột
+Ăn Hành Nặng mùi dẫn tới Xung đột
+5.Động		Chuyển động
+Trọng Lực = Chuyển động
+6.Động		Lao động
+Người Chuyển động là Lao động
+7.Huân		Huân chương
+Chuyển động trên Lửa nhận được Huân chương
+8.Huân		Thơm
+Cỏ Nặng bị Lửa đốt cháy tạo ra mùi Thơm

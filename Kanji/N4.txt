@@ -1,0 +1,254 @@
+Âm		音	Âm thanh
+Ám		暗	Tối
+Ý		意	Ý kiến
+Ức		憶	Ký ức
+Ức		億	100 triệu
+Hóa		化	Biến hóa
+Hoa		花	Bông hoa
+Hóa		貨	Hàng hóa
+Ngoa	靴	Giầy
+Cách	革	Cải cách
+Bối		貝	Con sò
+Bại		敗	Thất bại
+Phụ		負	Thua
+Nhĩ		耳	Tai
+Nhị		餌󠄀	Mồi câu
+Thỉ		矢	Mũi tên
+Y		医	Y học
+Thất	失	Thất bại
+Trật	秩	Trật tự
+Thiết	鉄	Sắt
+Thái	太	Béo
+Đà		駄	Thồ hàng
+Khuyển	犬	Con chó
+Phục	伏	Phục kích
+Hiến	献	Dâng hiến
+Biệt	別	Phân biệt
+Phi		飛	Bay
+Phản	対	Phản đối
+Điền	畑	Ruộng
+Xa		車	Xe
+Khố		庫	Kho
+Liên	連	Liên lạc
+Vận		運	Vận chuyển
+Túc		足	Chân
+Xúc		促	Xúc tiến
+Tẩu		走	Chạy
+Đồ		徒	Sinh đồ
+Lực		力	Sức mạnh
+Lao		労	Lao động
+Lệ		励	Khích lệ
+Cân		筋	Bắp thịt
+Chỉ		止	Dừng lại
+Xí		企	Xí nghiệp
+Chính	正	Chính xác
+Chính	政	Chính trị
+Thu		秋	Mùa thu
+Sầu		愁	Buồn
+Đông	冬	Mùa đông
+Chung	終	Kết thúc
+Tất		必	Tất yếu
+Hảo		好	Thích
+Tuế		歳	Tuổi
+Trát	札	Tiền giấy
+Loát	刷	In ấn
+Khả		可	Khả năng
+Hà		河	Sông
+Hà		何	Cái gì
+Hà		荷	Hành lý
+Hà		苛	Bắt nạt
+Trung	中	Giữa
+Trùng	虫	Côn trùng
+Trọng	仲	Quan trọng
+Trung	忠	Trung thực
+Trùng	沖	Rộng lớn
+Khiếm	欠	Thiếu
+Thứ		次	Tiếp theo
+Xúy		吹	Thổi
+Xúy		炊	Đun nấu
+Ẩm		飲	Uống
+Văn		文	Văn học
+Văn		紋	Hoa văn
+Vằn		蚊	Con muỗi
+Bạch	白	Trắng
+Bách	百	100
+Túc		宿	Trọ lại
+Chi		支	Chi nhánh
+Chi		枝	Cành cây
+Kĩ		技	Kĩ thuật
+Kĩ		伎	Kĩ nghệ
+Kì		岐	Phân nhánh
+Chi		肢	Chân tay
+Tiên	先	Trước
+Tẩy		洗	Rửa
+Thị		視	Thị lực
+Quan	観	Quan sát
+Bảo		保	Bảo hiểm
+Bao		褒	Khen ngợi
+Lập		立	Đứng
+Vị		位	Vị trí
+Khốc	泣	Khóc
+Viên	園	Công viên
+Viễn	遠	Xa
+Viên	猿	Con khỉ
+Biện	弁	Biện luận
+Thăng	升	Đơn vị đo, lên
+Thăng	昇	Thăng chức
+Tống	送	Đưa đi			TỐNG tiễn lên tây THIÊN
+Tiếu	笑	Cười
+Tiếu	咲	Nở hoa			MỒM QUAN NỞ HOA trông thật TIẾU
+Hoàng	黄	Màu vàng
+Hoành	横	Hoành tráng
+Lục		録	Kỷ lục
+Lục		緑	Xanh lá cây
+Duyên	縁	Duyên phận
+Dũng	勇	Dũng cảm
+Dũng	踊	Nhảy múa
+Thông	通	Giao thông
+Thống	痛	Đau
+Dũng	湧	Sôi sục
+Giải	解	Giải quyết
+Xúc		触	Xúc giác		XÚC con CÔN TRÙNG ở trong GÓC
+Sảnh	庁	Đại sảnh
+Trữ		貯	Tích trữ
+Quan	関	Liên quan
+Khai	開	Mở
+Bế		閉	Đóng
+Đấu		闘	Chiến đấu
+Lan		欄	Lan can
+Nhuận	潤	Lợi nhuận
+Ám		闇	U ám
+Các		閣	Nội các
+Duyệt	閲	Kiểm duyệt
+Phiệt	閥	Quân phiệt
+Nhàn	閑	Nhàn rỗi
+Tài		才	Thiên tài
+Tài		材	Tài nguyên
+Tài		財	Tài chính
+Nha		牙	Răng
+Nha		芽	Mạch nha
+Can		干	Khô
+Hứa		許	Cho phép
+Kiện	件	Sự kiện
+Trì		遅	Muộn
+Loại	類	Chủng loại
+Thạch	石	Đá
+Hôi		灰	Tro
+Khào	尻	Mông
+Phong	風	Gió
+Bằng	棚	Cái giá
+Nham	岩	Nham thạch
+Than	炭	Than đá
+Ngạn	岸	Bờ biển
+Lam		嵐	Bão tố
+Băng	崩	Phá hủy
+Nguyên	元	Nguyên khí
+Hoàn	完	Hoàn thành
+Ngoan	頑	Ngoan cố
+Ngoạn	玩	Du ngoạn
+Quán	冠	Đứng đầu
+Đầu		頭	Cái đầu
+Nhan	顔	Khuôn mặt
+Giáp	頰	Cái má
+Ngạc	顎	Cái cằm
+Ngạch	額	Cái trán
+Mịch	糸	Sợi tơ
+Hệ		系	Hệ thống
+Hệ		係	Quan hệ
+Tôn		孫	Cháu
+Tốn		遜	Khiêm tốn
+Quát	括	Bao quát
+Loạn	乱	Hỗn loạn
+Kị		忌	Đố kị
+Cải		改	Cải cách
+Phi		妃	Phi tần
+Lưu		流	Giao lưu
+Lưu		硫	Lưu huỳnh
+Quy		帰	Trở về
+Tảo		掃	Quét, dọn
+Phụ		婦	Phụ nữ
+Kinh	京	Kinh đô
+Kình	鯨	Cá voi
+Lương	涼	Mát mẻ
+Đình	亭	Đình làng
+Đình	停	Đình chỉ
+Cận		近	Gần
+Kỳ		祈	Cầu chúc
+Tượng	匠	Thợ
+Thệ		逝	Chết
+Thệ		誓	Tuyên thệ
+Tích	析	Phân tích
+Lão		老	Người già
+Khảo	考	Suy nghĩ
+Khảo	拷	Tra khảo
+Hiếu	孝	Hiếu thảo
+Giáo	教	Giáo dục
+Giếu	酵	Lên men
+Điếu	弔	Viếng thi
+Đệ		弟	Em trai
+Đệ		第	Đệ nhất
+Ngôn	言	Nói
+Ngữ		語	Ngôn ngữ
+Tín		信	Tin tưởng
+Huynh	兄	Anh trai
+Huống	況	Tình huống
+Chúc	祝	Chúc mừng
+Chú		呪	Thần chú
+Khắc	克	Khắc phục
+Đảng	党	Đảng phái
+Thuế	税	Tô thuế
+Thuyết	説	Tiểu thuyết
+Nhuệ	鋭	Nhọn, sắc
+Thoát	脱	Thoát y
+Duyệt	悦	Mãn nguyện
+Duyệt	閲	Kiểm duyệt
+Công	工	Công trường
+Công	攻	Công kích
+Công	功	Thành công
+Cống	貢	Cống hiến
+Đột		突	Đột nhiên
+Không	空	Không khí
+Khống	控	Khống chế
+Song	窓	Cửa sổ
+Công	公	Công cộng
+Ông		翁	Ông già
+Quảng	広	Rộng
+Khoáng	鉱	Khoáng sản
+Khuếch	拡	Khuếch đại
+Minh	明	Sáng
+Minh	盟	Đồng minh
+Lô		炉	Cái lò
+Sở		所	Nơi chốn
+Thanh	声	Âm thanh
+Cao		高	Chiều cao
+Cảo		稿	Bản thảo
+Hào		豪	Hào hoa
+Kiều	橋	Cây cầu
+Kiểu	矯	Nắn thẳng
+Phụ		父	Bố
+Giao	交	Giao lưu
+Ngoại	郊	Ngoại ô
+Hiệu	校	Trường học
+Hiệu	効	Hiệu quả
+Cổ		古	Cũ
+Khổ		苦	Khốn khổ
+Khô		枯	Khô héo
+Cư		居	Cư trú			XÁC CHẾT CỔ tìm nơi CƯ TRÚ
+Cư		据	Lắp đặt
+Cư		裾	Vạt áo
+Cố		固	Kiên cố
+Cố		故	Sự cố
+Hồ		湖	Cái hồ
+Cá		個	Cá thể, đếm
+Cá		箇	Số đếm
+Định	定	Cố định
+Đĩnh	錠	Cái khóa
+Trán	綻	Đường khâu
+Đình	廷	Triều đình
+Đình	庭	Sân vườn
+Đĩnh	艇	Thuyền nhỏ
+Tòng	従	Làm theo
+Tung	縦	Trục tung
+Duyên	延	Kéo dài
+Đản		誕	Sinh ra
+Duyên	縁	Duyên phận
