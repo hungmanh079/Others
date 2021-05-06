@@ -1,0 +1,54 @@
+ハイキング						Môn thể thao đi bộ
+てんき			天気				Thời tiết
+あめ			雨				Mưa
+かぜ			風				Gió
+ゆき			雪				Tuyết
+そら			空				Bầu trời
+かわ			川				Sông
+みず			水				Nước
+て			手				Bàn tay
+はやし			林				Rừng
+ひるごはん		昼ご飯			Bữa trưa
+おちゃ			お茶				Trà
+びょうき		病気				Ốm, bệnh tật
+ひがし			東				Đông
+にし			西				Tây
+みなみ		南				Nam
+きた			北				Bắc
+どちら							Phía nào
+こちら							Phía này
+そちら							Phía đấy
+あちら							Phía đằng kia
+なります						Trở nên
+ふります		降ります			Rơi (tuyết, mưa)
+ふきます		吹きます			Thổi (gió…)
+やみます						Dừng, tạnh (mưa, tuyết, gió)
+つかれます						Mệt mỏi
+あらいます		洗います			Rửa
+いい							Tốt, đẹp
+わるい							Tồi, xấu
+あつい			熱い				Nóng (khi chạm phải vật gì đó)
+つめたい		冷たい			Lạnh (khi chạm phải vật gì đó)
+すずしい						Mát
+おいしい						Ngon
+まずい							Không ngon, dở, chán
+うるさい						Ầm ĩ, ồn ào
+おもい			重い				Nặng
+かるい			軽い				Nhẹ
+ふとい			太い				Dày, mập, béo
+ほそい			細い				Mỏng, gầy
+つよい			強い				Khỏe, rắn chắc
+よわい			弱い				Yếu
+あたたかい						Ấm áp
+きたない						Bẩn thỉu
+きれいな						Sạch sẽ
+げんきな		元気な			Khỏe mạnh
+もう（たべました）	もう（食べました）		Đã ăn
+まだ（たべません）	まだ（食べません）		Chưa ăn
+いつも							Luôn luôn
+いちばん		一番				Nhất (so sánh)
+みんな						Tất cả 
+よかったです　					Tốt quá!
+どうもすみません					Tôi rất xin lỗi, rất lấy làm tiếc
+いただきます						Câu mời trước khi ăn, uống gì đó
+（いちにち）じゅう　	（一日）じゅう			Suốt một ngày

@@ -1,0 +1,61 @@
+がっこう		学校			Trường học
+きょうしつ		教室			Lớp học
+しょくどう		食堂			Nhà ăn tập thể 
+しょっけん					Vé ăn
+パン						Bánh mỳ
+ぎゅうにゅう		牛乳			Sữa bò
+ジュース					Nước hoa quả
+レストラン					Nhà hàng
+スープ						Súp
+にわ			庭			Sân, vườn
+たてもの		建物			Tòa nhà
+りょう						Kí túc xá
+びょういん		病院			Bệnh viện
+じむしつ		事務室		Văn phòng
+としょしつ		図書室		Phòng đọc 
+たいいくかん　	体育館		Phòng tập thể dục
+トイレ						Nhà vệ sinh
+うち						Nhà
+かみ			紙			Giấy
+さかな			魚			Cá
+やま			山			Núi
+ふじさん		ふじ山		Núi Phú sĩ
+いま			今			Hiện tại, bây giờ
+どこ						Nơi nào, chỗ nào
+どんな（カメラ）　　				Như thế nào (đứng trước danh từ )
+いくら						Bao nhiêu tiền?
+なんじ			何時			Mấy giờ?
+ここ						Chỗ này
+そこ						Chỗ đấy
+あそこ						Chỗ kia
+ちいさい		小さい		Nhỏ, bé
+あかい			赤い			Đỏ
+しろい			白い			Trắng
+おおきい		大きい		To, lớn
+たかい			高い			Đắt, cao
+やすい			安い			Rẻ
+あたらしい		新しい		Mới
+きいろい		黄色い		Vàng
+ひくい			低い			Thấp
+くらい			暗い			Tối
+あかるい		明るい		Sáng
+ふるい			古い			Cũ
+あおい			青い			Xanh da trời
+くろい			黒い			Đen
+そして						Và, thế rồi, sau đó... (từ nối)
+おはようございます				Xin chào (buổi sáng)
+こんにちは					Xin chào (buổi trưa)
+こんばんは					Xin chào (buổi tối)
+さようなら					Tạm biệt
+いちじはん		一時半		Một tiếng rưỡi
+ひゃくえん		百円			Một trăm Yên
+ごふん			五分			Năm phút
+ろっぷん		六分			Sáu phút
+（ごふん）まえ		（五分）前		…kém năm phút
+（ごふん）すぎ		（五分）すぎ		…hơn năm phút
+1,2,3,4,5,6,7,8,9,10	一、二、三、四、五、六、七、八、九、十		Một,Hai,Ba,Bốn,Năm,Sáu,Bảy,Tám,Chín,Mười
+10,20,30,40,50,60,70,80,90,100		十、二十、三十、四十、五十、六十、七十、八十、九十、百		Mười,Hai mươi,Ba mươi,Bốn mươi,Năm mươi,Sáu mươi,Bảy mươi,Tám mươi,Chín mươi,Một trăm
+100,200,300,400,500,600,700,800,900,1000		百、二百、三百、四百、五百、六百、七百、八百、九百、千		Một trăm,Hai trăm,Ba trăm,Bốn trăm,Năm trăm,Sáu trăm,Bảy trăm,Tám trăm,Chín trăm,Một nghìn
+1000,2000,3000,4000,5000,6000,7000,8000,9000,10000		千、二千、三千、四千、五千、六千、七千、八千、九千、一万		Một nghìn,Hai nghìn,Ba nghìn,Bốn nghìn,Năm nghìn,Sáu nghìn,Bảy nghìn,Tám nghìn,Chín nghìn,Mười nghìn
+1じ,2じ,3じ,4じ,5じ,6じ,7じ,8じ,9じ,10じ,11じ,12じ,なんじ		一時、二時、三時、四時、五時、六時、七時、八時、九時、十時、十一時、十二時、何時		Một giờ,Hai giờ,Ba giờ,Bốn giờ,Năm giờ,Sáu giờ,Bảy giờ,Tám giờ,Chín giờ,Mười giờ,Mười một giờ,Mười hai giờ,Mấy giờ?
+1ぷん,2ふん,3ぷん,4ぷん,5ふん,6ぷん,7ふん,8ぷん,9ふん,10ぷん,なんぷん		一分、二分、三分、四分、五分、六分、七分、八分、九分、十分、何分		Một phút,Hai phút,Ba phút,Bốn phút,Năm phút,Sáu phút,Bảy phút,Tám phút,Chín phút,Mười phút

@@ -1,537 +1,537 @@
-者	Giả		Tác giả
-都	Đô		Đô hội
-暑	Thử		Sức nóng
-署	Thự		Chức vụ
-奢	Xa		Xa hoa
-賭	Đổ		Đánh bạc
-諸	Chư		Chư hầu
-緒	Tự		Cùng nhau
-煮	Chử		Đun nấu
-著	Trứ		Trứ danh
-箸	Trứ		Đôi đũa
-敕	Sắc		Sắc lệnh
-整	Chỉnh	Chỉnh đốn
-征	Chinh	Chinh phục
-証	Chứng	Chứng minh
-症	Chứng	Triệu chứng
-主	Chủ		Ông chủ
-注	Chú		Chú ý
-住	Trú		Cư trú
-柱	Trụ		Trụ cột
-駐	Trú		Bãi đậu xe
-往	Vãng	Vãng lai
-式	Thức	Hình thức
-拭	Thức	Lau chùi
-試	Thí		Thí nghiệm
-武	Vũ		Vũ khí
-賦	Phú		Phú quý
-賊	Tặc		Hải tặc
-川	Xuyên	Sông
-州	Châu	Cửu châu
-順	Thuận	Thuận lợi
-訓	Huấn	Huấn luyện
-暖	Noãn	Ấm nóng
-緩	Hoãn	Trì hoãn
-援	Viện	Viện trợ
-媛	Viện	Bà hoàng
-受	Thụ		Nhận
-授	Thụ		Trao cho
-愛	Ái		Tình yêu
-曖	Ái		Mập mờ
-相	Tương	Tương tự
-箱	Tương	Cái hộp
-想	Tưởng	Tưởng tượng
-霜	Sương	Sương giá
-象	Tượng	Con voi
-像	Tượng	Tưởng tượng
-将	Tương	Tương lai
-奨	Tưởng	Học bổng
-重	Trọng	Trọng lượng
-種	Chủng	Chủng loại
-衝	Xung	Xung đột
-腫	Thũng	Khối u
-宿	Túc		Nhà trọ
-縮	Xúc		Co lại
-述	Thuật	Thuật lại
-術	Thuật	Phép thuật
-召	Triệu	Triệu tập
-紹	Thiệu	Giới thiệu
-昭	Chiêu	Chiêu hòa
-招	Chiêu	Chiêu đãi
-超	Siêu	Siêu phàm
-照	Chiếu	Chiếu sáng
-詔	Chiếu	Chiếu chỉ
-沼	Chiểu	Đầm, ao
-拐	Quải	Bắt cóc
-火	Hỏa		Lửa
-炎	Viêm	Cháy lớn
-談	Đàm		Đàm thoại
-淡	Đạm		Thanh đạm
-券	Khoán	Chứng khoán
-巻	Quyển	Quyển sách
-圏	Quyển	Khí quyển
-拳	Quyền	Nắm đấm
-読	Độc		Đọc
-続	Tục		Liên tục		TƠ được BÁN LIÊN TỤC
-勝	Thắng	Thắng lợi
-藤	Đằng	Hoa tử đằng
-騰	Đằng	Tiến lên
-謄	Đằng	Sao chép
-興	Hưng	Hưng phấn
-衆	Chúng	Công chúng
+者	Giả		Tác giả				Sắp xuống đất, phải chống gậy cả ngày là tác giả
+都	Đô		Đô hội				Tác giả đi với bồ ra đô hội (thành phố)
+暑	Thử		Sức nóng			Tác giả đứng dưới mặt trời thử sức nóng
+署	Thự		Chức vụ				Mắt của tác giả nhắm vào chức vụ
+奢	Xa		Xa hoa				Tác giả lớn có cuộc sống xa hoa
+賭	Đổ		Đánh bạc			Tác giả mang bảo bối đi đánh bạc
+諸	Chư		Chư hầu				Tác giả nói chuyện với chư hầu
+緒	Tự		Cùng nhau			Tác giả đi buôn tơ lụa cùng nhau
+煮	Chử		Đun nấu				Tác giả dùng lửa để đun nấu
+著	Trứ		Trứ danh			Cô thảo là tác giả trứ danh
+箸	Trứ		Đôi đũa				Tác giả dùng trúc làm đôi đũa
+敕	Sắc		Sắc lệnh			Sắc lệnh vừa thúc vừa đánh
+整	Chỉnh	Chỉnh đốn			Sắc lệnh chính xác không cần chỉnh đốn
+征	Chinh	Chinh phục			Đè chính xác để chinh phục
+証	Chứng	Chứng minh			Lời nói chính xác để chứng minh
+症	Chứng	Triệu chứng			Chính xác mắc bệnh thì phải có triệu chứng
+主	Chủ		Ông chủ				Chấm vua là ông chủ
+注	Chú		Chú ý				Rót nước cho ông chủ phải chú ý
+住	Trú		Cư trú				Người làm chủ nơi cư trú
+柱	Trụ		Trụ cột				Cây chủ yếu làm trụ cột
+駐	Trú		Bãi đậu xe			Con ngựa làm chủ bãi đậu xe
+往	Vãng	Vãng lai			Khách vãng lai đè ông chủ
+式	Thức	Hình thức			Chiếm lấy công thức
+拭	Thức	Lau chùi			Lau chùi mà dùng tay chỉ là hình thức
+試	Thí		Thí nghiệm			Lời nói chỉ là hình thức, cần phải làm thí nghiệm
+武	Vũ		Vũ khí				Chỉ dừng lại 1 khi đã chiếm được vũ khí
+賦	Phú		Phú quý				Bảo bối là vũ khí của gia đình phú quý
+賊	Tặc		Hải tặc				Qua 10 lần ăn cướp bảo bối trở thành hải tặc
+川	Xuyên	Sông				Xuyên là sông
+州	Châu	Cửu châu			Sông có 3 châu
+順	Thuận	Thuận lợi			Giấy trôi trên sông rất thuận lợi
+訓	Huấn	Huấn luyện			Lời nói tuôn như sông là đang huấn luyện
+暖	Noãn	Ấm nóng				Hai bạn cào cấu nhau cả ngày thì nóng lên
+緩	Hoãn	Trì hoãn			Hai bạn cào cấu nhau nên việc dệt tơ bị trì hoãn
+援	Viện	Viện trợ			Hai bạn cào cấu nhau bằng tay nên phải nhập viện
+媛	Viện	Bà hoàng			Người phụ nữ đang cào cấu 2 bạn là bà hoàng
+受	Thụ		Nhận				Cào cấu nhau trong đêm lại có cảm giác hưởng thụ
+授	Thụ		Trao cho			Tay sau khi nhận thì trao cho
+愛	Ái		Tình yêu			Cào cấu nhau trong đêm, trái tim sau đó được sưởi ấm, chính là tình yêu
+曖	Ái		Mập mờ				Ở nhật tình yêu rất mập mờ
+相	Tương	Tương tự			Cây có mắt tương tự nhau
+箱	Tương	Cái hộp				Trúc tương tự nhau dùng làm hộp
+想	Tưởng	Tưởng tượng			Trái tim tương tự nhau hay tưởng tượng
+霜	Sương	Sương giá			Mưa tương tự như sương giá
+象	Tượng	Con voi				Lợn nhật cân móc hàm nặng như voi
+像	Tượng	Tưởng tượng			Người đứng to như voi thì chỉ có trong tưởng tượng
+将	Tương	Tương lai			Tương lại dựa tường cào cấu rất thốn
+奨	Tưởng	Học bổng			Tưởng tượng tương lai vào đại học nhận học bổng
+重	Trọng	Trọng lượng			Xe trở trọng lượng rất nặng
+種	Chủng	Chủng loại			Chủng loại lúa mới có trọng lượng lớn
+衝	Xung	Xung đột			Trọng bóc hành rất xung
+腫	Thũng	Khối u				Tình trạng khối u của nguyệt rất nghiêm trọng
+宿	Túc		Nhà trọ				Dưới mái nhà có 100 người trọ lại
+縮	Xúc		Co lại				Sợi tơ trong nhà trọ bị co lại
+述	Thuật	Thuật lại			Dẫn ra hồ để thuật lại
+術	Thuật	Phép thuật			Đi ra hồ phép thuật
+召	Triệu	Triệu tập			Cầm đao, mồm hô triệu tập
+紹	Thiệu	Giới thiệu			Giới thiệu sợ tơ 1 triệu
+昭	Chiêu	Chiêu hòa			Thời chiêu hòa có triệu mặt trời
+招	Chiêu	Chiêu đãi			Tay cầm 1 triệu đi chiêu đãi
+超	Siêu	Siêu phàm			Chạy 1 triệu km thật siêu phàm
+照	Chiếu	Chiếu sáng			Triệu mặt trời phát lửa để chiếu sáng
+詔	Chiếu	Chiếu chỉ			Lời nói triệu tập là chiếu chỉ
+沼	Chiểu	Đầm, ao				Triệu hạt nước tạo ra đầm lầy
+拐	Quải	Bắt cóc				Tay bịt mồm cầm đao bắt cóc
+火	Hỏa		Lửa					Hỏa là lửa
+炎	Viêm	Cháy lớn			Viêm là cháy lớn
+談	Đàm		Đàm thoại			Nói tóe lửa là đang đàm thoại
+淡	Đạm		Thanh đạm			Lửa gặp nước thì thanh đạm
+券	Khoán	Chứng khoán			Chồng bị đao chơi chứng khoán
+巻	Quyển	Quyển sách			Chồng tự kỷ đọc 2 quyển sách
+圏	Quyển	Khí quyển			Xung quanh quyển sách là bầu khí quyển
+拳	Quyền	Nắm đấm				Tay chồng giơ nắm đấm
+読	Độc		Đọc					Nói như bán là đang đọc
+続	Tục		Liên tục			TƠ được BÁN LIÊN TỤC
+勝	Thắng	Thắng lợi			Nguyệt dùng lực thắng chồng
+藤	Đằng	Hoa tử đằng			Thảo, nguyệt cùng chồng thủy ngắm hoa tử đằng
+騰	Đằng	Tiến lên			Chồng nguyệt cưỡi ngựa tiến lên
+謄	Đằng	Sao chép			Sao chép lại lời nói của chồng nguyệt
+興	Hưng	Hưng phấn			Hai em đồng thời đi với 8 anh thì rất hưng phấn
+衆	Chúng	Công chúng			Bị chém chúng phọt máu, 2 người đứng vững là 1 người bay bay
 肖	Tiêu	Chân dung			CHÂN DUNG NGUYỆT và 3 quả chuối TIÊU
 消	Tiêu	Tiêu trừ, xóa		NƯỚC XÓA nhòa đi bức CHÂN DUNG
-宵	Tiêu	Buổi tối
-硝	Tiêu	Diêm tiêu
-鎖	Tỏa		Tỏa sáng
-削	Tước	Gọt
-章	Chương	Văn chương
-障	Chướng	Chướng ngại
-彰	Chương	Rực rỡ
-票	Phiếu	Bỏ phiếu
-標	Tiêu	Mục tiêu
-漂	Phiêu	Phiêu lưu
-垂	Thùy	Rủ xuống
-睡	Thụy	Ngủ
-郵	Bưu		Bưu điện
-唾	Thóa	Thóa mạ
+宵	Tiêu	Buổi tối			Dưới mái nhà vẽ chân dung vào buổi tối
+硝	Tiêu	Diêm tiêu			Đá khắc chân dung là diêm tiêu
+鎖	Tỏa		Tỏa sáng			Bảo bối tỏa sáng là vàng
+削	Tước	Gọt					Tước gọt chân dung bằng đao
+章	Chương	Văn chương			10 âm thanh tạo ra 1 chương
+障	Chướng	Chướng ngại			Bụng em bồ chương lên gây chướng ngại
+彰	Chương	Rực rỡ				Tóc tai chương lên rực rỡ
+票	Phiếu	Bỏ phiếu			Bỏ phiếu theo chỉ thị của phương tây
+標	Tiêu	Mục tiêu			Mục tiêu bỏ phiếu trồng cây
+漂	Phiêu	Phiêu lưu			Đất nước không có bỏ phiếu thì rất phiêu lưu
+垂	Thùy	Rủ xuống			Xe trở thùy nặng thì rủ xuống
+睡	Thụy	Ngủ					Mắt thùy rủ xuống đang ngủ
+郵	Bưu		Bưu điện			Rủ em bồ xuống bưu điện
+唾	Thóa	Thóa mạ				Mồm nói xuống những lời thóa mạ
 乗	Thừa	Lên xe				LÊN XE THỪA ở bên PHÍA ĐÔNG
-剰	Thặng	Thặng dư
-申	Thân	Xưng tên
-伸	Thân	Duỗi thẳng
-紳	Thân	Đàn ông
-神	Thần	Thần thánh
-油	Du		Dầu ăn
-宙	Trụ		Vũ trụ
-笛	Địch	Cái sáo
-袖	Tụ		Ống tay áo
-抽	Trừu	Trừu tượng
-甲	Giáp	Thiết giáp
-押	Áp		Ấn				TAY GIÁP đừng có ẤN
-岬	Giáp	Vệ núi
-制	Chế		Chế độ
-製	Chế		Chế tạo
-半	Bán		Một nửa
-判	Phán	Phán đoán
-伴	Bạn		Bầu bạn
-性	Tính	Tính cách
-姓	Tính	Họ tên
-平	Bình	Hòa bình		2 cái CAN bằng cái BÌNH
-評	Bình	Bình luận
-坪	Bình	Đơn vị đo
-呼	Hô		Hô hấp			MỒM BÌNH đang HÔ HẤP
-着	Trước	Mặc				MẮT nhìn CON DÊ MẶC áo TRƯỚC
-看	Khán	Khán giả
-差	Sai		Sai khác		CON DÊ LÀM VIỆC SAI TRÁI
-他	Tha		Người lạ
-施	Thi		Thực thi
-旅	Lữ		Lữ hành, du lịch
-遊	Du		Chơi
-族	Tộc		Gia tộc
-旋	Toàn	Trở lại
-段	Đoạn	Giai đoạn
-鍛	Đoán	Rèn luyện
-練	Luyện	Luyện tập
-錬	Luyện	Tinh luyện
-裏	Lý		Mặt trái
-打	Đả		Đánh
-灯	Đăng	Cái đèn
-釘	Đinh	Đinh ốc
-訂	Đính	Đính chính
-頂	Đỉnh	Đỉnh cao
-代	Đại		Thời đại
-袋	Đại		Cái túi
-貸	Thải	Cho vay			THỜI ĐẠI CHO VAY TIỀN THẢI
-賃	Nhâm	Thuê
-妊	Nhâm	Mang thai
-氏	Thị		Họ tên
-婚	Hôn		Hôn nhân
-民	Dân		Dân chúng
-眠	Miên	Ngủ
-底	Để		Cái đáy
-低	Đê		Thấp
-抵	Đề		Đề kháng
-邸	Để		Lâu đài
-是	Thị		Thị phi
-堤	Đê		Con đê
-題	Đề		Vấn đề
-提	Đề		Đề án
-豆	Đậu		Hạt đậu
-登	Đăng	Đăng ký			ĐĂNG KÝ BÁT ĐẬU
-澄	Trừng	Làm sạch
-短	Đoản	Ngắn
-痘	Đậu		Đậu mùa
-布	Bố		Vải
-怖	Bố		Khủng bố
-希	Hi		Hi vọng
-我	Ngã		Bản ngã
-餓	Ngạ		Đói
-投	Đầu		Đầu tư
-殺	Sát		Giết
-役	Dịch	Chiến dịch
-疫	Dịch	Dịch bệnh
-設	Thiết	Thiết lập
-没	Một		Chìm chết
-穀	Cốc		Ngũ cốc
-殼	Xác		Giáp xác
-殿	Điện	Cung điện
-動	Động	Chuyển động
-働	Động	Lao động		NGƯỜI ĐỨNG CHUYỂN ĐỘNG là đang LAO ĐỘNG
-勲	Huân	Huân chương
-薫	Huân	Hương thơm
-皮	Bì		Da				Ở SƯỜN NÚI mở CHI NHÁNH bán đồ DA
-疲	Bì		Mệt mỏi			BỆNH trên DA là MỆT MỎI
-彼	Bỉ		Anh ấy
-被	Bị		Bị hại
-波	Ba		Con sóng
-婆	Bà		Bà già
-破	Phá		Phá rách
-披	Phi		Vạch ra
-掴	Quặc	Nắm, bắt
-発	Phát	Phát triển
-廃	Phế		Tàn phế
-表	Biểu	Phát biểu
-俵	Biếu	Biếu
-衣	Y		Y phục
-依	Ỷ		Ỷ lại
-反	Phản	Phản đối
-坂	Phản	Cái dốc
-返	Phản	Trả lại			PHẢN đối DẪN tới TRẢ LẠI
-飯	Phạn	Cơm
-阪	Phản	Osaka
-板	Bản		Tấm ván
-版	Bản		Xuất bản
-仮	Giả		Giả thuyết
-販	Phiến	Bán
-部	Bộ		Bộ phận
-倍	Bội		Bội số
-陪	Bồi		Bồi thẩm
-培	Bồi		Bồi dưỡng
-賠	Bồi		Bồi thường
-剖	Phẫu	Phẫu thuật
-不	Bất		Bất tử
-杯	Bôi		Cái chén
-否	Phủ		Phủ định
-幸	Hạnh	Hạnh phúc
-服	Phục	Đồng phục
-報	Báo		Báo cáo
-非	Phi		Phi thường
-悲	Bi		Bi thảm
-罪	Tội		Tội phạm
-扉	Phi		Cánh cửa
-俳	Bài		Nghệ sỹ
-排	Bài		Bài trừ
-輩	Bối		Tiền bối
-背	Bối		Cái lưng
-小	Tiểu	Nhỏ
-少	Thiểu	Ít
-秒	Miểu	Giây
-妙	Diệu	Huyền diệu
-沙	Sa		Nhỏ bé
-劣	Liệt	Yếu kém
-砂	Sa		Cát
-抄	Sao		Sao chép
-炒	Sao		Xào
-列	Liệt	Hàng lối
-烈	Liệt	Mãnh liệt
-例	Lệ		Ví dụ
-裂	Liệt	Xé rách
-雷	Lôi		Sấm sét
-電	Điện	Điện lực
-雪	Tuyết	Bông tuyết
-雲	Vân		Mây
-曇	Đàm		Mây trời
-雰	Phân	Bầu không khí
-震	Chấn	Địa chấn
-霊	Linh	Linh hồn
-零	Linh	Số 0
-霧	Vụ		Sương mù
-霜	Sương	Sương giá
-露	Lộ		Sương đêm
-需	Nhu		Nhu cầu
-銀	Ngân	Ngân hàng
-痕	Ngân	Vết sẹo
-根	Căn		Gốc rễ
-限	Hạn		Giới hạn
-恨	Hận		Hận thù
-眼	Nhãn	Nhãn cầu
-退	Thoái	Rút lui
-良	Lương	Tốt
-娘	Nương	Con gái
-郎	Lang	Con trai
-狼	Lang	Chó sói
-廊	Lang	Hành lang
-朗	Lãng	Chiếu sáng
-浪	Lãng	Lãng tử
-船	Thuyền	Con thuyền
-航	Hàng	Hàng không
-艦	Hạm		Chiến hạm
-舶	Bạc		Tàu buồm
-艇	Đĩnh	Thuyền nhỏ
-舷	Huyền	Mạn thuyền
-般	Ban		Bình thường
-湿	Thấp	Ẩm thấp
-顕	Hiển	Hiển nhiên
-並	Tịnh	Xếp hàng		XẾP 2 HÀNG dọc 2 hàng ngang hình chữ V
-霊	Linh	Linh hồn
-普	Phổ		Phổ thông
-譜	Phổ		Gia phả
-昔	Tích	Ngày xưa
-借	Tá		Vay mượn		NGÀY XƯA NGƯỜI đã cho VAY MƯỢN hàng TÁ
-散	Tản		Tản bộ
-籍	Tịch	Quốc tịch
-惜	Tiếc	Hối tiếc
-措	Thố		Biện pháp
-錯	Thác	Thác loạn
-資	Tư		Đầu tư
-姿	Tư		Tư thế
-諮	Tư		Tư vấn
-茨	Tì		Cái gai
-恣	Tứ		Phóng túng
-羨	Tiện	Ghen tỵ
-盗	Đạo		Đạo tặc
-福	Phúc	Phúc lợi
-幅	Phúc	Bề dày
-副	Phó		Phó giám đốc
-富	Phú		Phong phú
-復	Phục	Phục hồi
-腹	Phúc	Cái bụng
-複	Phức	Phức tạp
-覆	Phúc	Che phủ
-履	Lý		Lý lịch
-放	Phóng	Giải phóng
-倣	Phỏng	Mô phỏng
-敷	Phu		Trải lát
-激	Khích	Kích thích
-傲	Ngạo	Ngạo mạn
-洋	Dương	Phương tây
-詳	Tường	Chi tiết
-鮮	Tiên	Tươi sống
-祥	Tường	Cát tường
-養	Dưỡng	Dinh dưỡng
-路	Lộ		Con đường
-賂	Lộ		Hối lộ
-露	Lộ		Sương đêm
-以	Dĩ		Cái mốc
-似	Tự		Giống nhau
-胃	Vị		Dạ dày
-膚	Phu		Da
-帯	Đới		Cái đai
-滞	Trệ		Đình trệ
-肩	Kiên	Vai
-骨	Cốt		Xương
-滑	Hoạt	Linh hoạt
-眉	Mi		Lông mày
-幾	Cơ		Bao nhiêu
-機	Cơ		Máy móc
-畿	Kì		Kinh kì
-極	Cực		Cực đoan
-吉	Cát		Vui vẻ
-結	Kết		Kết hôn
-詰	Cật		Vặn hỏi
-喜	Hỉ		Hoan hỉ
-嬉	Hi		Vui sướng
-樹	Thụ		Cổ thụ
-鼓	Cổ		Cái trống
-膨	Bành	Bành trướng
-舎	Xá		Phố xá
-捨	Xả		Vứt
-加	Gia		Tham gia
-架	Giá		Cái giá
-賀	Hạ		Chúc mừng
-害	Hại		Tổn hại
-割	Cát		Vỡ
-轄	Hạt		Cai quản
-哀	Ai		Bi ai
-衰	Suy		Suy nhược
-衷	Trung	Trung thực
-井	Tỉnh	Cái giếng
-囲	Vi		Chu vi
-丼	Bát		Cái bát
-善	Thiện	Cải thiện
-繕	Thiện	Sửa chữa
-協	Hiệp	Hiệp lực
-脅	Hiếp	Ăn hiếp
-脇	Hiếp	Cái nách
-尊	Tôn		Tôn kính
-遵	Tuân	Tuân lệnh
-噂	Đồn		Tin đồn
-度	Độ		Lần				
-渡	Độ		Vượt qua		VƯỢT QUA THỦY ĐỘ
-席	Tịch	Chỗ ngồi
-導	Đạo		Chỉ đạo
-賞	Thưởng	Tiền thưởng
-償	Thường	Bồi thường
-員	Viên	Nhân viên
-損	Tổn		Tổn hại
-韻	Vận		Vần điệu
-憲	Hiến	Hiến pháp
-徳	Đức		Đạo đức
-聴	Thính	Thính giác
-恥	Sỉ		Xấu hổ
-鏡	Kính	Kính mắt
-境	Cảnh	Cảnh giới
-競	Cạnh	Cạnh tranh
-敢	Cảm		Dũng cảm
-厳	Nghiêm	Nghiêm túc
-価	Giá		Giá trị
-降	Giáng	Giáng chức
-印	Ấn		Ấn tượng
-栄	Vinh	Vinh quang
-夢	Mộng	Giấc mơ
-討	Thảo	Thảo luận
-守	Thủ		Phòng thủ
-団	Đoàn	Đoàn thể
-狩	Thú		Săn bắt
-封	Phong	Niêm phong
-付	Phó		Giao phó
-府	Phủ		Phủ huyện
-符	Phù		Phù hiệu
-腐	Hủ		Thối
-附	Phụ		Thêm vào
-采	Thái	Chỉ huy
-菜	Thái	Rau
-採	Thái	Hái
-彩	Thái	Sắc thái
-参	Tham	Tham gia
-惨	Thảm	Bi thảm
-修	Tu		Tu sửa
-悠	Du		Ung dung
-杉	Sam		Cây tùng
-髪	Phát	Tóc
-診	Chẩn	Chẩn đoán
-珍	Trân	Quý hiếm
-乳	Nhũ		Sữa
-浮	Phù		Nổi lên
-戻	Lệ		Quay lại		Mở CỬA TO để đón em LỆ QUAY LẠI
-涙	Lệ		Nước mắt
-旧	Cựu		Kỳ cựu
-児	Nhi		Nhi đồng
-陥	Hãm		Vây hãm
-稲	Đạo		Bông lúa
-単	Đơn		Đơn giản			Có 10 mẫu RUỘNG thì TỎA SÁNG ĐƠN GIẢN
-弾	Đạn		Viên đạn			VIÊN ĐẠN ĐƠN GIẢN hơn CUNG tên
-戦	Chiến	Chiến tranh
-禅	Thiền	Thiền định
-華	Hoa		Hoa mỹ
-嘩	Hoa		Cãi nhau
-果	Quả		Hoa quả
-菓	Quả		Bánh kẹo
-巣	Sào		Tổ chim
-課	Khóa	Niên khóa
-裸	Khỏa	Khỏa thân
-彙	Vị		Nhiều loại
-免	Miễn	Miễn tội
-勉	Miễn	Miễn cưỡng
-逸	Dật		Ẩn dật
-防	Phòng	Phòng chống
-房	Phòng	Căn phòng
-訪	Phỏng	Phỏng vấn
-両	Lưỡng	2 bên
-満	Mãn		Mãn nguyện
-岡	Cương	Sườn núi
-剛	Cương	Cương cứng
-鋼	Cương	Thép
-綱	Cương	Dây thừng
-尺	Xích	Đơn vị đo
-駅	Dịch	Nhà ga
-訳	Dịch	Phiên dịch
-釈	Thích	Giải thích
-沢	Trạch	Đầm lầy
-択	Trạch	Tuyển dụng
-街	Nhai	Đường phố
-掛	Quải	Treo
-佳	Giai	Giai nhân
-崖	Nhai	Vách đá
-涯	Nhai	Cuộc đời
-堂	Đường	Võ đường
-常	Thường	Bình thường
-掌	Chưởng	Lòng bàn tay
-賞	Thưởng	Tán thưởng
-償	Thường	Bồi thường
-可	Khả		Khả năng
-河	Hà		Sông
-何	Hà		Cái gì
-荷	Hà		Hành lý
-苛	Hà		Bắt nạt
-司	Ty		Quản lý
-伺	Tứ		Dò xét
-飼	Tự		Nuôi
-詞	Từ		Ca từ
-嗣	Tự		Con cháu
-同	Đồng	Đồng dạng
-銅	Đồng	Chất đồng
-胴	Đỗng	Cơ thể
-筒	Đồng	Ống
-洞	Động	Hang động
-義	Nghĩa	Nghĩa khí
-議	Nghị	Hội nghị
-儀	Nghi	Lễ nghi
-犠	Hi		Hi sinh
-挙	Cử		Tuyển cử
-誉	Dự		Danh dự
-承	Thừa	Thừa nhận
-即	Tức		Tức khắc
-節	Tiết	Tiết kiệm
-軍	Quân	Quân đội
-輝	Huy		Huy hoàng
-揮	Huy		Chỉ huy
-陣	Trận	Trận địa
-景	Cảnh	Phong cảnh
-影	Ảnh		Cái bóng
-憬	Cảnh	Cảnh tỉnh
-久	Cửu		Vĩnh cửu
-逆	Nghịch	Đối nghịch
-志	Chí		Ý chí
-誌	Chí		Tạp chí
-恵	Huệ		Ân huệ
-穂	Tuệ		Bông lúa
-験	Nghiệm	Thí nghiệm
-倹	Kiệm	Tiết kiệm
-剣	Kiếm	Kiếm đạo
-険	Hiểm	Nguy hiểm
-検	Kiểm	Kiểm tra
-建	Kiến	Kiến trúc
-健	Kiện	Tráng kiện
-鍵	Kiện	Chìa khóa
-康	Khang	An khang
-逮	Đãi		Đuổi bắt
-兼	Kiêm	Kiêm nhiệm
-謙	Khiêm	Khiêm tốn
-廉	Liêm	Liêm khiết
-鎌	Liêm	Cái liềm
-嫌	Hiềm	Hiềm khích
-残	Tàn		Tàn dư
-桟	Sạn		Thanh gỗ
-銭	Tiền	Tiền bạc
-践	Tiễn	Thực tiễn
-浅	Thiển	Nông cạn
-巨	Cự		To lớn
-距	Cự		Cự ly
-拒	Cự		Cự tuyệt
-臣	Thần	Đại thần
-姫	Cơ		Công chúa
-壊	Hoại	Phá hoại
-懐	Hoài	Hoài niệm
-環	Hoàn	Tuần hoàn
-還	Hoàn	Hoàn trả
-凍	Đông	Đông lạnh
-棟	Đống	Nóc nhà
-陳	Trần	Trần thuật
-尼	Ni		Ni cô
-泥	Nê		Bùn đất
-成	Thành	Thành công
-城	Thành	Thành lũy
-誠	Thành	Thành thực
-盛	Thịnh	Hưng thịnh
-越	Việt	Vượt qua
-松	Tùng	Cây thông
-訟	Tụng	Kiện tụng
-総	Tổng	Tổng hợp
-焼	Thiêu	Thiêu đốt
-暁	Hiểu	Bình minh
-笑	Tiếu	Cười
-妖	Yêu		Yêu quái
-咲	Tiếu	Nở hoa
-沃	Ốc		Rót tưới
-粒	Lạp		Hạt nhỏ, hột
+剰	Thặng	Thặng dư			Số đao thừa ra là thặng dư
+申	Thân	Xưng tên			Đóng cọc ở ruộng để xưng tên
+伸	Thân	Duỗi thẳng			Người đứng thân duỗi thẳng
+紳	Thân	Đàn ông				Thân đàn ông mỏng như sợi tơ
+神	Thần	Thần thánh			Mang thị đến làm thân với thần
+油	Du		Dầu ăn				Nổi tự do trên mặt nước là dầu ăn
+宙	Trụ		Vũ trụ				Vũ trụ là mái nhà tự do
+笛	Địch	Cái sáo				Tự do dùng trúc làm sáo
+袖	Tụ		Ống tay áo			Y phục mặc tự do không cần ống tay áo
+抽	Trừu	Trừu tượng			Vấn đề trừu tượng không thể dùng tay nắm bắt được
+甲	Giáp	Thiết giáp			Ngược với tự do là giáp
+押	Áp		Ấn					TAY GIÁP đừng có ẤN
+岬	Giáp	Vệ núi				Núi giáp vệ núi
+制	Chế		Chế độ				Con trâu húc vào cái khăn nên phải dùng đao khống chế
+製	Chế		Chế tạo				Qua các chế độ thì y phục được chế tạo khác nhau
+半	Bán		Một nửa				Bán là một nửa
+判	Phán	Phán đoán			Vừa bán đao vừa phán
+伴	Bạn		Bầu bạn				Người bán đứng bạn
+性	Tính	Tính cách			Tâm sinh tính
+姓	Tính	Họ tên				Người phụ nữ sinh ra đã có họ tên
+平	Bình	Hòa bình			2 cái CAN bằng cái BÌNH
+評	Bình	Bình luận			Lời nói của bình là bình luận
+坪	Bình	Đơn vị đo			Đo đất nhà bình
+呼	Hô		Hô hấp				MỒM BÌNH vẹo đang HÔ HẤP
+着	Trước	Mặc					MẮT nhìn CON DÊ MẶC áo TRƯỚC
+看	Khán	Khán giả			Vỗ tay mắt nhìn là khán giả
+差	Sai		Sai khác			Dê ở công trường là sai trái
+他	Tha		Người lạ			Người đứng thả C là người lạ
+施	Thi		Thực thi			Phương nằm thực thi thả C
+旅	Lữ		Lữ hành, du lịch	Đi du lịch khắp bốn phương, lúc nằm, lúc đứng, lúc bay bay
+遊	Du		Chơi				Dẫn nhau đi chơi khắp bốn phương để con nằm ở nhà
+族	Tộc		Gia tộc				Gia tộc nhà phương nằm bắn tên
+旋	Toàn	Trở lại				Phương trở lại nằm với hạ nhân
+段	Đoạn	Giai đoạn			Tới giai đoạn ép kẻ thù
+鍛	Đoán	Rèn luyện			Rèn luyện vàng qua nhiều giai đoạn
+練	Luyện	Luyện tập			Luyện tập dệt tơ ở phía đông
+錬	Luyện	Tinh luyện			Tinh luyện vàng ở phía đông
+裏	Lý		Mặt trái			Ông lý mặc y phục trái
+打	Đả		Đánh				Tay cầm đinh đả đánh
+灯	Đăng	Cái đèn				Lửa đốt đinh sáng như đèn
+釘	Đinh	Đinh ốc				Đinh ốc bằng vàng
+訂	Đính	Đính chính			Lời nói chắc như đinh không cần đính chính
+頂	Đỉnh	Đỉnh cao			Đinh mỏng như giấy là đỉnh cao
+代	Đại		Thời đại			Người đứng chiếm lấy thời đại
+袋	Đại		Cái túi				Thời đại y phục phải có túi
+貸	Thải	Cho vay				THỜI ĐẠI CHO VAY TIỀN THẢI
+賃	Nhâm	Thuê				Thuê bảo bối phải có trách nhiệm giữ gìn
+妊	Nhâm	Mang thai			Người phụ nữ đứng cạnh vua mang thai
+氏	Thị		Họ tên				Họ tên em là thị
+婚	Hôn		Hôn nhân			Người phụ nữ sau hôn nhân ở nhật sẽ đổi họ tên
+民	Dân		Dân chúng			Mồm họ là mồm dân chúng
+眠	Miên	Ngủ					Mắt dân chúng đang miên ngủ
+底	Để		Cái đáy				Hiên nhà thờ họ thiêng nhất ở chỗ đáy
+低	Đê		Thấp				Người đứng thấp nhất họ
+抵	Đề		Đề kháng			Sức đề kháng của tay đó thấp nhất họ
+邸	Để		Lâu đài				Em bồ xấu nhất họ để trong lâu đài
+是	Thị		Thị phi				Sang nhật hạ nhân gây ra nhiều thị phi
+堤	Đê		Con đê				Vùng đất nhiều thị phi là con đê
+題	Đề		Vấn đề				Thị phi viết ra giấy thành vấn đề
+提	Đề		Đề án				Tay viết điều thị phi thành đề án
+豆	Đậu		Hạt đậu				1 cái mồm nhai 21 hạt đậu
+登	Đăng	Đăng ký				ĐĂNG KÝ BÁT ĐẬU
+澄	Trừng	Làm sạch			Đăng ký nước sạch
+短	Đoản	Ngắn				Mũi tên ngắn cắm hạt đậu
+痘	Đậu		Đậu mùa				Bệnh đậu mùa
+布	Bố		Vải					Bố có 10 cái khăn vải
+怖	Bố		Khủng bố			Quả tim của bố thật khủng bố
+希	Hi		Hi vọng				Đừng hi vọng mê bố
+我	Ngã		Bản ngã				Qua tay anh em bị sa ngã
+餓	Ngạ		Đói					Ăn xong bị ngã là vẫn đói
+投	Đầu		Đầu tư				Đầu tư vào tay kẻ thù
+殺	Sát		Giết				Những người mê cây hay thù sát
+役	Dịch	Chiến dịch			Chiến dịch đè kẻ thù
+疫	Dịch	Dịch bệnh			Kẻ thù phát dịch bệnh
+設	Thiết	Thiết lập			Lời nói xóa bỏ thù oán thiết lập hòa bình
+没	Một		Chìm chết			Nước kẻ thù bị chìm chết
+穀	Cốc		Ngũ cốc				Binh sĩ trong đêm lấy lúa và ngũ cốc của kẻ thù
+殼	Xác		Giáp xác			Binh sĩ trong đêm trong đêm cầm ghế đập kẻ thù bay xác
+殿	Điện	Cung điện			Kẻ thù mang xác chết từ nơi công cộng vào cung điện
+動	Động	Chuyển động			Trọng lực tạo ra chuyển động
+働	Động	Lao động			NGƯỜI ĐỨNG CHUYỂN ĐỘNG là đang LAO ĐỘNG
+勲	Huân	Huân chương			Chuyển động tóe lửa được huân chương
+薫	Huân	Hương thơm			Đốt cỏ nặng mùi thơm
+皮	Bì		Da					Ở SƯỜN NÚI mở CHI NHÁNH bán đồ DA
+疲	Bì		Mệt mỏi				BỆNH trên DA là MỆT MỎI
+彼	Bỉ		Anh ấy				Đè lên da của anh ấy
+被	Bị		Bị hại				Mặc y phục hở da dễ bị hại
+波	Ba		Con sóng			Nước đập vào da tạo 3 con sóng
+婆	Bà		Bà già				Người phụ nữ đang lướt sóng là bà già
+破	Phá		Phá rách			Dùng đá phá rách da
+披	Phi		Vạch ra				Tay vạch da
+掴	Quặc	Nắm, bắt			Tay nắm bắt đất nước
+発	Phát	Phát triển			Người 2 chân đi chữ bát rất phát triển
+廃	Phế		Tàn phế				Dưới hiên nhà phát triển quá rồi cũng tới ngày tàn phế
+表	Biểu	Phát biểu			Ông vua không mặc y phục đứng phát biểu
+俵	Biếu	Biếu				Người đứng phát biểu sẽ được biếu quà
+衣	Y		Y phục				Y là y phục
+依	Ỷ		Ỷ lại				Người đứng ỷ lại vào y phục
+反	Phản	Phản đối			Đi lại dưới sườn núi để phản đối
+坂	Phản	Cái dốc				Phản đối san bằng đất ở cái dốc
+返	Phản	Trả lại				PHẢN đối DẪN tới TRẢ LẠI
+飯	Phạn	Cơm					Phản đối ăn cơm
+阪	Phản	Osaka				Phản đối em bồ đi Osaka
+板	Bản		Tấm ván				Phản đối dùng cây làm tấm ván
+版	Bản		Xuất bản			Phản đối xuất bản phiên phiến
+仮	Giả		Giả thuyết			Người đứng phản đối giả thuyết
+販	Phiến	Bán					Phản đối bán bảo bối
+部	Bộ		Bộ phận				Đứng há hốc mồm nhìn bộ phận em bồ
+倍	Bội		Bội số				Người đứng há hốc mồm vì bị phản bội
+陪	Bồi		Bồi thẩm			Em bồ đứng mở mồm cãi nhau với bồi thẩm
+培	Bồi		Bồi dưỡng			Đứng trên đất mở mồm đòi bồi dưỡng
+賠	Bồi		Bồi thường			Đứng mở mồm đòi bồi thường bảo bối
+剖	Phẫu	Phẫu thuật			Đứng mở mồm dùng đao phẫu thuật
+不	Bất		Bất tử				Cây bị chặt đầu bất tử
+杯	Bôi		Cái chén			Cây bất tử dùng làm chén
+否	Phủ		Phủ định			Bất tử mồm nói phủ định
+幸	Hạnh	Hạnh phúc			Có đất và tiền thì hạnh phúc
+服	Phục	Đồng phục			Em nguyệt phản đối mặc đồng phục
+報	Báo		Báo cáo				Báo cáo không bị phản đối thì rất hạnh phúc
+非	Phi		Phi thường			Cái thang ngược rất phi thường
+悲	Bi		Bi thảm				Người phi thường thì trái tim hay gặp bi thảm
+罪	Tội		Tội phạm			Mắt tội phạm rất phi thường
+扉	Phi		Cánh cửa			Cửa phi thường vẫn là cánh cửa
+俳	Bài		Nghệ sỹ				Người đứng phi thường là nghệ sỹ
+排	Bài		Bài trừ				Tay phi thường bị bài trừ
+輩	Bối		Tiền bối			Phóng xe phi thường là tiền bối
+背	Bối		Cái lưng			Anh bắc cưỡi lên lưng chị nguyệt
+小	Tiểu	Nhỏ					Tiểu là nhỏ
+少	Thiểu	Ít					Thiểu là ít
+秒	Miểu	Giây				Hòa bị thiểu năng vài giây
+妙	Diệu	Huyền diệu			Người phụ nữ thiểu số thật huyền diệu
+沙	Sa		Nhỏ bé				Nước thiểu số thì nhỏ bé
+劣	Liệt	Yếu kém				Thiểu năng nên năng lực bị yếu kém
+砂	Sa		Cát					Đá được người thiểu số coi như cát
+抄	Sao		Sao chép			Thiểu năng nên tay không thể sao chép
+炒	Sao		Xào					Lửa được người thiểu số dùng để sào
+列	Liệt	Hàng lối			Một mình ta cầm đao đứng xếp hàng
+烈	Liệt	Mãnh liệt			Xếp hàng bốc lửa mãnh liệt
+例	Lệ		Ví dụ				Ví dụ người đứng xếp hàng
+裂	Liệt	Xé rách				Đứng xếp hàng y phục bị xé rách
+雷	Lôi		Sấm sét				Mưa xuống ruộng thì có sấm sét
+電	Điện	Điện lực			Mưa xuống ruộng lòi ra dòng điện
+雪	Tuyết	Bông tuyết			Em đi trong trời mưa tuyết
+雲	Vân		Mây					Mưa suốt 24h thì hết mây
+曇	Đàm		Mây trời			Cả ngày có nhiều mây thì trời mây u ám
+雰	Phân	Bầu không khí		Mưa xuống phân bốc lên bầu không khí
+震	Chấn	Địa chấn			Thần mưa tạo ra địa chấn
+霊	Linh	Linh hồn			Linh hồn xếp hàng dưới mưa
+零	Linh	Số 0				Ra lệnh tạo ra mưa nhưng kết quả bằng 0
+霧	Vụ		Sương mù			Mưa tạo ra vụ xương mù
+霜	Sương	Sương giá			Mưa tương tự sương giá
+露	Lộ		Sương đêm			Mưa trên con đường tạo ra sương đêm
+需	Nhu		Nhu cầu				Mưa là nhu cầu của nhi đồng
+銀	Ngân	Ngân hàng			Vàng không tốt thì gửi vào ngân hàng
+痕	Ngân	Vết sẹo				Bị bệnh điều trị không tốt thì để lại vết sẹo
+根	Căn		Gốc rễ				Cây không tốt thì căn nguyên do gốc rễ
+限	Hạn		Giới hạn			Bồ không tốt nên phải giới hạn
+恨	Hận		Hận thù				Trái tìm không tốt để lại hận thù
+眼	Nhãn	Nhãn cầu			Mắt không tốt tại nhãn cầu
+退	Thoái	Rút lui				Dẫn đi không tốt bằng rút lui
+良	Lương	Tốt					Lương là tốt
+娘	Nương	Con gái				Người phụ nữ tốt là con gái
+郎	Lang	Con trai			Tốt với bồ là con trai
+狼	Lang	Chó sói				Chó tốt là chó sói
+廊	Lang	Hành lang			Con trai ngồi dưới hiên nhà hành lang
+朗	Lãng	Chiếu sáng			Trăng tốt thì chiếu sáng
+浪	Lãng	Lãng tử				Nước tốt nhiều lãng tử
+船	Thuyền	Con thuyền			Ngồi trên thuyền mồm tám chuyện
+航	Hàng	Hàng không			Ngồi trên hàng ghế đầu của thuyền là hàng không
+艦	Hạm		Chiến hạm			Giám đốc sửa thuyền thành chiến hạm
+舶	Bạc		Tàu buồm			Thuyền trắng bạc là tàu buồm
+艇	Đĩnh	Thuyền nhỏ			Thuyền đi trong triều đình là thuyền nhỏ
+舷	Huyền	Mạn thuyền			Huyền ngồi trên thuyền chỗ mạn thuyền
+般	Ban		Bình thường			Thuyền của kẻ thù nhìn rất bình thường
+湿	Thấp	Ẩm thấp				Nước nhật xếp hàng nơi ẩm thấp
+顕	Hiển	Hiển nhiên			Ở nhật xếp hàng nhặt được tiền giấy là hiển nhiên
+並	Tịnh	Xếp hàng			XẾP 2 HÀNG dọc 2 hàng ngang hình chữ V
+霊	Linh	Linh hồn			Linh hồn xếp hàng dưới mưa
+普	Phổ		Phổ thông			Ở nhật xếp hàng là việc phổ thông
+譜	Phổ		Gia phả				Lời nói phổ thông đưa vào gia phả
+昔	Tích	Ngày xưa			Cả ngày dưới hàng rào nghe chuyện cổ tích
+借	Tá		Vay mượn			NGÀY XƯA NGƯỜI đã cho VAY MƯỢN hàng TÁ
+散	Tản		Tản bộ				Em nguyệt đi tản bộ chỗ hàng rào thì bị đánh ghen
+籍	Tịch	Quốc tịch			Quốc tịch ngày xưa được viết lên 2 cây trúc
+惜	Tiếc	Hối tiếc			Trái tim hối tiếc về ngày xưa
+措	Thố		Biện pháp			Tay ngày xưa sáng tạo ra nhiều biện pháp
+錯	Thác	Thác loạn			Tiền ngày xưa dùng để thác loạn
+資	Tư		Đầu tư				Mang bảo bối tiếp theo đi đầu tư
+姿	Tư		Tư thế				Tư thế tiếp theo của người phụ nữ
+諮	Tư		Tư vấn				Lời nói tiếp theo từ mồm là tư vấn
+茨	Tì		Cái gai				Cô thảo là cái gai tiếp theo
+恣	Tứ		Phóng túng			Tiếp theo trái tim trở nên phóng túng
+羨	Tiện	Ghen tỵ				Con dê thiếu nước uống sinh ra ghen tị
+盗	Đạo		Đạo tặc				Đạo tặc tiếp theo ăn cắp bát đĩa
+福	Phúc	Phúc lợi			1 cái mồm trên ruộng được ăn thị là có phúc
+幅	Phúc	Bề dày				Dùng khăn quấn vào 1 cái mồm trên ruộng để đo bề dầy
+副	Phó		Phó giám đốc		fuku	1 cái mồm trên ruộng cầm đao là phó giám đốc
+富	Phú		Phong phú			fu		Dưới mái nhà 1 cái mồm đòi nhiều ruộng là phú ông
+復	Phục	Phục hồi			fuku	Đã mệt còn bị đè thì không thể phục hồi
+腹	Phúc	Cái bụng					Em nguyệt mệt nhất ở cái bụng
+複	Phức	Phức tạp			fuku	Y phục phức tạp rất mệt
+覆	Phúc	Che phủ						Phương tây phục hồi che phủ toàn thế giới
+履	Lý		Lý lịch				ri		Phục hồi lý lịch xác chết
+放	Phóng	Giải phóng			hou		Đánh khắp 4 phương là giải phóng
+倣	Phỏng	Mô phỏng					Mô phỏng người được giải phóng
+敷	Phu		Trải lát			fu		Giải phóng 10 mẫu ruộng để trải lát
+激	Khích	Kích thích			geki	Giải phóng nước trắng do bị kích thích
+傲	Ngạo	Ngạo mạn					Người đứng giải phóng được nhiều đất thì ngạo mạn
+洋	Dương	Phương tây			you		Phương tây là đất nước nuôi dê
+詳	Tường	Chi tiết					Lời nói của con dê rất chi tiết
+鮮	Tiên	Tươi sống			sen		Cá và dê đều tươi sống
+祥	Tường	Cát tường					Đi đường gặp dê đích thị may mắn
+養	Dưỡng	Dinh dưỡng			you		Ăn thịt dê giàu dinh dưỡng
+路	Lộ		Con đường					Chân các vị đi trên đường
+賂	Lộ		Hối lộ						Hối bộ các vị bảo bối
+露	Lộ		Sương đêm					Mưa trên con đường tạo ra sương đêm
+以	Dĩ		Cái mốc						1 người đứng làm mốc
+似	Tự		Giống nhau					Người đứng làm mốc thường giống nhau
+胃	Vị		Dạ dày				i		Em nguyệt đi làm ruộng bị đau dạ dày
+膚	Phu		Da							Da làm từ dạ dày hổ
+帯	Đới		Cái đai				tai		Leo núi nhất là trong đêm phải có khăn đai hỗ trợ
+滞	Trệ		Đình trệ			tai		Nước làm cho cái đai đình trệ
+肩	Kiên	Vai							Nguyệt tựa vai vào cửa
+骨	Cốt		Xương						Trong đêm ngó qua cửa sổ ngắm trăng ngã gãy xương
+滑	Hoạt	Linh hoạt					Nước cốt xương rất linh hoạt
+眉	Mi		Lông mày					Xác chết bị chặt đôi nhưng vẫn còn lông mày
+幾	Cơ		Bao nhiêu					Người qua 2 lần yêu biết bao nhiêu cho đủ
+機	Cơ		Máy móc				ki		Cây qua bao nhiêu năm chế tạo thành máy móc
+畿	Kì		Kinh kì				ki		Đưa 2 người yêu qua bao nhiêu ruộng mới tới kinh kì
+極	Cực		Cực đoan			kyoku	Ông 71 mồm thối cực
+吉	Cát		Vui vẻ						Binh sĩ mồm nói chuyện vui vẻ
+結	Kết		Kết hôn				ketsu	Sợi tơ hồng nối kết việc vui vẻ là kết hôn
+詰	Cật		Vặn hỏi						Văn hỏi nhưng với cách vui vẻ
+喜	Hỉ		Hoan hỉ						Ăn 10 hạt đậu vào mồm thật hoan hỉ
+嬉	Hi		Vui sướng					Phụ nữ có chuyện hỉ thì vui sướng
+樹	Thụ		Cổ thụ						Thôn trồng được 10 cây đậu cổ thụ
+鼓	Cổ		Cái trống					Chi dùng 10 hạt đậu làm cái trống
+膨	Bành	Bành trướng					Em nguyệt ăn 10 hạt đậu tóc tai bành trướng
+舎	Xá		Phố xá						Ở phố xá người có nhiều đất thường lắm mồm
+捨	Xả		Vứt							Tay vứt đồ ra phố xá
+加	Gia		Tham gia			ka		Mồm có lực mới tham gia cổ vũ được
+架	Giá		Cái giá						Cây tham gia làm cái giá
+賀	Hạ		Chúc mừng			ga		Mang bảo bối đi tham gia chúc mừng
+害	Hại		Tổn hại				gai		Dưới mái nhà ông vua mở mồm nói lời tổn hại
+割	Cát		Vỡ							Đao gây tổn hại làm vỡ
+轄	Hạt		Cai quản			katsu	Cai quản xe để tránh tổn hại
+哀	Ai		Bi ai						Mặc y phục mồm vẫn khóc bi ai
+衰	Suy		Suy nhược					1 ai đó bị suy nhược
+衷	Trung	Trung thực					10 cái mồm nói y như 1 là trung thực
+井	Tỉnh	Cái giếng					Giống hình cái miệng giếng
+囲	Vi		Chu vi				i		Đo chu vi miệng giếng
+丼	Bát		Cái bát						1 cái bát bị rơi xuống giếng
+善	Thiện	Cải thiện					Con dê 2 đầu miệng nói lời thiện
+繕	Thiện	Sửa chữa					Chỉ có người thiện mới sửa chữa được
+協	Hiệp	Hiệp lực					10 cộng 3 lực = hiệp lực
+脅	Hiếp	Ăn hiếp						3 anh lực ăn hiếp em nguyệt
+脇	Hiếp	Cái nách					Em nguyệt bắt 3 anh lực sờ nách
+尊	Tôn		Tôn kính					Uống 21 bình rượi thốn thì mất đi tôn kính
+遵	Tuân	Tuân lệnh					Tôn kính dẫn tới tuân lệnh
+噂	Đồn		Tin đồn						Miệng người tốn kính không bao giờ nói tin đồn
+度	Độ		Lần							Dưới hiên nhà cô thảo ở 1 mình nên các anh qua lại nhiều lần
+渡	Độ		Vượt qua					VƯỢT QUA THỦY ĐỘ
+席	Tịch	Chỗ ngồi					Dưới hiên nhà cô thảo 1 mình quàng khăn ngồi chờ khách
+導	Đạo		Chỉ đạo						Chỉ đạo dẫn đường rất thốn
+賞	Thưởng	Tiền thưởng			shou	Nhân viên làm việc từ đêm tới sáng thì nhận tiền thưởng
+償	Thường	Bồi thường			shou	Người nhận tiền thưởng mang đi bồi thường
+員	Viên	Nhân viên			in		Mở mồm đồi bảo bối là nhân viên
+損	Tổn		Tổn hại						Tay nhân viên làm tổn hại
+韻	Vận		Vần điệu					Nhân viên tạo ra âm thanh vần điệu
+憲	Hiến	Hiến pháp					Dưới mái triều đình ông vua có mắt, có tâm, tạo ra hiến pháp tốt
+徳	Đức		Đạo đức				toku	Chọc thủng 10 mắt đè nén con tim là người không có đạo đức
+聴	Thính	Thính giác			chou	Tai muốn nghe thình thì tập trung 10 mắt và trái tim
+恥	Sỉ		Xấu hổ						Xấu hổ nên tai đỏ tim đập nhanh
+鏡	Kính	Kính mắt					Chạy theo âm thanh của đồng tiền thì không cần đeo kính
+境	Cảnh	Cảnh giới					Người lính chân đất lắng nghe âm thanh để cảnh giới
+競	Cạnh	Cạnh tranh			kyou	Cạnh tranh chỗ đứng với anh trai
+敢	Cảm		Dũng cảm					Làm việc ở công trường bị đánh vào tai thì phải dũng cảm đứng lên
+厳	Nghiêm	Nghiêm túc					Người nghiêm túc có thể dũng cảm nấp dưới sườn núi tới sáng
+価	Giá		Giá trị				ka		Người tây có giá trị
+降	Giáng	Giáng chức					Em bồ sau 1 năm bị giáng chức
+印	Ấn		Ấn tượng					Ấn tượng em phọt tiết
+栄	Vinh	Vinh quang					Trong đêm đứng ở gốc cây tỏa sáng là vinh quang
+夢	Mộng	Giấc mơ				mu		Ta trong đêm mắt nằm mơ về cô thảo
+討	Thảo	Thảo luận					Lời nói thốn trong buổi thảo luận
+守	Thủ		Phòng thủ					Phòng thủ dưới mái nhà rất thốn
+団	Đoàn	Đoàn thể					Xung quanh đoàn thể rất thốn
+狩	Thú		Săn bắt						Con chó vừa phòng thủ vừa săn bắt
+封	Phong	Niêm phong					2 mảnh đất thốn nên dán niêm phong
+付	Phó		Giao phó					Người bị giao phó rất thốn
+府	Phủ		Phủ huyện					Giao phó làm hiên nhà cho phủ huyện
+符	Phù		Phù hiệu					Giao phó cho trúc làm phù hiệu
+腐	Hủ		Thối						Thịt ở phủ huyện bị thối
+附	Phụ		Thêm vào					Giao phó cho em bồ thêm 1 số việc
+采	Thái	Chỉ huy				sai		Chỉ huy làm móng tay bằng nhựa cây
+菜	Thái	Rau							Cô thảo chỉ huy việc trồng rau
+採	Thái	Hái							Tay chỉ huy việc hái
+彩	Thái	Sắc thái					Ông chỉ huy có mái tóc nhìn rất thấn thái
+参	Tham	Tham gia			san		4 bà lớn tham gia cuộc thi về tóc
+惨	Thảm	Bi thảm						Trái tim tham nên bi thảm
+修	Tu		Tu sửa						Người đứng bị gậy đánh, tóc tai bù xù nên phải tu sửa
+悠	Du		Ung dung					Người đứng bị gậy đánh nhưng trái tim rất ung dung
+杉	Sam		Cây tùng					Cây sam là cây tùng
+髪	Phát	Tóc							Phát tài vì có người bạn tóc dài
+診	Chẩn	Chẩn đoán					Người nói chẩn đoán về tóc
+珍	Trân	Quý hiếm					Ông vua là người rất trân quý mái tóc
+乳	Nhũ		Sữa							Trẻ con búng móng tay là ra sữa
+浮	Phù		Nổi lên						Trẻ con búng móng tay xuống nước là nổi lên
+戻	Lệ		Quay lại					Mở CỬA TO để đón em LỆ QUAY LẠI
+涙	Lệ		Nước mắt					Quay lại trong nước mắt
+旧	Cựu		Kỳ cựu						18 năm kỳ cựu
+児	Nhi		Nhi đồng					18 tuổi chân vẫn chạy tung tăng là nhi đồng
+陥	Hãm		Vây hãm						Bị em bồ 18 tuổi trách móc vì nhìn mặt quá hãm
+稲	Đạo		Bông lúa					18 tuổi dùng móng tay cắt lúa
+単	Đơn		Đơn giản					Có 10 mẫu RUỘNG thì TỎA SÁNG ĐƠN GIẢN
+弾	Đạn		Viên đạn					VIÊN ĐẠN ĐƠN GIẢN hơn CUNG tên
+戦	Chiến	Chiến tranh					Vượt qua chiến tranh đơn giản
+禅	Thiền	Thiền định					Thiền đích thị cần sự đơn giản
+華	Hoa		Hoa mỹ						Cô thảo được 10 mảnh ruộng nên mặt nở hoa
+嘩	Hoa		Cãi nhau					Miệng nói lời hoa mỹ là cãi nhau
+果	Quả		Hoa quả				ka		Cây dưới ruộng ra quả
+菓	Quả		Bánh kẹo					Cô thảo chia hoa quả bánh kẹo
+巣	Sào		Tổ chim						Trong tổ chim có 3 quả trứng phát sáng
+課	Khóa	Niên khóa					Nói về kết quả khóa học
+裸	Khỏa	Khỏa thân					Kết quả của thoát y là khỏa thuân
+彙	Vị		Nhiều loại					Hỗ trợ trong đêm ăn chộm nhiều lại hoa quả
+免	Miễn	Miễn tội					Chân chạy cả ngày không bị móc là miễn tội
+勉	Miễn	Miễn cưỡng					Miễn tội vẫn dùng vũ lực là miễn cưỡng
+逸	Dật		Ẩn dật						Miễn tội xong sống ẩn dật
+防	Phòng	Phòng chống			bou		Phòng chống em bồ khắp bốn phương
+房	Phòng	Căn phòng					Căn phòng có cửa mở khắp bốn phương
+訪	Phỏng	Phỏng vấn					Nói khắp bốn phương là phỏng vấn
+両	Lưỡng	2 bên				ryou	Một ngọn núi chia biên giới làm 2 phần
+満	Mãn		Mãn nguyện					Cô thảo giúp 2 bên đất nước đều mãn nguyện
+岡	Cương	Sườn núi					21 sườn núi ở biên giới đều có kim cương
+剛	Cương	Cương cứng					Cương cứng như đao
+鋼	Cương	Thép						Kim cương dùng để cắt thép
+綱	Cương	Dây thừng					Sợi tơ cương như dây thừng
+尺	Xích	Đơn vị đo					Giống chữ R
+駅	Dịch	Nhà ga						Con ngựa bị xích ở nhà ga
+訳	Dịch	Phiên dịch					Lời nói giúp xích lại gần nhau là phiên dịch
+釈	Thích	Giải thích					1 hạt gạo bị xích lại không cần giải thích
+沢	Trạch	Đầm lầy				taku	Nước xích lại gần nhau thành đầm lầy
+択	Trạch	Tuyển dụng					Xích tay tuyển dụng
+街	Nhai	Đường phố			gai		Ngọc khuê đi trên đường phố
+掛	Quải	Treo						Ngọc khuê tay to giỏi treo đồ
+佳	Giai	Giai nhân					Ngọc khuê là người giai nhân
+崖	Nhai	Vách đá						Đi từ trên núi xuống sườn núi, ngọc khuê dừng lại ở vách đá
+涯	Nhai	Cuộc đời					Ngọc khuê suốt cuộc đời chưa nhìn thấy nước ở sườn núi
+堂	Đường	Võ đường			dou		Hòa thượng đứng trên đất võ đường
+常	Thường	Bình thường					Hòa thượng quấn khăn là bình thường
+掌	Chưởng	Lòng bàn tay				Hòa thượng tung chưởng bằng lòng bàn tay
+賞	Thưởng	Tán thưởng					Hòa thượng mang bảo bối đi thưởng
+償	Thường	Bồi thường					Người nhận thưởng mang đi bồi thường
+可	Khả		Khả năng					Khả năng bị đinh cắm mồm
+河	Hà		Sông						Khả năng sông cạn nước
+何	Hà		Cái gì						Hà có khả năng về cái gì
+荷	Hà		Hành lý						Cô thảo có cái gì trong hành lý
+苛	Hà		Bắt nạt						Cô giáo thảo có khả năng bắt nạt hà
+司	Ty		Quản lý						Có khả năng nhất làm quản lý
+伺	Tứ		Dò xét						Người quản lý hay dò xét
+飼	Tự		Nuôi						Được quản lý nuôi ăn
+詞	Từ		Ca từ				shi		Quản lý nói toàn ca từ
+嗣	Tự		Con cháu					Quản lý mở mồm bắt con cháu đọc sách
+同	Đồng	Đồng dạng					Biên giới có một mồm giống nhau
+銅	Đồng	Chất đồng					Kim loại giống nhau là chất đồng
+胴	Đỗng	Cơ thể						Em nguyệt giống nhau phần cơ thể
+筒	Đồng	Ống							Trúc giống nhau làm ống đồng
+洞	Động	Hang động			dou		Nước trong hang động giống nhau
+義	Nghĩa	Nghĩa khí					Bị dê mà không sa ngã là có nghĩa khí
+議	Nghị	Hội nghị			gi		Lời nói nghĩa khí trong hội nghị
+儀	Nghi	Lễ nghi						Người nghĩa khí biết lễ nghi
+犠	Hi		Hi sinh				gi		Con trâu nghĩa khí bị hi sinh
+挙	Cử		Tuyển cử			kyo		Tay tỏa sáng trong buổi tuyển cử
+誉	Dự		Danh dự				yo		Lời nói tỏa sáng là danh dự
+承	Thừa	Thừa nhận					Kết thúc chiến tranh 3 nước thừa nhận thất bại
+即	Tức		Tức khắc					Không tốt phọt tiết trong tức khắc
+節	Tiết	Tiết kiệm					Trúc tiết kiệm trong tức khắc
+軍	Quân	Quân đội			gun		Xe trong đêm là quân đội
+輝	Huy		Huy hoàng					Giây phút đăng quang trong quân đội rất huy hoàng
+揮	Huy		Chỉ huy						Tay chỉ huy quân đội
+陣	Trận	Trận địa			jin		Em bồ đi xe ra trận địa
+景	Cảnh	Phong cảnh					Phong cảnh ở kinh đô nhật
+影	Ảnh		Cái bóng					Cái bóng cảnh xõa tóc
+憬	Cảnh	Cảnh tỉnh					Cảnh trong tim là cảnh tỉnh
+久	Cửu		Vĩnh cửu					Con người cứ muốn sống vĩnh cửu
+逆	Nghịch	Đối nghịch					Dẫn 21 đứa trẻ mầm non lên núi nghịch
+志	Chí		Ý chí						Trái tim binh sĩ có ý chí
+誌	Chí		Tạp chí				shi		Lời nói có ý chí thì sẽ lên tạp chí
+恵	Huệ		Ân huệ				kei		Trái tim nhận ân huệ 10 mảnh ruộng
+穂	Tuệ		Bông lúa					Hòa có ân huệ tạo ra bông lúa
+験	Nghiệm	Thí nghiệm					Thí nghiệm cho ngựa mặc áo yếm
+倹	Kiệm	Tiết kiệm					Người mặc áo yếm để tiết kiệm
+剣	Kiếm	Kiếm đạo					Mặc yếm cầm đao luyện kiếm đạo
+険	Hiểm	Nguy hiểm					Em bồ mặc yếm rất nguy hiểm
+検	Kiểm	Kiểm tra			ken		Mặc áo yếm ra kiểm tra cây
+建	Kiến	Kiến trúc					Hướng dẫn bút vẽ trong kiến trúc
+健	Kiện	Tráng kiện					Người làm kiến trúc rất tráng kiện
+鍵	Kiện	Chìa khóa					Kiến trúc tạo ra chìa khóa vàng
+康	Khang	An khang					Trước hiên nhà chúc em thủy an khang
+逮	Đãi		Đuổi bắt					Dẫn em thủy đi đuổi bắt
+兼	Kiêm	Kiêm nhiệm					Trong 21 em thì 2 em to kiêm nhiệm mọi việc
+謙	Khiêm	Khiêm tốn					Lời nói phải kiêm thêm sự khiêm tốn
+廉	Liêm	Liêm khiết			ren		Dưới hiên nhà kiêm nhiệm nhiều việc nhưng vẫn liêm khiết
+鎌	Liêm	Cái liềm					Kim loại kiêm thêm làm cái liềms
+嫌	Hiềm	Hiềm khích			gen		Phụ nữ thường kiêm thêm hiềm khích
+残	Tàn		Tàn dư				gan		1 mình ta qua 2 lần sử dụng thì tàn luôn
+桟	Sạn		Thanh gỗ					Cây qua 2 lần chế tạo thành thanh gỗ
+銭	Tiền	Tiền bạc					Tiền qua 2 lần tiêu thành tiền lẻ
+践	Tiễn	Thực tiễn					Chân qua 2 lần vấp ngã mới hiểu thực tiễn
+浅	Thiển	Nông cạn					Nước qua 2 lần thì nông, cạn
+巨	Cự		To lớn						Có 2 thứ to lớn trong tủ
+距	Cự		Cự ly						Chân to chạy cự ly xa
+拒	Cự		Cự tuyệt					Tay to bị cự tuyệt
+臣	Thần	Đại thần			jin		2 thần to lớn
+姫	Cơ		Công chúa					Nữ thần là công chúa
+壊	Hoại	Phá hoại					Ở trên đất 10 cái mắt nhìn bộ y phục bị phá hoại
+懐	Hoài	Hoài niệm					Trái tim và 10 mắt nhìn bộ y phục mà hoài niệm
+環	Hoàn	Tuần hoàn					Ông vua mắt trợn mắt, mồm há hốc y như bệnh tuần hoàn
+還	Hoàn	Hoàn trả			kan		Lễ ra mắt 1 mồm há hốc vì bộ y phục dẫn tới muốn hoàn trả
+凍	Đông	Đông lạnh					Băng phía đông là đông lạnh
+棟	Đống	Nóc nhà						Cây chất đống ở nóc nhà phía đông
+陳	Trần	Trần thuật			chin	Em bồ ở phía đông đang trần thuật sự việc
+尼	Ni		Ni cô						
+泥	Nê		Bùn đất						Ni cô đi qua nước bị dính bùn đất
+成	Thành	Thành công					Qua vạn lần thất bại sẽ thành công
+城	Thành	Thành lũy					Trên đất xây thành công thành lũy
+誠	Thành	Thành thực					Lời nói của người thành công là thành thực
+盛	Thịnh	Hưng thịnh					Thành công buôn đĩa thì sẽ hưng thịnh
+越	Việt	Vượt qua					Chạy một mạch thì vượt qua tất cả
+松	Tùng	Cây thông					Cây ở công viên là cây thông
+訟	Tụng	Kiện tụng					Nói to ở công viên dễ xảy ra kiện tụng
+総	Tổng	Tổng hợp					Tổng hợp sơi tơ một cách công tâm
+焼	Thiêu	Thiêu đốt					Lửa đốt 10 hàng rào chân bắt đầu chạy
+暁	Hiểu	Bình minh					Mặt trời in bóng 10 hàng rào dưới chân là bình minh
+笑	Tiếu	Cười				shou	Đến thiên trúc thì cười
+妖	Yêu		Yêu quái					Phụ nữ trên trời là yêu quái
+咲	Tiếu	Nở hoa						Mồm ăn 21 quả đấm to thì nở hoa
+沃	Ốc		Rót tưới					Ông trời cho nước rót tưới
+粒	Lạp		Hạt nhỏ, hột				Hạt gạo đứng là hạt hột

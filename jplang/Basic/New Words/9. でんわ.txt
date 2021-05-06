@@ -1,0 +1,58 @@
+だいがく			大学				Trường đại học
+じゅぎょう			授業				Giờ học
+にほんごがっこう		日本語学校			Trường dạy Tiếng Nhật
+しけん				試験				Thi, kiểm tra
+しけんべんきょう		試験勉強			Ôn thi
+かもく				科目				Môn học
+さくぶん			作文				Tập làm văn
+ぶんぽう			文法				Ngữ pháp
+はつおん			発音				Phát âm
+せんぱい							Bậc đàn anh, người đi trước
+こたえ				答え				Trả lời
+たいしかん			大使館			Đại sứ quán
+うんどうじょう			運動場			Sân chơi
+かい				会				Hội họp
+まちがい							Nhầm lẫn, sai sót
+こうじょう			工場				Nhà máy
+せんもん			専門				Chuyên môn
+ぶんがく			文学				Văn học
+けいざい							Kinh tế
+れきし								Lịch sử
+すうがく			数学				Toán học
+かがく				化学				Hóa học
+ぶつり				物理				Vật Lý 
+にほんごがく			日本語学			Ngôn ngữ học tiếng Nhật
+にほんぶんがく		日本文学			Văn học Nhật Bản
+けいざいがく			けいざい学			Kinh tế học
+しがく				史学				Lịch sử học
+ぶつりがく			物理学			Vật Lý học
+でんきこうがく			電気工学			Điện lực học
+ほっかいどうだいがく		北海道大学			Trường đại học Hokkaido
+ゴー								Đi!
+ほかの							Ngoài ra, khác
+しぬ				死ぬ				Chết
+（がっこうを）やすむ　		（学校を）休む		Nghỉ (học…)
+おおい				多い				Nhiều
+すくない			少ない			Ít
+つまらない							Chán, dở
+おもしろい							Hay, thú vị, buồn cười
+ない								Không có 
+ただしい			正しい			Đúng, chính xác
+うすい								Mỏng
+あつい								Dầy
+ひろい				広い				Rộng 
+せまい								Chật 
+わかい				若い				Trẻ
+あぶない			危ない			Nguy hiểm
+しんせつな			親切な			Tốt bụng, nhiệt tình
+たいへんな			大変な			Gay go, vất vả, mệt mỏi…
+らくな				楽な				Dễ dàng, nhàn hạ
+にぎやかな							Sống động, nhộn nhịp
+たいせつな			大切な			Quan trọng
+あんぜんな			安全な			An toàn
+たぶん（～でしょう）　					Có lẽ
+よく（わからない）						Không hiểu lắm
+もしもし							A lô A lô
+それはたいへんですね	それは大変ですね		Như vậy thì vất vả (gay, khổ…) quá!
+おげんきで			お元気で			Giữ gìn sức khỏe nhé !
+ひゃくてん			百点				Đạt điểm tuyệt đối (100 điểm)

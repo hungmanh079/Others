@@ -1,0 +1,70 @@
+おかし						Kẹo, bánh kẹo
+バナナ						Chuối
+コーヒー					Cà phê
+こうちゃ					Trà đen
+ごはん			ご飯			Cơm
+しょくじ		食事			Bữa ăn
+やすみ		休み			Nghỉ
+ギター						Ghi ta
+ピアノ						Piano
+パーティー					Bữa tiệc, bữa liên hoan
+うた			歌			Bài hát
+テニス						Quần vợt
+ピンポン					Bóng bàn
+ざっし						Tạp chí
+えいが			映画			Phim
+えいがかん		映画館		Rạp chiếu phim
+ひらがな					Hiragana (chữ mềm)
+かたかな					Katakana (chữ cứng)
+かんじ			漢字			Kanji (chữ Hán)
+てがみてがみ　	手紙			Lá thLá thư, thư
+バドミントン					Câù lông
+ぎんざ						Ginza (địa danh)
+しんじゅく		新宿			Shijuku (địa danh)
+まいにち		毎日			Hàng ngày
+あさって					Ngày kia
+きのう						Hôm qua
+きょう			今日			Hôm nay
+あした			明日			Ngày mai
+おととい					Hôm kia
+あさ			朝			Buổi sáng
+ひる			昼			Buổi trBuổi trưa
+よる			夜			Buổi tối
+ゆうがた		夕方			Buổi chiều tối
+ばん			晩			Buổi tối
+まいあさ		毎朝			Hàng sáng
+まいばん		毎晩			Hàng tối
+まいしゅう		毎週			Hàng tuần
+げつようび		月よう日		Thứ hai
+かようび		火よう日		Thứ ba
+すいようび		水よう日		Thứ tThứ tư
+もくようび		木よう日		Thứ năm
+きんようび		金よう日		Thứ sáu
+どようび		土よう日		Thứ bảy
+にちようび		日よう日		Chủ nhật
+せんせんしゅう	先々週		Tuần trTuần trước nữa
+せんしゅう		先週			Tuần trTuần trước
+こんしゅう		今週			Tuần này
+らいしゅう		来週			Tuần sau
+さらいしゅう		さ来週		Tuần sau nữa
+べんきょう		勉強			Việc học
+べんきょうします　	勉強します		Học
+なに			何			Cái gì
+なんようび		何よう日		Thứ mấy
+のみます		飲みます		Uống
+たべます		食べます		Ăn
+つくります		作ります		Làm (tạo ra cái gì đó)
+します						Làm (việc gì đó)
+ひきます					Chơi (nhạc cụ)
+うたいます		歌います		Hát
+かきます		書きます		Viết
+ききます		聞きます		Nghe
+みます　		見ます		Nhìn, xem
+おわります		終わります		Kết thúc, hết
+はじまります		始まります		Bắt đầu
+ねます			寝ます		Ngủ
+おきます　		起きます		Dậy, tỉnh dậy
+ときどき		時々			Thỉnh thoảng
+（おかしを）どうぞ　				Xin mời (ăn bánh kẹo)
+（じゅうじ）ごろ	（十時）ごろ		Khoảng 10 giờ
+（わたし）たち					Chúng ta, chúng tôi

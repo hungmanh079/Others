@@ -1,0 +1,56 @@
+たいいくたいいく　		体育			Giáo dục thể chất
+おいしゃさん			お医者さん		Bác sĩ
+なまえ				名前			Tên
+へんじ				返事			Trả lời
+やきゅう						Bóng chày
+バット							Gậy đánh bóng chày
+はんたい			反対			Phản đối, chống lại
+みぎ				右			Bên phải
+ひだり				左			Bên trái
+みぎて				右手			Tay phải
+ひだりて			左手			Tay trái
+くすり				薬			Thuốc
+と				戸			Cửa
+いし				石			Đá
+まど							Cửa sổ
+でんき				電気			Điện, đèn điện
+おさけ				お酒			Rượu 
+ひこうじょう			ひこう場		Sân bay
+ていりゅうじょ						Bến xe buýt
+れんしゅう			練習			Luyện tập
+ちゅうい			注意			Chú ý, cẩn thận
+そうじ　						Lau chùi
+けんがく　			見学			Dự giờ, tham quan mang tính học tập
+どうして						Tại sao
+いう				言う			Nói
+はじめる			始める		Bắt đầu
+よぶ				呼ぶ			Gọi
+（てがみを）とる　		(手紙を）取る	Nhận (thư)
+（とりに）いく			（取りに）行く		Đi (lấy)
+つかう				使う			Sử dụng
+なげる				投げる		Vứt bỏ, ném
+（ボールを）うつ　		（ボールを）打つ	Đánh (bóng)
+もつ				持つ			Nắm, cầm
+かす							Cho mượn
+かえす				返す			Trả lại
+（ひとを）まつ　		（人を）待つ		Đợi, chờ
+あける				開ける		Mở
+（でんきを）つける		(電気を）つける	Bật (điện)
+わすれる			忘れる		Quên
+しめる				閉める		Đóng
+けす				消す			Tắt (điện)
+むかえる			迎える		Hoan nghênh, chào đón, đón
+みおくる			見送る		Tiễn, đưa tiễn
+かりる				借りる			Mượn, vay
+おぼえる			覚える		Nhớ, thuộc
+すう				吸う			Hút (thuốc)
+これから						Từ nay trở đi
+また							Lại, hơn nữa
+あとで							Sau, lát sau
+もういちど			もう一度		Một lần nữa
+ちょっと						Một chút
+だから							Chính vì vậy
+これでおわります			これで終わります	Kết thúc ở đây
+では、また　らいしゅう	では、また来週		Hẹn anh (chị …) tuần sau
+（なげ）かた			（投げ）方		Cách ném (bóng)
+（ひゃくえん）だま		（百円）玉		Đồng xu 100 Yen

@@ -1,0 +1,81 @@
+まち			町		Phố, thị trấn, thị xã
+なか			中		Bên trong
+かいもの		買い物	Mua sắm
+ビル					Nhà cao tầng
+いっかい		一階		Tầng một
+かいものきゃく	買い物客	Khách mua hàng
+たな					Giá, kệ đựng đồ
+うしろ			後ろ		Đằng sau
+スポーツシャツ			Áo thể thao
+シャツ					Áo sơ mi
+ボール					Quả bóng
+はこ					Hộp đựng đồ
+おつり					Tiền trả lại
+もん			門		Cổng
+そば					Gần, cạnh
+いけ			池		Ao, đầm
+そと			外		Bên ngoài
+き			木		Cây
+ふくろ					Túi xách
+みかん				Quýt
+りんご					Táo
+まえ			前		Phía trước
+うえ			上		Bên trên, phía trên
+した			下		Bên dưới, phía dưới
+よこ			横		Bên cạnh
+むこう			向こう		Đằng kia, phía bên kia
+あいだ			間		Ở giữa
+うま			馬		Ngựa
+うし			牛		Bò
+いぬ			犬		Chó
+ねこ					Mèo
+とり			鳥		Chim
+かさ					Ô, dù
+おかね		お金		Tiền
+デパート				Cửa hàng bách hóa
+はな			花		Hoa
+きっぷ					Vé
+がいこくじん		外国人	Người nước ngoài
+ひとつ			一つ		Một cái, quả (cách đếm phổ biến nhất, hay được dùng để đếm các loại hoa quả, bàn ghế v.v…
+ふたつ			二つ		Hai cái
+みっつ			三つ		Ba cái
+よっつ			四つ		Bốn cái
+いつつ			五つ		Năm cái
+むっつ			六つ		Sáu cái
+ななつ		七つ		Bảy cái
+やっつ			八つ		Tám cái
+ここのつ		九つ		Chín cái
+とお			十		Mười cái
+いくつ					Mấy cái, quả
+なにか			何か		Cái gì đó
+なにも			何も		Không ...gì cả (cách nói phủ định sạch trơn)
+だれも					Không ai cả
+だれか					Người nào đó
+あります				Có (chỉ sự tồn tại của vật)
+います					Có (chỉ sự tồn tại của người, động vât)
+ください		下さい	Xin hãy (dùng trong câu cầu khiến)
+やすみます		休みます	Nghỉ 
+いろいろな				Nhiều loại
+しずかな		静かな	Yên lặng
+きれいな				Xinh đẹp
+じょうぶな		丈夫な	Khỏe mạnh
+ひまな					Có thời gian rỗi
+ひとりも（い）ません　	一人も（い）ません		Không có ai cả.
+ぜんぶ			全部		Tất cả, toàn bộ
+おおぜい				Nhiều (người)
+すこしも（あり）ません		少しも（あり）ません		Chẳng có ít nào
+では					Thế thì, vậy thì
+いらっしゃいませ　			Xin mời vào (dùng khi mời khách hàng)
+1まい,2まい,3まい,4まい,5まい,6まい,7まい,8まい,9まい,10まい,なんまい　		一枚、二枚、三枚、四枚、五枚、六枚、七枚、八枚、九枚、十枚、何枚		
+Một tờ, Hai tờ,Ba tờ,Bốn tờ,Năm tờ,Sáu tờ,Bảy tờ,Tám tờ,Chín tờ,Mười tờ,Mấy tờ, tấm
+1だい,2だい,3だい,4だい,5だい,6だい,7だい,8だい,9だい,10だい,なんだい		一台、二台、三台、四台、五台、六台、七台、八台、九台、十台、何台		
+Một chiếc,Hai chiếc,Ba chiếc,Bốn chiếc,Năm chiếc,Sáu chiếc,Bảy chiếc,Tám chiếc,Chín chiếc,Mười chiếc,Mấy chiếc
+1さつ,2さつ,3さつ,4さつ,5さつ,6さつ,7さつ,8さつ,9さつ,10さつ,なんさつ		一さつ、二さつ、三さつ、四さつ、五さつ、六さつ、七さつ、八さつ、九さつ、十さつ、何さつ		
+Một cuốn, Hai cuốn,Ba cuốn,Bốn cuốn,Năm cuốn,Sáu cuốn,Bảy cuốn,Tám cuốn,Chín cuốn,Mười cuốn,Mấy cuốn, quyển
+1ぽん,2ほん,3ぼん,4ほん,5ほん,6ぽん,7ほん,8ぽん、,9ほん,10ぽん,なんぽん	一本、二本、三本、四本、五本、六本、七本、八本、九本、十本、何本		
+Một cái,Hai cái,Ba cái,Bốn cái,Năm cái,Sáu cái,Bảy cái,Tám cái,Chín cái,Mười cái,Mấy cái
+1ぴき,2ひき,3びき,4ひき,5ひき,6ぴき,7ひき,8ぴき,9ひき,10ぴき,なんびき		一ぴき、二ひき、三びき、四ひき、五ひき、六ぴき、七ひき、八ぴき、九ひき、十ぴき、何びき		Một con, Hai con,Ba con,Bốn con,Năm con,Sáu con,Bảy con,Tám con,Chín con ,Mười con,Mấy con    
+1かい,2かい,3がい,4かい,5かい,6かい,7かい,8かい,9かい,10かい,なんかい		一階、二階、三階、四階、五階、六階、七階、八階、九階、十階、何階		
+Tầng một,Tầng hai,Tầng ba,Tầng bốn,Tầng năm,Tầng sáu,Tầng bảy, Tầng tám,Tầng chín,Tầng mười,Tầng mấy
+ひとり,ふたり,3にん,4にん,5にん,6にん,7にん,8にん,9にん,10にん,なんにん		一人、二人、三人、四人、五人、六人、七人、八人、九人、十人、何人		
+Một người,Hai người,Ba người,Bốn người,Năm người,Sáu người,Bảy người,Tám người,Chín người,Mười người,Bao nhiêu người

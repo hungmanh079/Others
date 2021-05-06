@@ -1,0 +1,63 @@
+こくさいでんわ		こくさい電話			Điện thoại quốc tế
+こと								việc, vấn đề
+もの				物				Đồ vật
+とき				時				Khi, lúc
+ところ								Nơi chốn, địa điểm
+みち				道				Con đường
+かぞく				家族				Gia đình
+ちち				父				Bố (của mình)
+はは				母				Mẹ (của mình)
+あに				兄				Anh trai (của mình)
+あね				姉				Chị gái (của mình)
+おとうと			弟				Em trai (của mình)
+いもうと			妹				Em gái (của mình)
+おとうさん			お父さん			Bố (của người khác) 
+おかあさん			お母さん			Mẹ (của người khác) 
+おにいさん			お兄さん			Anh trai (của người khác) 
+おねえさん			お姉さん			Chị gái (của người khác) 
+こどもさん			子どもさん			Con cái (của người khác) 
+あかちゃん			赤ちゃん			Em bé
+ともだち			友だち			Bạn bè
+にんぎょう							Búp bê
+プレゼント							Tặng phẩm
+こうくうびん			こうくう便			Chuyển bằng đường hàng không
+でんぽう			電ぽう				Điện báo, điện thư
+でんわ				電話				Điện thoại 
+じしょ								Từ điển
+プール								Bể (bơi)
+こばやし			小林				Kobayashi (họ của người Nhật)
+けんか								Cãi nhau
+りょうり				料理				Món ăn
+しあい								Trận đấu
+せんそう			戦争				Chiến tranh
+けっこん			結婚				Kết hôn
+しつもん			質問				Hỏi, câu hỏi
+そうだん			相談				Thảo luận, bàn bạc, đàm phán
+さんぽ								Đi dạo
+くれます							(Ai) cho (mình cái gì) 
+（でんわを）かけます						Gọi (điện)
+みせます			見せます			Cho xem
+あげます							Cho (ai cái gì) 
+あそびます			遊びます			Chơi bời, vui đùa
+うまれます			生まれます			Được sinh ra
+およぎます			泳ぎます			Bơi
+あいます			会います			Gặp
+にています							Giống, giống nhau
+ならいます			習います			Học (cái gì của ai)
+おしえます			教えます			Dạy ai cái gì
+ちがいます							Khác với
+もらいます							Nhận (cái gì từ ai)
+おくります			送ります			Gửi (cho ai cái gì) 
+（てがみを）だします		（手紙を）出します		Gửi (thư ) cho ai
+こたえます			答えます			Trả lời
+はなします			話します			Nói
+わかれます			別れます			Chia tay, chia ly
+（ともだちに）なります	（友だちに）なります		Trở thành bạn
+おなじ				同じ				Giống như, giống với
+よく（けんか　をします・にて　います）			Thường xuyên (cãi cọ…)
+いっしょに							Cùng nhau
+だいぶ								Đáng kể, nhiều
+ひとりで			一人で			Một mình 
+おめでとうございます						Xin chúc mừng
+それはいいですね						Như vậy thì hay quá!
+おげんきですか		お元気ですか		Anh (chị…) có khỏe không?

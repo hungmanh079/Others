@@ -1,0 +1,71 @@
+しゅくだい		宿題			Bài tập về nhà
+おてら			お寺			Chùa
+えき			駅			Nhà ga
+バス						Xe buýt
+ひこうき					Máy bay
+しんかんせん		新幹線		Tàu tốc hành
+ふね			船			Tàu thủy
+でんしゃ		電車			Tàu điện
+ごぜん			午前			Buổi sáng
+ごご			午後			Buổi chiều
+あさはやく		朝早く		Sáng sớm
+よるおそく		夜おそく		Tối khuya
+はるやすみ		春休み		Kì nghỉ xuân
+なつやすみ		夏休み		Kì nghỉ hè
+あきやすみ		秋休み		Kì nghỉ thu
+ふゆやすみ		冬休み		Kì nghỉ đông
+いちにち		一日			Một ngày
+ゆうべ			夕べ			Đêm qua, tối qua
+けさ			今朝			Sáng nay
+こんばん		今晩			Tối nay
+はる			春			Mùa xuân
+なつ			夏			Mùa hè
+あき			秋			Mùa thu
+ふゆ			冬			Mùa đông
+うんどう		運動			Thể dục, vận động
+りょこう		旅行			Du lịch
+けんぶつします　	見物します		Tham quan
+なら						Nara (Địa danh)
+どう（でしたか）				(Đã) như thế nào?
+（いちじかん・いちまんえん）かかります		（一時間・一万円）かかります		Mất, hết (mất một giờ, hết một vạn Yên)
+どのぐらい					Mấy giờ, bao nhiêu tiền
+いそがしい		忙しい		Bận rộn
+むずかしい					Khó
+やさしい					Dễ
+たのしい		楽しい		Vui, thích thú
+ちかい			近い			Gần
+とおい			遠い			Xa
+ながい		長い			Dài
+みじかい		短い			Ngắn
+さむい			寒い			Lạnh
+あつい			暑い			Nóng
+おそい						Muộn
+はやい		速い			Sớm
+とても						Rất, quá, lắm
+たくさん					Nhiều
+あまり						Không ... lắm
+あるいて		歩いて		Đi bộ
+すこし			少し			Một ít, một chút
+それから					Sau đó thì
+しかし						Nhưng
+（いち）じかん		（一）時間		Một tiếng 
+（いちじかん）ぐらい	（一時間）ぐらい	Khoảng một tiếng
+みっか			三日			Ba ngày
+（みっか）かん		（三日）間		Ba ngày
+（いっ）しゅうかん	（一）週間		Một tuần
+（いっ）かげつ		（一）か月		Một tháng
+（いち）びょう　	（一）びょう		Một giây
+いちにち		一日			Một ngày
+ふつか（かん）	二日・二日間	Hai ngày
+みっか（かん）		三日・三日間	Ba ngày
+よっか（かん）		四日・四日間	Bốn ngày
+いつか（かん）	五日・五日間	Năm ngày
+むいか（かん）	六日・六日間	Sáu ngày
+なのか（かん）	七日・七日間	Bảy ngày
+ようか（かん）		八日・八日間	Tám ngày
+ここのか（かん）	九日・九日間	Chín ngày
+とおか（かん）		十日・十日間	Mười ngày
+はつか（かん）	二十日・二十日間	Hai mươi ngày
+なんにち		何日			Mấy ngày
+1しゅうかん,2しゅうかん,3しゅうかん,4しゅうかん5しゅうかん,6しゅうかん,7しゅうかん,8しゅうかん,9しゅうかん,10しゅうかん,なんしゅうかん		一週間、二週間、三週間、四週間、五週間、六週間、七週間、八週間、九週間、十週間、何週間		Một tuần,Hai tuần,Ba tuần,Bốn tuần,Năm tuần,Sáu tuần,Bảy tuần,Tám tuần,Chín tuần,Mười tuần,Mấy tuần
+1かげつ,2かげつ,3かげつ,4かげつ,5かげつ,6かげつ,7かげつ,8かげつ,9かげつ,10かげつ,11かげつ,12かげつ,なんかげつ		一か月、二か月、三か月、四か月、五か月、六か月、七か月、八か月、九か月、十か月、十一か月、十二か月、何か月		Một tháng,Hai tháng,Ba tháng,Bốn tháng,Năm tháng,Sáu tháng,Bảy tháng,Tám tháng,Chín tháng,Mười tháng,Mười một tháng,Mười hai tháng,Mấy tháng

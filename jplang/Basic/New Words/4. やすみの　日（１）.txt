@@ -1,0 +1,84 @@
+こども			子ども		Đứa trẻ, trẻ con
+おとな			大人			Người lớn
+かいしゃ		会社			Công ty
+しごと			仕事			Công việc, việc
+こうえん		公園			Công viên
+けん						Vé 
+しゃしん		写真			Ảnh, bức ảnh
+シャッター					Ống kính (máy ảnh)
+がいこく		外国			Nước ngoài
+くに			国			Nước (quốc tịch)
+りゅうがくせい		留学生		Lưu học sinh
+ほんや		本屋			Hiệu sách
+とし			年			Tuổi, năm
+せいねんがっぴ	生年月日		Ngày, tháng, năm sinh
+はたち			二十才		20 tuổi
+ゆうびんきょく		ゆう便局		BBưu điện
+ぎんこう		銀行			Ngân hàng
+みせ			店			Cửa hàng
+ひ			日			Ngày
+こどものひ		子どもの日		Ngày của trẻ em
+まいつき		毎月			Hàng tháng
+まいとし		毎年			Hàng năm
+まいねん		毎年			Hàng năm
+たんじょうび		たん生日		Ngày sinh nhật
+ついたち		一日			Mùng một
+ふつか			二日			Mùng hai
+みっか			三日			Mùng ba
+よっか			四日			Mùng bốn
+いつか			五日			Mùng năm
+むいか			六日			Mùng sáu
+なのか		七日			Mùng bảy
+ようか			八日			Mùng tám
+ここのか		九日			Mùng chín 
+とおか			十日			Mùng mười
+はつか			二十日		Ngày hai mươi
+つき			月			Tháng
+いちがつ		一月			Tháng một
+にがつ			二月			Tháng hai
+さんがつ		三月			Tháng ba
+しがつ			四月			Tháng tư
+ごがつ			五月			Tháng năm
+ろくがつ		六月			Tháng sáu
+しちがつ		七月			Tháng bảy
+はちがつ		八月			Tháng tám
+くがつ			九月			Tháng chín
+じゅうがつ		十月			Tháng mười
+じゅういちがつ	十一月		Tháng mười một
+じゅうにがつ		十二月		Tháng mười hai
+せんせんげつ		先々月		Tháng trước nữa
+せんげつ		先月			Tháng trước
+こんげつ		今月			Tháng này
+らいげつ		来月			Tháng sau
+さらいげつ		さ来月		Tháng sau nữa
+おととし　　					Năm kia
+きょねん		去年			Năm ngoái
+ことし			今年			Năm nay
+らいねん		来年			Năm sau
+さらいねん		さ来年		Năm sau nữa
+さとう						Sato (họ của người Nhật)
+バンコク					Bangkok (thủ đô Thái Lan)
+きょうと		京都			Kyoto (địa danh)
+おおさか					Osaka (địa danh)
+とうきょう		東京			Tokyo (thủ đô Nhật Bản)
+どこのくに		どこの国		Nước nào
+いつ						Khi nào
+なんにち		何日			Ngày nào 
+なんがつ		何月			Tháng nào
+なんねん		何年			Năm nào, bao nhiêu năm
+なんさい		何才			Bao nhiêu tuổi
+いきます		行きます		Đi
+かいます		買います		Mua
+とります		とります		Chụp ảnh
+わかります					Hiểu, biết
+きます			来ます		Đến 
+かえります		帰ります		Trở về
+おなじ（とし）		同じ（年）		Cùng tuổi, cùng năm
+いっしょに					Cùng nhau
+そう（します）					Làm như thế 
+そう（です）					Đúng rồi !
+すみません					Xin lỗi 
+おねがいします	お願いします		Xin làm phiền (dùng trong trường hợp nhờ vả)
+ありがとうございました　			Xin cảm Xin cảm ơn anh (chị …) rất nhiều ! 
+1さい,2さい,3さい,4さい,5さい,6さい,7さい,8さい,9さい,10さい		一才、二才、三才、四才、五才、六才、七才、八才、九才、十才		Một tuổi,Hai tuổi,Ba tuổi,Bốn tuổi,Năm tuổi,Sáu tuổi,Bảy tuổi,Tám tuổi,Chín tuổi,Mười tuổi
+1ねん2ねん,3ねん,4ねん,5ねん,6ねん,7ねん,8ねん,9ねん,10ねん		一年、二年、三年、四年、五年、六年、七年、八年、九年、十年		Một năm,Hai năm,Ba năm,Bốn năm,Năm năm,Sáu năm,Bảy năm,Tám năm,Chín năm,Mười năm
