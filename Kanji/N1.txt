@@ -157,600 +157,600 @@
 現	Hiện	Hiện thực				Ông vua nhìn vào hiện thực
 規	Quy		Quy tắc					Chồng nhìn vào bảng quy tắc
 替	Thế		Thay thế				Ngày thay thế 2 ông chồng
-潜	Tiềm	Tiềm ẩn					
-賛	Tán		Tán thành				
-質	Chất	Chất lượng				
-林	Lâm		Rừng thưa				
-禁	Cấm		Nghiêm cấm				
-襟	Khâm	Cổ áo					
-礎	Sở		Cơ sở					
-貫	Quán	Nhất quán				
-慣	Quán	Tập quán				
-基	Cơ		Cơ bản					
-寒	Hàn		Lạnh					
-塞	Tắc		Bế tắc					
-爪	Trảo	Móng vuốt				
-脈	Mạch	Mạch máu				
-派	Phái	Phái đoàn				
-孤	Cô		Cô độc					
-弧	Hồ		Cung tròn				
-歴	Lịch	Lịch sử					
-暦	Lịch	Quyền lịch				
-麻	Ma		Cây đay					
-摩	Ma		Ma sát					
-磨	Ma		Mài						
-瞬	Thuấn	Thoáng qua				
-隣	Lân		Lân cận					
-傑	Kiệt	Tuấn kiệt				
-暇	Hạ		Nhàn hạ					
-峠	Đèo		Con đèo					
-句	Cú		Câu cú					
-拘	Câu		Bắt giữ					
-駒	Câu		Ngựa con				
-旬	Tuần	10 ngày					
-殉	Tuẫn	Chết theo				
-盾	Thuẫn	Mâu thuẫn				
-循	Tuần	Tuần hoàn				
-酸	Toan	Axit					
-唆	Toa		Xúi giục				
-俊	Tuấn	Tuấn tú					
-再	Tái		Tái tạo					
-講	Giảng	Bài giảng				
-構	Cấu		Cấu tạo					
-購	Cấu		Mua bán					
-溝	Câu		Rãnh nước				
-契	Khế		Khế ước					
-喫	Khiết	Ăn uống					
-潔	Khiết	Thanh khiết				
-耒	Lỗi		Cái cày					
-耕	Canh	Canh tác				
-耗	Háo		Hao hụt					
-護	Hộ		Bảo hộ					
-穫	Hoạch	Thu hoạch				
-獲	Hoạch	Săn bắt					
-災	Tai		Tai họa					
-拶	Tạt		Chào hỏi				
-巡	Tuần	Tuần tra				
-能	Năng	Năng lực				
-態	Thái	Thái độ					
-罷	Bãi		Bãi bỏ					
-熊	Hùng	Con gấu					
-愚	Ngu		Ngu ngốc				
-遇	Ngộ		Hội ngộ					
-偶	Ngẫu	Ngẫu nhiên				
-隅	Ngung	Góc xó					
-独	Độc		Cô độc					
-狂	Cuồng	Phát cuồng				
-獄	Ngục	Địa ngục				
-猟	Liệp	Săn bắt					
-状	Trạng	Trạng thái				
-壮	Tráng	Cường tráng				
-装	Trang	Trang phục				
-荘	Trang	Khu nghỉ dưỡng			
-属	Thuộc	Phụ thuộc				
-繭	Kiển	Kén tằm					
-蚕	Tàm		Con tằm					
-蛍	Huỳnh	Đom đóm					
-蛇	Xà		Con rắn					
-騒	Tào		Ồn ào					
-掻	Tào		Gãi, toát				
-適	Thích	Thích hợp				
-敵	Địch	Kẻ địch					
-摘	Trích	Hái						
-滴	Trích	Nhỏ giọt				
-嫡	Đích	Đích tôn				
-危	Nguy	Nguy hiểm				
-犯	Phạm	Phạm tội				
-範	Phạm	Phạm vi					
-氾	Phiếm	Phù phiếm				
-厄	Ách		Tai họa					
-帥	Súy		Nguyên soái				
-師	Sư		Giáo viên				
-飾	Sức		Trang sức				
-識	Thức	Kiến thức				
-職	Chức	Chức vụ					
-織	Chức	Dệt vải					
-墨	Mặc		Mực						
-黙	Mặc		Im lặng					
-状	Trạng	Trạng thái				
-粧	Trang	Trang điểm				
-罰	Phạt	Hình phạt				
-漏	Lậu		Rò rỉ					
-留	Lưu		Lưu lại					
-貿	Mậu		Mậu dịch				
-瑠	Lưu		Lưu ly					
-充	Sung	Sung túc				
-銃	Súng	Khẩu súng				
-統	Thống	Truyền thống			
-比	Tỷ		So sánh					
-批	Phê		Phê phán				
-紫	Tử		Màu tím					
-雌	Thư		Giống cái				
-雄	Hùng	Giống đực				
-墓	Mộ		Ngôi mộ					
-慕	Mộ		Hâm mộ					
-暮	Mộ		Trời tối				
-募	Mộ		Chiêu mộ				
-幕	Mạc		Cái rèm					
-暴	Bạo		Bạo lực					
-爆	Bộc		Bom						
-綿	Miên	Bông vải				
-錦	Cẩm		Thổ cẩm					
-絹	Quyên	Lụa						
-輸	Thâu	Nhập khẩu				
-愉	Du		Vui vẻ					
-諭	Dụ		Dạy bảo					
-癒	Dũ		Chữa khỏi				
-濁	Trọc	Vẩn đục					
-帝	Đế		Hoàng đế				
-締	Đế		Ràng buộc				
-諦	Đế		Từ bỏ					
-宇	Vũ		Vũ trụ					
-芋	Dụ		Củ khoai				
-余	Dư		Dư thừa					
-除	Trừ		Trừ bỏ					
-徐	Từ		Từ từ					
-互	Hỗ		Hỗ trợ					
-茶	Trà		Trà xanh				
-途	Đồ		Đường					
-塗	Đồ		Sơn						
-斜	Tà		Mặt nghiêng				
-凶	Hung	Hung ác					
-胸	Hung	Ngực					
-脳	Não		Não bộ					
-悩	Não		Phiền não				
-秀	Tú		Tuấn tú					
-誘	Dụ		Mời						
-透	Thấu	Trong suốt				
-携	Huề		Đi cùng					
-疑	Nghi	Nghi ngờ				
-擬	Nghĩ	Làm theo				
-凝	Ngưng	Ngưng đọng				
-郷	Hương	Quê hương				
-響	Hưởng	Ảnh hưởng				
-肥	Phì		Phì nhiêu				
-把	Bả		Cầm, giữ				
-仙	Tiên	Cô tiên					
-仏	Phật	Phật giáo				
+潜	Tiềm	Tiềm ẩn					Nước này phải thay thế vì tiềm ẩn vi khuẩn
+賛	Tán		Tán thành		san		2 ông chồng giơ bảo bối lên để tán thành
+質	Chất	Chất lượng				Dùng 2 rìu gõ bảo bối để kiểm tra chất lượng
+林	Lâm		Rừng thưa		rin		2 cây là rừng thưa
+禁	Cấm		Nghiêm cấm		kin		Chỉ thị cấm vào rừng
+襟	Khâm	Cổ áo					Y phục cầm mặc có cổ áo
+礎	Sở		Cơ sở			so		Hạ nhân lấy đá trong rừng làm cơ sở
+貫	Quán	Nhất quán				Mang bảo bối vô quán
+慣	Quán	Tập quán		kan		Tập quán là sự nhất quán của trái tim
+基	Cơ		Cơ bản			ki		Cơ bản là nằm ra đất nhìn rất kì
+寒	Hàn		Lạnh					Dưới mái nhà chỗ cái giếng số 18 có băng lạnh
+塞	Tắc		Bế tắc			soku	Dưới mái nhà chỗ cái giếng số 18 có đống đất gây tắc nghẽn
+爪	Trảo	Móng vuốt				Trảo là móng vuốt
+脈	Mạch	Mạch máu				Nguyệt ngồi bắt mạch cho 3 người
+派	Phái	Phái đoàn				Phái đoàn của đất nước có 3 người
+孤	Cô		Cô độc					Vì cô độc nên đứa trẻ 1 mình ngồi ăn dưa
+弧	Hồ		Cung tròn				Cây cung bắn trúng quả dưa ở hồ
+歴	Lịch	Lịch sử			reki	Lịch trình đi từ sườn núi vào rừng thì dừng lại
+暦	Lịch	Quyển lịch				Đi đến sườn núi vào rừng cả ngày xem lịch
+麻	Ma		Cây đay					Dưới HIÊN NHÀ có RỪNG CÂY ĐAY
+摩	Ma		Ma sát					MA dùng TAY tạo ra MA SÁT
+磨	Ma		Mài						MA dùng ĐÁ để MÀI
+瞬	Thuấn	Thoáng qua				NHÁY MẮT trao TAY ĐÊM nay hen SUYỄN
+隣	Lân		Lân cận					Vùng LÂN cận có em BỒ ăn GẠO xong bị hen SUYỄN
+傑	Kiệt	Tuấn kiệt				NGƯỜI bị hen SUYỄN trèo lên CÂY là tuấn KIỆT
+暇	Hạ		Nhàn hạ					Cả NGÀY 2 XÁC CHẾT đi LẠI trong TỦ do NHÀN HẠ
+峠	Đèo		Con đèo					ĐÈO không ở TRÊN, không ở DƯỚI NÚI
+句	Cú		Câu cú			ku		MỒM nói BAO lời cay CÚ
+拘	Câu		Bắt giữ					TAY cay CÚ vì bị BẮT GIỮ
+駒	Câu		Ngựa con				Con NGỰA cay CÚ vì bị NGỰA CON đán
+旬	Tuần	10 ngày			jun		TUẦN có BAO nhiêu NGÀY
+殉	Tuẫn	Chết theo		jun		Bị NGẠT cả TUẦN thì CHẾT THEO
+盾	Thuẫn	Mâu thuẫn		jun		Dưới SƯỜN NÚI 10 MẮT nhìn nhau gây ra mâu THUẪN
+循	Tuần	Tuần hoàn				Cuộc sống muốn TUẦN hoàn phải biết ĐÈ nén những mâu THUẪN
+酸	Toan	Axit					4 CHÂN CHẠY phía SAU uống RƯỢU toàn AXIT
+唆	Toa		Xúi giục				4 CHÂN CHẠY phía SAU mở MỒM XÚI GIỤC
+俊	Tuấn	Tuấn tú					NGƯỜI ĐỨNG có 4 CHÂN CHẠY phía SAU là người TUẤN TÚ
+再	Tái		Tái tạo			sai		CÔNG DỤNG TÁI tạo
+講	Giảng	Bài giảng		kou		NÓI trong PHÒNG KÍN là đang GIẢNG bài
+構	Cấu		Cấu tạo					CẤU tạo PHÒNG KÍN từ CÂY gỗ
+購	Cấu		Mua bán					Lấy bảo BỐI từ PHÒNG KÍN đi MUA BÁN
+溝	Câu		Rãnh nước				NƯỚC từ trong PHÒNG KÍN chảy ra thành RÃNH NƯỚC
+契	Khế		Khế ước					Ông VUA nói lời ĐAO TO búa lớn trong KHẾ ƯỚC
+喫	Khiết	Ăn uống					MỒM ăn KHẾ là ĂN UỐNG
+潔	Khiết	Thanh khiết				Ông vua cầm ĐAO và SỢI TƠ nhúng xuống NƯỚC thanh KHIẾT
+耒	Lỗi		Cái cày					2 CÂY LỖI làm ra CÁI CÀY
+耕	Canh	Canh tác				CÀY ruộng và bơm nước từ GIẾNG vào để CANH tác
+耗	Háo		Hao hụt					CÀY ruộng rụng hết LÔNG nên bị HÁO và HAO HỤT sức lực
+護	Hộ		Bảo hộ					Bảo HỘ NÓI với cô THẢO là chim CHÍCH chạy mất rồi
+穫	Hoạch	Thu hoạch		kaku	Thu HOẠCH LÚA cô THẢO dành 1 phần cho chim CHÍCH
+獲	Hoạch	Săn bắt					CHÓ được cô THẢO mang đi SĂN BẮT chim CHÍCH
+災	Tai		Tai họa					LỬA trên SÔNG là TAI HỌA
+拶	Tạt		Chào hỏi				TAY trên SÔNG TA chào hỏi
+巡	Tuần	Tuần tra				DẪN ra SÔNG TUẦN tra
+能	Năng	Năng lực				Có siêu NĂNG lực làm 4 em NGUYỆT cười HIHI
+態	Thái	Thái độ			tai		Thấy siêu NĂNG lực thì TRÁI TIM thay đổi THÁI độ
+罷	Bãi		Bãi bỏ					MẮT không có NĂNG lực thì BÃI bỏ
+熊	Hùng	Con gấu					CON GẤU có siêu NĂNG lực hét ra LỬA
+愚	Ngu		Ngu ngốc				Người NGU thì TRÁI TIM cũng NGU ngốc
+遇	Ngộ		Hội ngộ					DẪN người NGU ngốc đi hội NGỘ
+偶	Ngẫu	Ngẫu nhiên				Chọn NGẪU nhiên phải 1 NGƯỜI NGU ngốc
+隅	Ngung	Góc xó					Giấu em BỒ NGU ngốc trong GÓC XÓ
+独	Độc		Cô độc			doku	Con CHÓ chơi với côn TRÙNG vì cô ĐỘC
+狂	Cuồng	Phát cuồng		kyou	Con CHÓ làm ông VUA phát CUỒNG
+獄	Ngục	Địa ngục				Bị NÓI như 2 con CHÓ như sống trong địa NGỤC
+猟	Liệp	Săn bắt					Con CHÓ tỏa SÁNG được sử DỤNG đi SĂN BẮT
+状	Trạng	Trạng thái		jou		TRẠNG thái CHÓ đứng cạnh TƯỜNG
+壮	Tráng	Cường tráng		sou		TRÁNG SỸ đứng cạnh TƯỜNG
+装	Trang	Trang phục		sou		TRÁNG sỹ mặc Y phục là TRANG phục
+荘	Trang	Khu nghỉ dưỡng			TRÁNG sỹ và THẢO trong KHU NGHỈ DƯỠNG
+属	Thuộc	Phụ thuộc		zoku	XÁC CHẾT 1 con côn TRÙNG thuộc BIÊN GIỚI
+繭	Kiển	Kén tằm					Ăn CỎ ở BIÊN GIỚI con côn TRÙNG nhả ra 1 SỢI TƠ thành KÉN TẰM
+蚕	Tàm		Con tằm					Con côn TRÙNG ngẩng lên TRỜI là CON TẰM
+蛍	Huỳnh	Đom đóm					Con côn TRÙNG trong ĐÊM TỎA SÁNG là ĐOM ĐÓM
+蛇	Xà		Con rắn					Con vật ăn côn TRÙNG trong ĐÊM cười HI là CON RẮN
+騒	Tào		Ồn ào			sou		Con NGỰA đi LẠI giẫm lên côn TRÙNG gây ỒN ÀO
+掻	Tào		Gãi, toát				TAY LẠI chạm vào côn TRÙNG nên phải GÃI
+適	Thích	Thích hợp		teki	Đã THÍCH rồi DẪN đi đâu cũng THÍCH hợp
+敵	Địch	Kẻ địch			teki	THÍCH ĐÁNH kẻ ĐỊCH
+摘	Trích	Hái				teki	TAY THÍCH HÁI
+滴	Trích	Nhỏ giọt				THÍCH GIỌT NƯỚC
+嫡	Đích	Đích tôn				PHỤ NỮ THÍCH đẻ ĐÍCH tôn
+危	Nguy	Nguy hiểm		ki		Bị MÓC SƯỜN NÚI toàn C rất NGUY HIỂM
+犯	Phạm	Phạm tội		han		Cho CHÓ ăn C là PHẠM tội
+範	Phạm	Phạm vi					XE chở C đi trong PHẠM vi rừng TRÚC
+氾	Phiếm	Phù phiếm				NƯỚC cờ phù PHIẾM
+厄	Ách		Tai họa					SƯỜN NÚI có nhiều C thì TAI HỌA
+帥	Súy		Nguyên soái				Đóng GIẢ QUAN dùng KHĂN che mặt để gặp NGUYÊN SOÁI
+師	Sư		Giáo viên				NGUYÊN SOÁI cũng là 1 GIÁO VIÊN
+飾	Sức		Trang sức				Lúc ĂN còn NẰM quàng KHĂN để TRANG SỨC nữa
+識	Thức	Kiến thức				NÓI ra ÂM thanh nghe QUA đã hiểu là người có kiến THỨC
+職	Chức	Chức vụ			shoku	CHỨC vụ của TAI là để ÂM thanh truyền QUA
+織	Chức	Dệt vải					SỢI TƠ phát ra ÂM thanh nghe QUA biết đang DỆT VẢI
+墨	Mặc		Mực				zumi	MỰC ĐEN rơi xuống ĐẤT
+黙	Mặc		Im lặng					Nhìn thấy CHÓ ĐEN MẶC nhiên phải IM LẶNG
+状	Trạng	Trạng thái				TRẠNG thái CHÓ đứng cạnh TƯỜNG
+粧	Trang	Trang điểm		shou	Dùng bột GẠO ngồi dưới ĐẤT HIÊN NHÀ để TRANG điểm
+罰	Phạt	Hình phạt				Khi bị PHẠT thì dùng ánh MẮT rồi lời NÓI ngọt ngào, nếu không được thì rút ĐAO
+漏	Lậu		Rò rỉ					NƯỚC từ XÁC CHẾT trong đêm MƯA bị RÒ RỈ ra
+留	Lưu		Lưu lại					CẦM ĐAO ra RUỘNG để LƯU lại dấu tích
+貿	Mậu		Mậu dịch				CẦM ĐAO và bảo BỐI ra cửa hàng MẬU dịch
+瑠	Lưu		Lưu ly					Ông VUA LƯU lại rất nhiều đá LƯU ly
+充	Sung	Sung túc				ĐẦU TƯ cho cặp chân dài thì sẽ có đời sống SUNG túc
+銃	Súng	Khẩu súng				SUNG quá dùng VÀNG đi mua SÚNG
+統	Thống	Truyền thống			Gia đình có TRUYỀN THỐNG buôn bán TƠ lụa nên đời sống SUNG túc
+比	Tỷ		So sánh					Tỷ cười HIHI và so sánh
+批	Phê		Phê phán				TAY làm TỶ PHÊ
+紫	Tử		Màu tím					DỪNG LẠI cười HIHI khi nhìn thấy SỢI TƠ MÀU TÍM
+雌	Thư		Giống cái				DỪNG LẠI cười HIHI khi nhìn thấy con CHIM GIỐNG CÁI
+雄	Hùng	Giống đực				Ở VIỆT NAM có CON CHIM GIỐNG ĐỰC
+墓	Mộ		Ngôi mộ					MÔ HÌNH trên ĐẤT là NGÔI MỘ
+慕	Mộ		Hâm mộ					MÔ HÌNH của TRÁI TIM được HÂM MỘ
+暮	Mộ		Trời tối				MÔ HÌNH NGÀY TRỜI TỐI
+募	Mộ		Chiêu mộ				MÔ HÌNH dùng năng LỰC để CHIÊU MỘ
+幕	Mạc		Cái rèm					MÔ HÌNH dùng KHĂN làm CÁI RÈM
+暴	Bạo		Bạo lực			bou		NƯỚC NHẬT nơi công CỘNG không có BẠO lực
+爆	Bộc		Bom				boku	Ngọn LỬA BẠO lực dâng cao xảy ra đánh BOM
+綿	Miên	Bông vải		men		SỢI TƠ màu TRẮNG đan KHĂN làm từ BÔNG VẢI
+錦	Cẩm		Thổ cẩm					KIM loại màu TRẮNG gắn vào KHĂN thổ CẨM
+絹	Quyên	Lụa						Đêm TRĂNG MỒM phun TƠ LỤA
+輸	Thâu	Nhập khẩu				NGƯỜI được TIÊN tặng cho chiếc XE NHẬP KHẨU
+愉	Du		Vui vẻ					NGƯỜI được gặp TIÊN nên TRÁI TIM VUI VẺ
+諭	Dụ		Dạy bảo					NGƯỜI được TIÊN NÓI chuyện và DẠY BẢO
+癒	Dũ		Chữa khỏi				Muốn CHỮA KHỎI BỆNH cho NGƯỜI thì trước TIÊN cần chữa TÂM bệnh
+濁	Trọc	Vẩn đục					NƯỚC MẮT BAO nhiêu côn TRÙNG gây VẨN ĐỤC
+帝	Đế		Hoàng đế				ĐỨNG trong ĐÊM quàng KHĂN là hoàng ĐẾ
+締	Đế		Ràng buộc				Hoàng ĐẾ bị sợi TƠ RÀNG BUỘC
+諦	Đế		Từ bỏ					Hoàng ĐẾ không bao giờ NÓI TỪ BỎ
+宇	Vũ		Vũ trụ					Dưới MÁI NHÀ KHÔ ráo là VŨ trụ bao la
+芋	Dụ		Củ khoai				Đốt CỎ KHÔ nướng KHOAI
+余	Dư		Dư thừa					NGƯỜI có 2 vợ bé là DƯ thừa
+除	Trừ		Trừ bỏ					Em BỒ DƯ thừa thì phải TRỪ bỏ
+徐	Từ		Từ từ					ĐÈ lên nhau chạy là DƯ thừa, cứ TỪ TỪ
+互	Hỗ		Hỗ trợ					HỖ trợ 69
+茶	Trà		Trà xanh				Cô Thảo là NGƯỜI HÔ lên khi uống TRÀ xanh
+途	Đồ		Đường					DẪN ĐƯỜNG là DƯ thừa
+塗	Đồ		Sơn						NƯỚC SƠN DƯ thừa chảy xuống ĐẤT
+斜	Tà		Mặt nghiêng				ĐẤU DƯ thừa thì NGHIÊNG
+凶	Hung	Hung ác					Đóng dấu X vào MỒM thật HUNG ác
+胸	Hung	Ngực					Em NGUYỆT có BAO nhiêu HUNG ác trong NGỰC
+脳	Não		Não bộ					Em NGUYỆT có NÃO HUNG ác đang PHÁT SÁNG
+悩	Não		Phiền não				TRÁI TIM HUNG ác PHÁT SÁNG gây PHIỀN NÃO
+秀	Tú		Tuấn tú					HÒA 13 tuổi rất tuấn TÚ
+誘	Dụ		Mời						Lời NÓI của người tuấn TÚ DỤ MỜI rất dễ
+透	Thấu	Trong suốt				Tuấn TÚ DẪN tới THẤU suốt mọi việc
+携	Huề		Đi cùng					TAY dẫn 13 con CHIM ĐI CÙNG
+疑	Nghi	Nghi ngờ				NGHI NGỜ thằng HẠ NHÂN lúc RẢNH RỖI chốn đi bắn TÊN
+擬	Nghĩ	Làm theo				TAY mặc dù NGHI NGỜ nhưng vẫn LÀM THEO
+凝	Ngưng	Ngưng đọng				NGHI NGỜ BĂNG bị NGƯNG ĐỌNG
+郷	Hương	Quê hương				YÊU mà KHÔNG TỐT thì em BỒ về QUÊ HƯƠNG
+響	Hưởng	Ảnh hưởng				ÂM THANH của QUÊ HƯƠNG có ẢNH HƯỞNG
+肥	Phì		Phì nhiêu				Em NGUYỆT có MÀU SẮC PHÌ NHIÊU
+把	Bả		Cầm, giữ				TAY có MÀU SẮC chứng tỏ đi đánh BẢ
+仙	Tiên	Cô tiên					NGƯỜI trên NÚI là TIÊN
+仏	Phật	Phật giáo				NGƯỜI đi theo PHẬT GIÁO riêng TƯ
 払	Phất	Trả tiền				TAY cầm 4 triệu đi TRẢ TIỀN
-私	Tư		Riêng tư				
-机	Kỷ		Cái bàn					
-肌	Cơ		Da thịt					
-飢	Cơ		Đói					
-処	Xử		Xử lý					
-拠	Cứ		Chứng cứ				
-冗	Nhũng	Đùa					
-敬	Kính	Tôn kính				
-驚	Kinh	Kinh ngạc				
-警	Cảnh	Cảnh sát				
-勤	Cần		Cần cù					
-謹	Cẩn		Cẩn trọng				
-僅	Cận		Lượng nhỏ				
-憂	Ưu		Buồn rầu				
-優	Ưu		Hiền lành				
-慶	Khánh	Khánh thành				
-穴	Huyệt	Cái hố					
-坑	Khanh	Chôn					
-抗	Kháng	Kháng cự				
-若	Nhược	Trẻ					
-匿	Nặc		Nặc danh				
-諾	Nặc		Đồng ý					
-叫	Khiếu	Hét					
-収	Thu		Thu nhập				
-糾	Củ		Quy củ					
-裁	Tài		Phán xét				
-栽	Tài		Trồng cây				
-載	Tải		Vận tải					
-戴	Đái		Nhận					
-磁	Từ		Từ trường				
-滋	Tư		Phồn thịnh				
-慈	Từ		Nhân từ					
-幽	U		U sầu					
-就	Tựu		Thành tựu				
-蹴	Xúc		Đá					
-沈	Trầm	Trầm ngâm				
-枕	Chẩm	Cái gối					
-虹	Hồng	Cầu vồng				
-紅	Hồng	Son môi					
-江	Giang	Giang sơn				
-座	Tọa		Ngồi					
-挫	Tỏa		Bẻ cong					
-刻	Khắc	Điêu khắc				
-劾	Hặc		Buộc tội				
-核	Hạch	Hạt					
-該	Cai		Tương ứng				
-骸	Hài		Thi hài					
-担	Đảm		Đảm đương				
-胆	Đảm		Can đảm					
-但	Đãn		Tuy nhiên				
-壇	Đàn		Bệ bục					
-旦	Đán		Nguyên đán				
-宣	Tuyên	Tuyên truyền			
-喧	Huyên	Ầm ỹ					
-恒	Hằng	Vĩnh hằng				
-垣	Viên	Hàng rào				
-唐	Đường	Nhà Đường				
-糖	Đường	Chất đường				
-班	Ban		Ban nhóm				
-斑	Ban		Lốm đốm					
-純	Thuần	Đơn thuần				
-鈍	Độn		Cùn					
-頓	Đốn		Chỉnh đốn				
-宅	Trạch	Nhà riêng				
-託	Thác	Ủy thác					
-補	Bổ		Bổ sung					
-捕	Bổ		Bắt					
-哺	Bộ		Mớm					
-浦	Phổ		Bến sông				
-舗	Phố		Phố xá					
-一	Nhất	Số 1					
-壱	Nhất	Số 1					
-二	Nhị		Số 2					
-弐	Nhị		Số 2					
-匹	Thất	Đếm con vật				
-春	Xuân	Mùa xuân				
-奏	Tấu		Diễn tấu				
-泰	Thái	Thái bình				
-奉	Phụng	Phụng sự				
-棒	Bổng	Cái gậy					
-俸	Bổng	Bổng lộc				
-操	Thao	Thao tác				
-繰	Tao		Kéo tơ					
-藻	Tảo		Tảo biển				
-燥	Táo		Khô ráo					
-蔵	Tàng	Tàng trữ				
-臓	Tạng	Nội tạng				
-覧	Lãm		Triển lãm				
-艦	Hạm		Chiến hạm				
-鑑	Giám	Gương					
-監	Giám	Giám đốc				
-濫	Lạm		Lạm phát				
-藍	Lam		Màu chàm				
-鬼	Quỷ		Ma quỷ					
-塊	Khối	Tảng khối				
-魂	Hồn		Linh hồn				
-魔	Ma		Ma quỷ					
-魅	Mị		Ma mị					
-醜	Xú		Xấu xí					
-為	Vi		Hành vi					
-偽	Ngụy	Ngụy biện				
-卵	Noãn	Trứng					
-柳	Liễu	Cây liễu				
-模	Mô		Mô hình					
-膜	Mô		Mô, màng				
-摸	Mạc		Sao lại					
-漠	Mạc		Sa mạc					
-玄	Huyền	Đen					
-弦	Huyền	Dây cung				
-舷	Huyền	Mạn thuyền				
-絃	Huyền	Dây đàn					
-幺	Yêu		Nhỏ					
-幻	Ảo		Huyền ảo				
-幼	Ấu		Ấu thơ					
-荒	Hoang	Hoang vắng				
-慌	Hoảng	Hoảng hốt				
-威	Uy		Uy quyền				
-滅	Diệt	Bất diệt				
-蔑	Miệt	Miệt thị				
-隠	Ẩn		Ẩn giấu					
-穏	Ổn		Ổn định					
-交	Giao	Cắt nhau				
-郊	Ngoại	Ngoại ô					
-較	Giác	So sánh					
-絞	Giảo	Vắt thắt				
-唱	Xướng	Ca xướng				
-冒	Mạo		Mạo hiểm				
-帽	Mạo		Mũ					
-貌	Mạo		Dung mạo				
-劇	Kịch	Ca kịch					
-虚	Hư		Hư không				
-嘘	Hư		Nói dối					
-戯	Hí		Du hí					
-膚	Phu		Da					
-慮	Lự		Lưỡng lự				
-虎	Hổ		Con hổ					
-虜	Lỗ		Tù binh					
-虐	Ngược	Ngược đãi				
-呉	Ngô		Nước Ngô				
-誤	Ngộ		Ngộ nhận				
-悟	Ngộ		Giác ngộ				
-娯	Ngu		Vui vẻ					
-虞	Ngu		Sợ hãi					
-卸	Tá		Bán sỉ					
-御	Ngự		Ngự uyển				
-狭	Hiệp	Hẹp					
-挟	Hiệp	Kẹp					
-峡	Hạp		Hẻm núi					
-出	Xuất	Ra					
-拙	Chuyết	Vụng về					
-屈	Khuất	Bất khuất				
-掘	Quật	Khai quật				
-堀	Quật	Hang động				
-窟	Quật	Cái hang				
-仰	Ngưỡng	Ngưỡng mộ				
-迎	Nghênh	Nghênh đón				
-抑	Ức		Đè nén					
+私	Tư		Riêng tư				HÒA là riêng TƯ của tôi
+机	Kỷ		Cái bàn					CÂY dùng làm BÀN GHẾ
+肌	Cơ		Da thịt					Em NGUYỆT ngồi trên GHẾ hở DA THỊT
+飢	Cơ		Đói						ĐÓI ĂN cả GHẾ
+処	Xử		Xử lý					TRUY DUỔI cầm GHẾ XỬ LÝ
+拠	Cứ		Chứng cứ				XỬ LÝ TAY đó bằng CHỨNG CỨ
+冗	Nhũng	Đùa						Trong ĐÊM cầm GHẾ là ĐÙA
+敬	Kính	Tôn kính				Cô THẢO CÚ lên ĐÁNH người mất hết TÔN KÍNH
+驚	Kinh	Kinh ngạc				TÔN KÍNH con NGỰA rất KINH NGẠC
+警	Cảnh	Cảnh sát				NÓI chuyện với CẢNH SÁT phải TÔN KÍNH
+勤	Cần		Cần cù					Cô THẢO mở MỒM nói ông VUA dùng LỰC CẦN CÙ
+謹	Cẩn		Cẩn trọng				Cô THẢO mở MỒM nói CẨN trọng với ông VUA
+僅	Cận		Lượng nhỏ				Cô THẢO là một LƯỢNG NHỎ NGƯỜI CẬN mở MỒM với ông VUA
+憂	Ưu		Buồn rầu				Còn lại MỘT MÌNH trong ĐÊM TRÁI TIM SAU ĐÓ rất ƯU tư BUỒN RẦU
+優	Ưu		Hiền lành				NGƯỜI hay BUỒN là HIỀN LÀNH
+慶	Khánh	Khánh thành				SAU khi TRÁI TIM cả ĐÊM suy nghĩ thì sẽ KHÁNH THÀNH cái HÀNG RÀO dưới HIÊN NHÀ 
+穴	Huyệt	Cái hố					8 CÁI HỐ dưới MÁI NHÀ
+坑	Khanh	Chôn					CHÔN ĐẦU GHẾ xuống ĐẤT
+抗	Kháng	Kháng cự				TAY KHÁNG CỰ GHẾ đập vào ĐẦU
+若	Nhược	Trẻ						Cô THẢO phải TRẺ
+匿	Nặc		Nặc danh				TỦ đựng thư NẶC danh của giới TRẺ
+諾	Nặc		Đồng ý					ĐỒNG Ý lời NÓI của người TRẺ
+叫	Khiếu	Hét						4 cái MỒM đang HÉT
+収	Thu		Thu nhập				Tháng này THU nhập lại 4 triệu
+糾	Củ		Quy củ					Sợi TƠ đáng giá 4 CỦ
+裁	Tài		Phán xét				Phân chia 10 bộ Y phục QUA đó thể hiện TÀI PHÁN XÉT
+栽	Tài		Trồng cây				Trồng được 10 CÂY QUA đó có TÀI TRỒNG CÂY
+載	Tải		Vận tải					Chở được 10 XE QUA VẬN TẢI
+戴	Đái		Nhận					Được 10 điểm DỊ xin bỏ QUA không dám NHẬN
+磁	Từ		Từ trường				2 người YÊU được 21 ngày mà quấn nhau như ĐÁ TỪ TRƯỜNG 
+滋	Tư		Phồn thịnh				2 người YÊU được 21 ngày thì là việc riêng TƯ chứ không phải việc đất NƯỚC
+慈	Từ		Nhân từ					2 người YÊU được 21 ngày thì TRÁI TIM trở nên NHÂN TỪ
+幽	U		U sầu					2 người YÊU bị ngăn trở nên U SẦU
+就	Tựu		Thành tựu				Nuôi CHÓ ở KINH ĐÔ là THÀNH TỰU
+蹴	Xúc		Đá						CHÂN có THÀNH TỰU ĐÁ bóng
+沈	Trầm	Trầm ngâm				Trong ĐÊM NGƯỜI TRẦM ngâm ra NƯỚC
+枕	Chẩm	Cái gối					Trong ĐÊM NGƯỜI dùng CÂY làm GỐI
+虹	Hồng	Cầu vồng				Côn TRÙNG có CÔNG tạo CỒNG VỒNG HỒNG
+紅	Hồng	Son môi					SON MÔI và sợi TƠ HỒNG
+江	Giang	Giang sơn				Có CÔNG với GIANG SƠN đất NƯỚC
+座	Tọa		Ngồi					2 NGƯỜI NGỒI trên ĐẤT dưới HIÊN NHÀ
+挫	Tỏa		Bẻ cong					Có 2 NGƯỜI đang ngồi trên ĐẤT TAY bị BẺ CONG
+刻	Khắc	Điêu khắc				Dùng ĐAO ĐIÊU KHẮC con LỢN
+劾	Hặc		Buộc tội				BUỘC TỘI con LỢN phải có LỰC
+核	Hạch	Hạt						Con LƠN ăn CÂY có HẠT
+該	Cai		Tương ứng				Lời NÓI TƯƠNG ỨNG như LỢN
+骸	Hài		Thi hài					THI HÀI XƯƠNG LỢN
+担	Đảm		Đảm đương				NGÀY mồng 1 TAY ĐẢM ĐƯƠNG mọi việc
+胆	Đảm		Can đảm					Em NGUYỆT đi chơi NGÀY mồng 1 rất CAN ĐẢM
+但	Đãn		Tuy nhiên				NGƯỜI đứng NGÀY mồng 1 TUY NHIÊN không làm gì
+壇	Đàn		Bệ bục					Ngày mồng 1 ra chỗ ĐẤT ĐẦU HỒI để đặt BỆ BỤC
+旦	Đán		Nguyên đán				NGÀY mồng 1 là NGUYÊN ĐÁN
+宣	Tuyên	Tuyên truyền			Dưới MÁI NHÀ đi TUYÊN truyền mất 2 NGÀY
+喧	Huyên	Ầm ỹ					MỒM TUYÊN truyền rất ẦM ỹ
+恒	Hằng	Vĩnh hằng				Trái TIM yêu được 2 NGÀY đã VĨNH HẰNG
+垣	Viên	Hàng rào				Mất 2 NGÀY cắm HÀNG RÀO xuống ĐẤT
+唐	Đường	Nhà Đường				Dưới HIÊN NHÀ EM mở MỒM ăn ĐƯỜNG
+糖	Đường	Chất đường				CHẤT ĐƯỜNG trong GẠO làm ĐƯỜNG
+班	Ban		Ban nhóm				2 ông VUA bị ĐẠO lập BAN NHÓM
+斑	Ban		Lốm đốm					2 ông VUA ĐẦU đánh dấu X LỐM ĐỐM
+純	Thuần	Đơn thuần				Đơn THUẦN dùng sợi TƠ trên 7 ngọn NÚI
+鈍	Độn		Cùn						Đeo VÀNG như 7 NÚI nhưng rất ĐỘN
+頓	Đốn		Chỉnh đốn				Bán 7 ngọn NÚI lấy tiền GIẤY thì phải CHỈNH ĐỐN
+宅	Trạch	Nhà riêng				LÔNG dưới HIÊN NHÀ RIÊNG
+託	Thác	Ủy thác					NÓI ỦY THÁC LÔNG
+補	Bổ		Bổ sung					Sử DỤNG hết 11 bộ Y phục thì phải BỔ SUNG
+捕	Bổ		Bắt						Sử DỤNG 11 TAY để BẮT
+哺	Bộ		Mớm						Sử DỤNG 11 MỒM để MỚM
+浦	Phổ		Bến sông				Sử DỤNG 11 chỗ có NƯỚC để làm BẾN SÔNG
+舗	Phố		Phố xá					Sử DỤNG 11 PHỐ XÁ
+一	Nhất	Số 1					NHẤT là 1
+壱	Nhất	Số 1					Binh SỸ trong ĐÊM cười HI là điên số 1
+二	Nhị		Số 2					Nhị là 2
+弐	Nhị		Số 2					1 2 CHIẾM LẤY là số 2
+匹	Thất	Đếm con vật				Trong TỦ đựng CHÂN ĐẾM CON VẬT
+春	Xuân	Mùa xuân				3 NGƯỜI đi chơi NGÀY MÙA XUÂN
+奏	Tấu		Diễn tấu				3 NGƯỜI trên TRỜI đang DIỄN TẤU
+泰	Thái	Thái bình				3 NGƯỜI lãnh đạo đất NƯỚC THÁI BÌNH
+奉	Phụng	Phụng sự				3 NGƯỜI PHỤNG SỰ 20 năm
+棒	Bổng	Cái gậy					PHỤNG sự tới lúc CÂY làm GẬY
+俸	Bổng	Bổng lộc				NGƯỜI PHỤNG sự được BỔNG LỘC
+操	Thao	Thao tác				TAY THAO TÁC SẢN PHẨM trên CÂY
+繰	Tao		Kéo tơ					KÉO TƠ tạo SẢN PHẨM trên CÂY
+藻	Tảo		Tảo biển				TẢO là SẢN PHẨM của CÂY CỎ dưới NƯỚC
+燥	Táo		Khô ráo					LỬA đốt KHÔ RÁO SẢN PHẨM trên CÂY
+蔵	Tàng	Tàng trữ				Cô THẢO bị TÀNG TRỮ QUA các THẦN 
+臓	Tạng	Nội tạng				Em NGUYỆT TÀNG TRỮ NỘI TẠNG
+覧	Lãm		Triển lãm				THẦN NẰM 1 mình NHÌN TRIỂN LÃM
+艦	Hạm		Chiến hạm				GIÁM ĐỐC dùng THUYỀN làm CHIẾN HẠM
+鑑	Giám	Gương					GIÁM ĐỐC dùng VÀNG làm GƯƠNG
+監	Giám	Giám đốc				NẰM 1 mình trên ĐĨA như THẦN là GIÁM ĐỐC
+濫	Lạm		Lạm phát				Đất NƯỚC có nhiều GIÁM ĐỐC thì LẠM PHÁT
+藍	Lam		Màu chàm				GIÁM ĐỐC thích CỎ MÀU CHÀM
+鬼	Quỷ		Ma quỷ					4 cái CHÂM chạy trên RUỘNG là QUỶ
+塊	Khối	Tảng khối				QUỶ nằm ra ĐẤT thành TẢNG KHỐI
+魂	Hồn		Linh hồn				Linh HỒN QUỶ tồn tại 24h
+魔	Ma		Ma quỷ					MA + QUỶ = MA QUỶ
+魅	Mị		Ma mị					Con QUỶ chưa đến VỊ thành niên nên rất MA MỊ
+醜	Xú		Xấu xí					QUỶ uống RƯỢU rất XẤU XÍ
+為	Vi		Hành vi					HÀNH VI cắt bánh
+偽	Ngụy	Ngụy biện				NGƯỜI có HÀNH VI NGỤY BIỆN
+卵	Noãn	Trứng					Noãn là TRỨNG
+柳	Liễu	Cây liễu				CÂY TRỨNG là CÂY LIỄU
+模	Mô		Mô hình					MÔ HÌNH CÂY CỎ bên NHẬT rất LỚN
+膜	Mô		Mô, màng				Mô của em NGUYỆT
+摸	Mạc		Sao lại					TAY SAO LẠI MÔ HÌNH
+漠	Mạc		Sa mạc					MÔ HÌNH SA MẠC có NƯỚC
+玄	Huyền	Đen						Huyền là Đen
+弦	Huyền	Dây cung				DÂY CUNG màu ĐEN
+舷	Huyền	Mạn thuyền				MẠN THUYỀN màu ĐEN
+絃	Huyền	Dây đàn					DÂY ĐÀN làm từ sợi TƠ ĐEN
+幺	Yêu		Nhỏ						YÊU là NHỎ
+幻	Ảo		Huyền ảo				Tình YÊU BAO nhiêu HUYỀN ẢO
+幼	Ấu		Ấu thơ					ẤU THƠ YÊU thật LỰC
+荒	Hoang	Hoang vắng				Cô THẢO tử VONG trên SÔNG HOANG VẮNG
+慌	Hoảng	Hoảng hốt				TRÁI TIM nơi HOANG VẮNG rất HOẢNG HỐT
+威	Uy		Uy quyền				QUA 1 người PHỤ NỮ thể hiện UY QUYỀN
+滅	Diệt	Bất diệt				NƯỚC qua 1 lần LỬA trở nên BẤT DIỆT
+蔑	Miệt	Miệt thị				QUA ánh MẮT của cô THẢO thấy sự MIỆT THỊ
+隠	Ẩn		Ẩn giấu					BỒ đặt MÓNG tay EM lên TRÁI TIM ẨN GIẤU gì
+穏	Ổn		Ổn định					HÒA đặt MÓNG tay EM lên TRÁI TIM rất ỔN
+交	Giao	Cắt nhau				Lần ĐẦU GIAO lưu với BỐ vợ
+郊	Ngoại	Ngoại ô					GIAO lưu với BỒ ở NGOẠI ô
+較	Giác	So sánh					GIAO lưu XE để SO SÁNH
+絞	Giảo	Vắt thắt				Sợi TƠ GIAO VẮT THẮT nhau
+唱	Xướng	Ca xướng				MỒM CA XƯỚNG 2 NGÀY
+冒	Mạo		Mạo hiểm				MẮT nhìn TRỜI là MẠO hiểm
+帽	Mạo		Mũ						Dùng KHĂN làm MŨ rất MẠO hiểm
+貌	Mạo		Dung mạo				DUNG MẠO con SÂU CHÂN TRẮNG
+劇	Kịch	Ca kịch					HỔ và LỢN cầm ĐAO diễn CA KỊCH
+虚	Hư		Hư không				HỔ không XẾP HÀNG là HƯ
+嘘	Hư		Nói dối					MỒM HƯ là NÓI DỐI
+戯	Hí		Du hí					QUA 1 lần du HÍ là HƯ
+膚	Phu		Da						Dùng DẠ DÀY HỔ để làm DA
+慮	Lự		Lưỡng lự				TRÁI TIM HỔ đang LƯỠNG LỰ trên RUỘNG
+虎	Hổ		Con hổ					CHÂN CON HỔ
+虜	Lỗ		Tù binh					Người ĐÀN ÔNG mạnh như HỔ bị bắt làm TÙ BINH
+虐	Ngược	Ngược đãi				Bị EM HỔ cái NGƯỢC ĐÃI
+呉	Ngô		Nước Ngô				18 tay hứng MỒM ăn NGÔ
+誤	Ngộ		Ngộ nhận				NÓI thích ăn NGÔ là NGỘ nhận
+悟	Ngộ		Giác ngộ				5 cái MỒM nói để TRÁI TIM GIÁC NGỘ
+娯	Ngu		Vui vẻ					Người CON GÁI ăn NGÔ VUI VẺ
+虞	Ngu		Sợ hãi					Con HỔ SỢ HÃI ăn NGÔ
+卸	Tá		Bán sỉ					Buổi TRƯA DỪNG LẠI PHỌT TIẾT thì mang đi BÁN SỈ
+御	Ngự		Ngự uyển				1 TÁ người ĐÈ nhau ở NGỰ UYỂN
+狭	Hiệp	Hẹp						2 NGƯỜI dùng 2 TAY bắt CHÓ ở chỗ HẸP
+挟	Hiệp	Kẹp						2 NGƯỜI dùng 2 TAY để KẸP
+峡	Hạp		Hẻm núi					2 NGƯỜI dang 2 TAY đi qua HẺM NÚI
+出	Xuất	Ra						XUẤT là RA
+拙	Chuyết	Vụng về					Dùng TAY XUẤT RA rất VỤNG VỀ
+屈	Khuất	Bất khuất				XÁC CHẾT XUẤT RA rất BẤT KHUẤT
+掘	Quật	Khai quật				Dùng TAY KHAI QUẬT ở chỗ KHUẤT
+堀	Quật	Hang động				ĐẤT ở chỗ KHUẤT là HANG ĐỘNG
+窟	Quật	Cái hang				LỖ ở chỗ KHUẤT là CÁI HANG
+仰	Ngưỡng	Ngưỡng mộ				NGƯỜI ra CD rất NGƯỠNG MỘ
+迎	Nghênh	Nghênh đón				Ra CD DẪN tới được NGHÊNH ĐÓN
+抑	Ức		Đè nén					TAY xem CD nhiều bị ỨC đè nén
 頼	Lại		Ỷ lại					THÚC vào ĐẦU chừa thói Ỷ LẠI
-瀬	Lại		Nông cạn				
-頃	Khoảnh	Khoảnh khắc				
-頑	Ngoan	Ngoan cố				
-願	Nguyện	Nguyện ước				
-題	Đề		Vấn đề					
-項	Hạng	Hạng mục				
-顕	Hiển	Hiển nhiên				
-煩	Phiền	Phiền não				
-頒	Ban		Ban bố					
-傾	Khuynh	Khuynh hướng			
-須	Tu		Cần thiết				
-侵	Xâm		Xâm lược				
-浸	Tẩm		Ngâm tẩm				
-寝	Tẩm		Ngủ					
-尋	Tầm		Tìm kiếm, hỏi			
-堅	Kiên	Kiên cố					
-賢	Hiền	Khôn ngoan				
-緊	Khẩn	Khẩn trương				
-腎	Thận	Quả thận				
-叔	Thúc	Bác trai				
-淑	Thục	Hiền thục				
-寂	Tịch	Lặng im					
-戚	Thích	Thân thích				
-耐	Nại		Nhẫn nại				
-端	Đoan	Cực đoan				
-需	Nhu		Nhu cầu					
-濡	Nhu		Ướt					
-儒	Nho		Nho nhã					
-龍	Long	Con rồng				
-襲	Tập		Tập kích				
-籠	Lung	Cái giỏ					
-称	Xưng	Danh xưng				
-衡	Hành	Sự cân bằng				
-昼	Trú		Buổi trưa				
-尽	Tận		Tận cùng				
-迅	Tấn		Nhanh chóng				
-畜	Súc		Gia súc					
-蓄	Súc		Tích trữ				
-赤	Xích	Màu đỏ					
-赦	Xá		Xá tội					
-跡	Tích	Dấu tích				
-踏	Đạp		Đạp đổ					
-嚇	Hách	Dọa nạt					
-凡	Phàm	Phàm tục				
-帆	Phàm	Thuyền buồm				
-汎	Phiếm	Tràn lan				
-邪	Tà		Tà ma					
-雅	Nhã		Nho nhã					
-之	Chi		Đây, này				
-芝	Chi		Cỏ thơm					
-乏	Phạp	Nghèo					
-乙	Ất		Can thứ 2				
-乞	Khất	Ăn xin					
-乾	Cạn		Khô cạn					
-辰	Thần	Thìn					
-辱	Nhục	Nhục nhã				
-震	Chấn	Địa chấn				
-振	Chấn	Chấn động				
-娠	Thần	Mang thai				
-唇	Thần	Cái môi					
-避	Tỵ		Tỵ nạn					
-壁	Bích	Bức tường				
-璧	Bích	Hoàn bích				
-癖	Phích	Thói quen				
-逢	Phùng	Trùng phùng				
-縫	Phùng	Khâu vá					
-峰	Phong	Núi cao					
-蜂	Phong	Con ong					
-寮	Liêu	Ký túc xá				
-僚	Liêu	Đồng nghiệp				
-療	Liệu	Trị liệu				
-瞭	Liệu	Rõ ràng					
-家	Gia		Gia đình				
-嫁	Giá		Lấy chồng				
-稼	Giá		Kiếm tiền				
-豚	Đồn		Con lợn					
-隊	Đội		Bộ đội					
-逐	Trục	Trục xuất				
-塚	Trủng	Mô đất					
-遂	Toại	Toại nguyện				
-微	Vi		Nhỏ bé					
-徴	Trưng	Đặc trưng				
-懲	Trừng	Trừng phạt				
-暴	Bạo		Bạo lực					
-爆	Bộc		Bộc phá					
-泊	Bạc		Trở lại					
-拍	Phách	Vỗ tay					
-迫	Bách	Bí bách					
-伯	Bá		Bá tước					
-舶	Bạc		Tàu thuyền				
-桃	Đào		Cây đào					
-逃	Đào		Đào tẩu					
-兆	Triệu	Nghìn tỉ				
-跳	Khiêu	Khiêu vũ				
-挑	Khiêu	Khiêu chiến				
-眺	Thiếu	Tầm nhìn				
-苗	Miêu	Cây non					
-描	Miêu	Miêu tả					
-猫	Miêu	Con mèo					
-噴	Phún	Phun ra					
-墳	Phần	Phần mộ					
-憤	Phẫn	Phẫn nộ					
-般	Ban		Bình thường				
-搬	Ban		Vận chuyển				
-盤	Bàn		Địa bàn					
-餅󠄀	Bính	Bánh dày				
-併	Tinh	Tuy nhiên				
-塀	Hiên	Hàng rào				
-慢	Mạn		Ngạo mạn				
-漫	Mạn		Lãng mạn				
-離	Li		Li biệt					
-璃	Li		Lưu li					
-壌	Nhưỡng	Thổ nhưỡng				
-醸	Nhưỡng	Lên men					
-譲	Nhượng	Nhượng bộ				
-嬢	Nương	Cô gái					
-酔	Túy		Say					
-粋	Túy		Tinh túy				
-砕	Toái	Phá vỡ					
-枠	Khung	Cái khung				
-有	Hữu		Có					
-賄	Hối		Hối lộ					
-随	Tùy		Tùy tùng				
-髄	Tủy		Xương tủy				
-凹	Ao		Chỗ lõm					
-凸	Đột		Chỗ lồi					
-募	Mộ		Chiêu mộ				
-寡	Quả		Quả phụ					
-隷	Lệ		Nô lệ					
-款	Khoản	Điều khoản				
-鹿	Lộc		Tuần lộc				
-麗	Lệ		Đẹp đẽ					
-麓	Lộc		Chân núi				
-宛	Uyên	Phân công				
-腕	Oản		Cánh tay				
-怨	Oán		Oán hận					
-尉	Úy		Đại úy					
-慰	Úy		An ủi					
-既	Kí		Đã qua					
-慨	Khái	Khẳng khái				
-概	Khái	Khái niệm				
-隔	Cách	Ngăn cách				
-融	Dung	Dung môi				
-甚	Thậm	Rất, lắm				
-堪	Kham	Chịu đựng				
-勘	Khám	Trực giác				
-換	Hoán	Hoán đổi				
-喚	Hoán	Hô hoán					
-掲	Yết		Niêm yết				
-謁	Yết		Yết kiến				
-喝	Hát		Quát mắng				
+瀬	Lại		Nông cạn				Ỷ LẠI vào đất NƯỚC là NÔNG CẠN
+頃	Khoảnh	Khoảnh khắc				KHOẢNH KHẮC nhìn tiền GIẤY cười HI
+頑	Ngoan	Ngoan cố				Để NGUYÊN tờ GIẤY là NGOAN CỐ
+願	Nguyện	Nguyện ước				Viết NGUYỆN ước vào NGUYÊN tờ GIẤY
+題	Đề		Vấn đề					THỊ phi viết lên GIẤY thành vấn ĐỀ
+項	Hạng	Hạng mục				CÔNG trạng viết lên GIẤY thành HẠNG mục
+顕	Hiển	Hiển nhiên				Ở NHẬT XẾP HÀNG thấy tiền GIẤY là HIỂN nhiên
+煩	Phiền	Phiền não				LỬA đốt tiền GIẤY hết PHIỀN não
+頒	Ban		Ban bố					BAN bố PHÂN chia tiền GIẤY
+傾	Khuynh	Khuynh hướng			NGƯỜI trong KHOẢNH khắc theo KHUYNH hướng
+須	Tu		Cần thiết				Đi TU CẦN THIẾT cắt TÓC và bỏ tiền GIẤY
+侵	Xâm		Xâm lược				EM trong ĐÊM lại bị NGƯỜI XÂM
+浸	Tẩm		Ngâm tẩm				EM trong ĐÊM lại ngâm TẨM NƯỚC
+寝	Tẩm		Ngủ						Dưới MÁI NHÀ EM trong ĐÊM dựa TƯỜNG NGỦ
+尋	Tầm		Tìm kiếm, hỏi			EM CÔNG NHÂN mở MỒM hỏi toàn câu THỐN
+堅	Kiên	Kiên cố					THẦN ĐI LẠI trên ĐẤT là KIÊN cố
+賢	Hiền	Khôn ngoan				THẦN ĐI LẠI nhặt được BẢO BỐI là KHÔN NGOAN
+緊	Khẩn	Khẩn trương				THẦN ĐI LẠI nhặt TƠ rất KHẨN trương
+腎	Thận	Quả thận				THẦN ĐI LẠI với em NGUYỆT bị hại THẬN
+叔	Thúc	Bác trai				BÁC TRAI là người TRÊN nhưng LẠI NHỎ tuổi
+淑	Thục	Hiền thục				Bác THỦY rất hiền THỤC
+寂	Tịch	Lặng im					Dưới MÁI NHÀ BÁC TRAI LẶNG IM
+戚	Thích	Thân thích				QUA lại với bề TRÊN là đứa NHỎ là THÂN THÍCH
+耐	Nại		Nhẫn nại				Nhẫn NẠI với NHI đồng rất THỐN
+端	Đoan	Cực đoan				NHI đồng ĐỨNG trên NÚI rất cực ĐOAN
+需	Nhu		Nhu cầu					MƯA là NHU cầu của NHI đồng
+濡	Nhu		Ướt						NHU CẦU NƯỚC để ƯỚT
+儒	Nho		Nho nhã					NGƯỜI có NHU CẦU phải NHO NHÃ
+龍	Long	Con rồng				LONG là CON RỒNG
+襲	Tập		Tập kích				Mặc Y phục RỒNG để TẬP kích
+籠	Lung	Cái giỏ					Dùng TRÚC làm CÁI GIỎ hình CON RỒNG
+称	Xưng	Danh xưng				Nằm với em HÒA ra đưa nhỏ phải XƯNG danh
+衡	Hành	Sự cân bằng				Nấu CÁ TO phải cho cân HÀNH
+昼	Trú		Buổi trưa				XÍCH NGÀY mồng 1 tới BUỔI TRƯA
+尽	Tận		Tận cùng				Bị XÍCH vào BĂNG là TẬN cùng
+迅	Tấn		Nhanh chóng				DẪN NHANH CHÓNG tới chỗ 10 SƯỜN NÚI
+畜	Súc		Gia súc					HUYỀN nuôi GIA SÚC ở RUỘNG
+蓄	Súc		Tích trữ				Cô THẢO TÍCH TRỮ gia SÚC
+赤	Xích	Màu đỏ					ĐỐT ĐẤT thành MÀU ĐỎ
+赦	Xá		Xá tội					XÁ TỘI ĐÁNH dấu MÀU ĐỎ
+跡	Tích	Dấu tích				CHÂN với ĐẦU bị ĐỐT để lại dấu TÍCH
+踏	Đạp		Đạp đổ					CHÂN ĐẠP đổ NƯỚC NHẬT
+嚇	Hách	Dọa nạt					MỒM ĐO ĐỎ là DỌA NẠT
+凡	Phàm	Phàm tục				CHẤM GHẾ PHÀM tục
+帆	Phàm	Thuyền buồm				KHĂN PHÀM trên THUYỀN BUỒM
+汎	Phiếm	Tràn lan				NƯỚC PHÀM tục phù PHIẾM TRÀN LAN
+邪	Tà		Tà ma					RĂNG em BỒ như TÀ ma
+雅	Nhã		Nho nhã					RĂNG CHIM nho NHÃ
+之	Chi		Đây, này				ĐẦU Z ĐÂY NÀY
+芝	Chi		Cỏ thơm					Cỏ Ở ĐÂY là CỎ THƠM
+乏	Phạp	Nghèo					NGƯỜI đứng Z là NGHÈO
+乙	Ất		Can thứ 2				Z ẤT CAN THỨ 2
+乞	Khất	Ăn xin					NGƯỜI NẰM ẤT ở đang ĂN XIN
+乾	Cạn		Khô cạn					20 NGÀY bị ĂN XIN liên tục thì CẠN túi
+辰	Thần	Thìn					Dưới SƯỜN NÚI mặc Y phục là THẦN
+辱	Nhục	Nhục nhã				THẦN THỐN là NHỤC nhã
+震	Chấn	Địa chấn				THẦN MƯA tạo địa CHẤN
+振	Chấn	Chấn động				TAY THẦN tạo CHẤN động
+娠	Thần	Mang thai				NỮ THẦN MANG THAI
+唇	Thần	Cái môi					MỒM THẦN có CÁI MÔI
+避	Tỵ		Tỵ nạn					DẪN XÁC CHẾT mở MỒM ăn CAY đi TỴ NẠN
+壁	Bích	Bức tường				XÁC CHẾT mở MỒM ăn CAY ngồi dưới ĐẤT cạnh BỨC TƯỜNG
+璧	Bích	Hoàn bích				XÁC CHẾT mở MỒM ăn CAY phun ra NGỌC BÍCH
+癖	Phích	Thói quen				XÁC CHẾT mở MỒM ăn CAY là THÓI QUEN bị BỆNH
+逢	Phùng	Trùng phùng				SAU 30 năm DẪN tới TRÙNG PHÙNG
+縫	Phùng	Khâu vá					TRÙNG PHÙNG vì dùng sợi TƠ KHÂU VÁ
+峰	Phong	Núi cao					SAU 30 năm NÚI thành NÚI CAO
+蜂	Phong	Con ong					SAU 30 năm côn TRÙNG thành CON ONG
+寮	Liêu	Ký túc xá				Dưới MÁI NHÀ TO có MẶT TRỜI nho NHỎ là KTX
+僚	Liêu	Đồng nghiệp				NGƯỜI trong KTX là ĐỒNG NGHIỆP
+療	Liệu	Trị liệu				TRỊ lIỆU BỆNH trong KTX
+瞭	Liệu	Rõ ràng					MẮT ở KTX rất RÕ RÀNG
+家	Gia		Gia đình				Dưới MÁI NHÀ có GIA ĐÌNH LỢN
+嫁	Giá		Lấy chồng				NGƯỜI PHỤ NỮ có GIA ĐÌNH là LẤY CHỒNG
+稼	Giá		Kiếm tiền				HÒA KIẾM TIỀN nuôi GIA ĐÌNH
+豚	Đồn		Con lợn					Em NGUYỆT nuôi CON LỢN
+隊	Đội		Bộ đội					BỘ ĐỘI nuôi 21 CON LỢN
+逐	Trục	Trục xuất				Nuôi LỢN DẪN tới bị TRỤC XUẤT
+塚	Trủng	Mô đất					TRONG ĐÊM LỢN nằm ra ĐẤT thành MÔ ĐẤT
+遂	Toại	Toại nguyện				Được 2 CON LỢN DẪN tới TOẠI NGUYỆN
+微	Vi		Nhỏ bé					1 CHÂN NHỎ BÉ dưới NÚI bị ĐÈ ra ĐÁNH
+徴	Trưng	Đặc trưng				VUA dưới NÚI bị ĐÈ ra ĐÁNH là đặc TRƯNG
+懲	Trừng	Trừng phạt				ĐẶC TRƯNG TRÁI TIM không tốt bị TRỪNG PHẠT
+暴	Bạo		Bạo lực					Nước NHẬT ở nơi CÔNG CỘNG không có BẠO LỰC
+爆	Bộc		Bộc phá					LỬA BẠO lực thành BỘC phá
+泊	Bạc		Trở lại					NƯỚC TRẮNG TRỞ LẠI
+拍	Phách	Vỗ tay					TAY TRẮNG là VỖ TAY
+迫	Bách	Bí bách					BÁCH DẪN tới BÍ BÁCH
+伯	Bá		Bá tước					NGƯỜI đứng TRẮNG là BÁ tước
+舶	Bạc		Tàu thuyền				THUYỀN TRẮNG là TÀU THUYỀN
+桃	Đào		Cây đào					CÂY NGHÌN TỶ là CÂY ĐÀO
+逃	Đào		Đào tẩu					Có NGHÌN TỶ DẪN tới ĐÀO tẩu
+兆	Triệu	Nghìn tỉ				4 cái lông CHÂN đáng giá NGHÌN TỶ
+跳	Khiêu	Khiêu vũ				CHÂN KHIÊU VŨ đáng giá NGHÌN TỶ
+挑	Khiêu	Khiêu chiến				TAY mang NGHÌN TỶ đi KHIÊU CHIẾN
+眺	Thiếu	Tầm nhìn				MẮT có NGHÌN TỶ là THIẾU TẦM NHÌN
+苗	Miêu	Cây non					CỎ trên RUỘNG là CÂY NON
+描	Miêu	Miêu tả					TAY MIÊU TẢ CÂY NON
+猫	Miêu	Con mèo					CHÓ MIÊU là CON MÈO
+噴	Phún	Phun ra					MỒM ăn 10 CỎ PHUN RA bảo BỐI
+墳	Phần	Phần mộ					PHUN ra ĐẤT PHẦN MỘ
+憤	Phẫn	Phẫn nộ					PHUN lung tung TRÁI TIM PHẪN NỘ
+般	Ban		Bình thường				THUYỀN của kẻ THÙ rất BÌNH THƯỜNG
+搬	Ban		Vận chuyển				TAY VẬN CHUYỂN là BÌNH THƯỜNG
+盤	Bàn		Địa bàn					Trên ĐỊA BÀN thì BÌNH THƯỜNG rẫ dũng MÃNH
+餅󠄀	Bính	Bánh dày				2 TAY ăn BÁNH DÀY
+併	Tinh	Tuy nhiên				NGƯỜI có 2 TAY TUY NHIÊN không làm gì được
+塀	Hiên	Hàng rào				2 TAY của XÁC CHẾT đang bới ĐẤT ở HÀNG RÀO
+慢	Mạn		Ngạo mạn				TRÁI TIM NGẠO MẠN
+漫	Mạn		Lãng mạn				NƯỚC NHẬT nhắm MẮT LẠI là lãng MẠN
+離	Li		Li biệt					Con CHIM ĐẦU HUNG ác nên cách li 4 phía BIÊN GIỚI
+璃	Li		Lưu li					VUA Li là LƯU LI
+壌	Nhưỡng	Thổ nhưỡng				ĐẤT CÔ GÁI THỔ NHƯỠNG
+醸	Nhưỡng	Lên men					RƯỢU CÔ GÁI LÊN MEN
+譲	Nhượng	Nhượng bộ				Lời NÓI với CÔ GÁI phải NHƯỢNG BỘ
+嬢	Nương	Cô gái					6 CÔ GÁI vắt Y phục ở chỗ HÀNG RÀO
+酔	Túy		Say						RƯỢU 90 năm thì SAY
+粋	Túy		Tinh túy				GẠO 90 năm là TINH TÚY
+砕	Toái	Phá vỡ					ĐÁ 90 năm khó PHÁ VỠ
+枠	Khung	Cái khung				CÂY 90 năm làm CÁI KHUNG
+有	Hữu		Có						Em NGUYỆT CÓ NA
+賄	Hối		Hối lộ					CÓ bảo BỐI mang đi HỐI LỘ
+随	Tùy		Tùy tùng				CÓ BỒ DẪN làm TÙY TÙNG
+髄	Tủy		Xương tủy				CÓ XƯƠNG DẪN tới XƯƠNG TỦY
+凹	Ao		Chỗ lõm					AO là CHỖ LÕM
+凸	Đột		Chỗ lồi					ĐỘT là CHỖ LỒI
+募	Mộ		Chiêu mộ				MÔ HÌNH dùng năng LỰC để CHIÊU MỘ
+寡	Quả		Quả phụ					Dưới MÁI NHÀ QUẢ PHỤ TỰ PHÂN chia tài sản
+隷	Lệ		Nô lệ					Binh SỸ chỉ THỊ em THỦY làm NÔ LỆ
+款	Khoản	Điều khoản				Binh SỸ chỉ THỊ bị KHUYẾT ĐIỀU KHOẢN
+鹿	Lộc		Tuần lộc				Dưới HIÊN NHÀ chỗ HÀNG RÀO có TỶ con TUẦN LỘC
+麗	Lệ		Đẹp đẽ					2 MẮT TUẦN LỘC ĐẸP ĐẼ
+麓	Lộc		Chân núi				Tuần LỘC sống trong RỪNG ở CHÂN NÚI
+宛	Uyên	Phân công				Dưới MÁI NHÀ TA được PHÂN CÔNG nấu C
+腕	Oản		Cánh tay				PHÂN CÔNG vào CÁNH TAY em NGUYỆT
+怨	Oán		Oán hận					TA phải ăn C thì TRÁI TIM rất OÁN HẬN
+尉	Úy		Đại úy					XÁC CHẾT ra CHỈ THỊ THỐN là của ĐẠI ÚY
+慰	Úy		An ủi					TRÁI TIM ĐẠI ÚY biết AN ỦI
+既	Kí		Đã qua					NGƯỜI làm TỦ KHÔNG TỐT là ĐÃ QUA
+慨	Khái	Khẳng khái				TRÁI TIM ĐÃ QUA nhiều việc trở nên KHẲNG KHÁI
+概	Khái	Khái niệm				CÂY ĐÃ QUA nhiều KHÁI NIỆM
+隔	Cách	Ngăn cách				Em BỒ dùng 1 cái MỒM để NGĂN CÁCH 4T
+融	Dung	Dung môi				1 cái MỒM 4T côn TRÙNG làm DUNG MÔI
+甚	Thậm	Rất, lắm				Con VẬT RẤT thích ăn NGỌT
+堪	Kham	Chịu đựng				Có RẤT nhiều ĐẤT phải KHAM CHỊU ĐỰNG
+勘	Khám	Trực giác				RẤT có năng LỰC về TRỰC GIÁC
+換	Hoán	Hoán đổi				TỨ ĐẠI mỹ nhân MÓC TAY HOÁN ĐỔI
+喚	Hoán	Hô hoán					TỨ ĐẠI mỹ nhân MÓC MỒM HÔ HOÁN
+掲	Yết		Niêm yết				NIÊM YẾT TAY HÁT
+謁	Yết		Yết kiến				YẾT KIẾN lời NÓI như HÁT
+喝	Hát		Quát mắng				MỒM QUÁT MẮNG như HÁT
 渇	Khát	Khát khô				HÁT mà không được uống NƯỚC thì KHÁT KHÔ
-褐	Hạt		Sắc nâu					
-甘	Cam		Ngọt					
-紺	Cám		Xanh sẫm				
-某	Mỗ		Anh ta					
-謀	Mưu		Mưu đồ					
-媒	Môi		Môi giới				
-墾	Khẩn	Khai khẩn				
-懇	Khẩn	Thành khẩn				
-斬	Trảm	Chém					
-暫	Tạm		Tạm thời				
-漸	Tiệm	Tiệm cận				
-摂	Nhiếp	Nhiếp chính				
-渋	Sáp		Ngưng trệ				
-又	Hựu		Lại nữa					
-双	Song	Song sinh				
-刈	Ngải	Cắt					
-死	Tử		Chết					
-葬	Táng	Mai táng				
-卓	Trác	Cái bàn					
-悼	Điệu	Truy điệu				
-阜	Phụ		Gò đất					
-止	Chỉ		Dừng lại				
-祉	Chỉ		Phúc lợi				
-企	Xí		Xí nghiệp				
-肯	Khẳng	Khẳng định				
-寿	Thọ		Trường thọ				
-鋳	Chú		Đúc					
-竜	Long	Con rồng				
-滝	Lang	Thác nước				
-俺	Yêm		Xưng tôi				
-亀	Quy		Con rùa					
-縄	Thằng	Sợi dây					
-謡	Dao		Ca dao					
-揺	Dao		Dao động				
-陶	Đào		Đồ sành					
-卑	Ti		Thấp hèn				
-碑	Bi		Bia mộ					
-見	Kiến	Nhìn					
-覚	Giác	Nhớ ra					
-寛	Khoan	Nghỉ ngơi				
-朴	Bốc		Chất phác				
-赴	Phó		Tới					
-訃	Phó		Cáo phó					
-曹	Tào		Họ Tào					
-槽	Tào		Cái máng				
-遭	Tao		Bắt gặp					
-台	Đài		Vũ đài					
-怠	Đãi		Lười					
-胎	Thai	Phôi thai				
-挿	Sáp		Sáp nhập				
-捜	Sưu		Sưu tập					
-痩	Sấu		Gầy đi					
-貞	Trinh	Trinh tiết				
-偵	Trinh	Trinh thám				
-爵	Tước	Tước hầu				
-傘	Tán		Cái ô					
-爽	Sảng	Sảng khoái				
-璽	Tỷ		Dấu ấn					
-喪	Tang	Tang lễ					
-膝	Tất		Đầu gối					
-漆	Tất		Cây sơn					
-庶	Thứ		Thứ dân					
-遮	Già		Chặn che				
-励	Lệ		Khích lệ				
-栃	Dẻ		Tên tỉnh				
-煙	Yên		Khói					
-慄	Lật		Run sợ					
-弁	Biện	Biện hộ					
-弄	Lộng	Lộng hành				
-臭	Xú		Hôi thối				
-嗅	Khứu	Khứu giác				
-瓦	Ngõa	Viên gạch				
-瓶	Bình	Cái bình				
-弱	Nhược	Yếu					
-溺	Nịch	Chết đuối				
-勾	Câu		Móc lấy					
-匂	Mùi		Mùi hương				
-句	Cú		Câu cú					
-旬	Tuần	10 ngày					
-太	Thái	Béo					
-汰	Thái	Thái quá				
-括	Quát	Bao quát				
-捉	Tróc	Túm lấy					
-覇	Bá		Bá quyền				
-鬱	Uất		Uất ức					
-叱	Sất		Quát mắng				
-冥	Minh	U tối					
-鉢	Bát		Cái bát					
-銘	Minh	Khắc tên				
-串	Xuyến	Xuyên qua				
-患	Hoạn	Bệnh hoạn				
-徹	Triệt	Triệt để				
-撤	Triệt	Rút bỏ					
-累	Lụy		Hệ lụy					
-塁	Lũy		Thành lũy				
-幣	Tệ		Tiền tệ					
-弊	Tệ		Tệ bạc					
-蔽	Tế		Che lấp					
-酎	Trữu	Rượu nặng				
-肘	Trửu	Khuỷu tay				
-棄	Khí		Bỏ, quên				
-裕	Dụ		Dư thừa					
-庸	Dung	Ung dung				
-窯	Diêu	Bếp lò					
-仁	Nhân	Nhân sĩ					
-挨	Ai		Chào hỏi				
-拶	Tạt		Chào hỏi				
-蓋	Cái		Nắp vung				
-那	Na		Nhiều					
-寧	Ninh	Lịch thiệp				
-臆	Ức		Rụt rè					
-釜	Phủ		Nồi					
-隙	Khích	Lỗ hổng					
-股	Cổ		Cái đùi					
-桁	Hành	Trụ gỗ					
-啓	Khải	Làm sáng tỏ				
-催	Thôi	Thôi thúc				
-宴	Yến		Yến tiệc				
-妥	Thỏa	Thỏa thuận				
-婿	Tế		Chú rể					
-酬	Thù		Báo đáp					
-妬	Đố		Đố kị					
-剥	Bác		Bóc					
-勃	Bột		Bồng bột				
-辣	Lạt		Gian ác					
-嫉	Tật		Ghen ghét				
-芯	Tâm		Cái lõi					
-脊	Tích	Cột sống				
-煎	Tiên	Rang					
-撃	Kích	Công kích				
-繋	Hệ		Kết nối					
+褐	Hạt		Sắc nâu					HÁT mặc Y phục SẮC NÂU
+甘	Cam		Ngọt					CAM là NGỌT
+紺	Cám		Xanh sẫm				CÁM có sợi TƠ XANH SẪM rất NGỌT
+某	Mỗ		Anh ta					ANH TA trồng CÂY CAM NGỌT
+謀	Mưu		Mưu đồ					Lời NÓI của ANH TA là MƯU ĐỒ
+媒	Môi		Môi giới				ANH TA MÔI GIỚI PHỤ NỮ
+墾	Khẩn	Khai khẩn				SÂU ĐẤT phải KHAI KHẨN
+懇	Khẩn	Thành khẩn				SÂU TIM phải THÀNH KHẨN
+斬	Trảm	Chém					Dùng RÌU CHÉM XE
+暫	Tạm		Tạm thời				TẠM THỜI ngồi CHÉM gió cả NGÀY
+漸	Tiệm	Tiệm cận				TIỆM CẬN CHÉM là chảy NƯỚC
+摂	Nhiếp	Nhiếp chính				TAY TAI đeo HOA là NHIẾP CHÍNH
+渋	Sáp		Ngưng trệ				NGƯNG TRỆ DỪNG NƯỚC HOA
+又	Hựu		Lại nữa					HỰU LẠI NỮA
+双	Song	Song sinh				LẠI ra SONG SINH
+刈	Ngải	Cắt						MÊ ĐAO phải CẮT
+死	Tử		Chết					1 mình TA TỬ ở phía BẮC
+葬	Táng	Mai táng				MAI TÁNG cô THẢO TỬ trên TAY
+卓	Trác	Cái bàn					Buổi SỚM thấy CÁI BÀN TÔ
+悼	Điệu	Truy điệu				TRÁI TIM TRUY ĐIỆU CÁI BÀN
+阜	Phụ		Gò đất					10 QUAN trên GÒ ĐẤT
+止	Chỉ		Dừng lại				CHỈ DỪNG LẠI
+祉	Chỉ		Phúc lợi				CHỈ THỊ được PHÚC LỢI
+企	Xí		Xí nghiệp				NGƯỜI DỪNG LẠI ở XÍ NGHIỆP
+肯	Khẳng	Khẳng định				KHẲNG ĐỊNH CHỈ có em NGUYỆT
+寿	Thọ		Trường thọ				TAY THỐN thì không TRƯỜNG THỌ
+鋳	Chú		Đúc						ĐÚC VÀNG TRƯỜNG THỌ
+竜	Long	Con rồng				ĐỨNG trên RUỘNG lòi ĐUÔI là CON RỒNG
+滝	Lang	Thác nước				RỒNG phun NƯỚC thành THÁC NƯỚC
+俺	Yêm		Xưng tôi				NGƯỜI ĐỨNG XƯNG TÔI TO trên RUỘNG LÒI ĐUÔI
+亀	Quy		Con rùa					2 RUỘNG MÓC được ĐUÔI CON RÙA
+縄	Thằng	Sợi dây					Sợi TƠ buộc RÙA là SỢI DÂY
+謡	Dao		Ca dao					DAO NGÔN là CA DAO
+揺	Dao		Dao động				TAY CÀO CẤU 2 NÚI tạo DAO ĐỘNG
+陶	Đào		Đồ sành					Em BỒ mang BAO lên NÚI buổi TRƯA nhặt ĐỒ SÀNH
+卑	Ti		Thấp hèn				Người có 4 RUỘNG thấy tự TI THẤP HÈN
+碑	Bi		Bia mộ					Dùng ĐÁ làm BIA MỘ THẤP HÈN
+見	Kiến	Nhìn					MẮT NHÌN CHÂN
+覚	Giác	Nhớ ra					Trong ĐÊM tỏa SÁNG là NHỚ RA
+寛	Khoan	Nghỉ ngơi				Dưới MÁI NHÀ NHÌN thấy cô THẢO thì KHOAN NGHỈ NGƠI
+朴	Bốc		Chất phác				CÂY TÔ là CHẤT PHÁC
+赴	Phó		Tới						CHẠY TÔ là TỚI
+訃	Phó		Cáo phó					Lời NÓI TÔ trong CÁO PHÓ
+曹	Tào		Họ Tào					Cô THẢO họ TÀO hát ca KHÚC tiếng NHẬT
+槽	Tào		Cái máng				TÀO tháo dùng CÂY làm MÁNG
+遭	Tao		Bắt gặp					DẪN TAO BẮT GẶP TÀO tháo
+台	Đài		Vũ đài					4 cái MỒM trên VŨ ĐÀI
+怠	Đãi		Lười					Trái TIM người ĐÀI không LƯỜI
+胎	Thai	Phôi thai				Em NGUYỆT sang ĐÀI mang PHÔI THAI
+挿	Sáp		Sáp nhập				TAY SÁP NHẬP NGHÌN mẫu RUỘNG
+捜	Sưu		Sưu tập					TAY LẠI SƯU TẬP THÂN
+痩	Sấu		Gầy đi					THÂN LẠI GẦY đi vì BỆNH tật
+貞	Trinh	Trinh tiết				Bảo BỐI TÔ là có TRINH TIẾT
+偵	Trinh	Trinh thám				NGƯỜI có TRINH TIẾT làm TRINH THÁM
+爵	Tước	Tước hầu				Người TƯỚC HẦU móc MẮT KHÔNG TỐT nên THỐN
+傘	Tán		Cái ô					NGƯỜI che CÁI Ô cho 14 NGƯỜI
+爽	Sảng	Sảng khoái				4 MÊ LỚN rất SẢNG KHOÁI
+璽	Tỷ		Dấu ấn					MÊ MƯA ra 8 viên NGỌC TỶ làm DẤU ẤN
+喪	Tang	Tang lễ					12 MỒM gào Y TANG LỄ
+膝	Tất		Đầu gối					Em NGUYỆT dùng CÂY làm chảy NƯỚC xuống ĐẦU GỐI
+漆	Tất		Cây sơn					CÂY THỦY NƯỚC là CÂY SƠN
+庶	Thứ		Thứ dân					Dưới HIÊN NHÀ ĐỐT ĐÈN là THỨ DÂN
+遮	Già		Chặn che				THỨ DÂN DẪN CHẶN CHE người GIÀ
+励	Lệ		Khích lệ				Dưới SƯỜN NÚI có VẠN LỰC KHÍCH LỆ
+栃	Dẻ		Tên tỉnh				Dưới SƯỜN NÚI có VẠN CÂY DẺ
+煙	Yên		Khói					LỬA đốt ĐẤT phía TÂY ra KHÓI
+慄	Lật		Run sợ					TÂY trèo lên CÂY TRÁI TIM RUN SỢ
+弁	Biện	Biện hộ					4 TAY BIỆN HỘ
+弄	Lộng	Lộng hành				TAY VUA rất LỘNG HÀNH
+臭	Xú		Hôi thối				TỰ ĐẠI là HÔI THỐI
+嗅	Khứu	Khứu giác				CHÓ TỰ dùng MỒM làm KHỨU GIÁC
+瓦	Ngõa	Viên gạch				12 VIÊN GẠCH NGƯỢC
+瓶	Bình	Cái bình				Dùng 2 TAY đập CÁI BÌNH GẠCH
+弱	Nhược	Yếu						NHƯỢC là YẾU
+溺	Nịch	Chết đuối				YẾU gặp NƯỚC là CHẾT ĐUỐI
+勾	Câu		Móc lấy					MÓC LẤY 4 BAO
+匂	Mùi		Mùi hương				BAO lần cười HI tạo MÙI HƯƠNG
+句	Cú		Câu cú					BAO MỒM tạo CÂU CÚ
+旬	Tuần	10 ngày					BAO NGÀY tạo TUẦN
+太	Thái	Béo						THÁI là BÉO
+汰	Thái	Thái quá				THỦY BÉO THÁI quá
+括	Quát	Bao quát				TAY túm LƯỠI là hết QUÁT
+捉	Tróc	Túm lấy					TAY TÚM LẤY CHÂN
+覇	Bá		Bá quyền				Em NGUYỆT có CÁCH làm BÁ QUYỀN phương TÂY
+鬱	Uất		Uất ức					Buổi trưa lên núi trong đêm xõa tóc chuồn chuồn bay vào mồm cưới hihi uất ức
+叱	Sất		Quát mắng				QUÁT MẮNG mồm vẫn cười HI
+冥	Minh	U tối					6 NGÀY ĐÊM U TỐI
+鉢	Bát		Cái bát					CÁI BÁT ở nhật BẢN làm bằng VÀNG
+銘	Minh	Khắc tên				KHẮC TÊN DANH VÀNG
+串	Xuyến	Xuyên qua				2 MỒM bị XUYÊN QUA
+患	Hoạn	Bệnh hoạn				Bị XUYÊN vào TÂM là BỆNH HOẠN
+徹	Triệt	Triệt để				Làm giáo DỤC phải ĐÈ ra ĐÁNH TRIỆT ĐỂ
+撤	Triệt	Rút bỏ					Làm giáo DỤC phải ĐÁNH bằng TAY rồi RÚT BỎ
+累	Lụy		Hệ lụy					RUỘNG trồng TƠ nhiều hệ LỤY
+塁	Lũy		Thành lũy				RUỘNG ĐẤT ở thành LŨY nở hoa
+幣	Tệ		Tiền tệ					ĐÁNH nhau ở BIÊN GIỚI tranh CÂN GẠO rất TỆ
+弊	Tệ		Tệ bạc					ĐÁNH nhau bằng TAY ở BIÊN GIỚI tranh GẠO rất TỆ
+蔽	Tế		Che lấp					Cô THẢO CHE LẤP ĐÁNH nhau ở BIÊN GIỚI tranh GẠO 
+酎	Trữu	Rượu nặng				RƯỢU THỐN là RƯỢU NẶNG
+肘	Trửu	Khuỷu tay				Em NGUYỆT THỐN nhất ở KHUỶU TAY
+棄	Khí		Bỏ, quên				ĐẦU TƯ 13 CÂY nhưng BỎ QUYÊN
+裕	Dụ		Dư thừa					Dưới THUNG LŨNG mặc Y phục là DƯ THỪA
+庸	Dung	Ung dung				Dưới HIÊN NHÀ EM ngồi SỬ DỤNG rất UNG DUNG
+窯	Diêu	Bếp lò					LỬA nướng DÊ qua cái LỖ của BẾP LÒ
+仁	Nhân	Nhân sĩ					2 NGƯỜI ĐỨNG là NHÂN SĨ
+挨	Ai		Chào hỏi				TAY cầm 4 mũi TÊN đi CHÀO HỎI
+拶	Tạt		Chào hỏi				TAY TA qua SÔNG thì CHÀO HỎI
+蓋	Cái		Nắp vung				Cô THẢO trong QUÁ KHỨ dùng ĐĨA làm NẮP VUNG
+那	Na		Nhiều					Em NGUYỆT có rất nhiều BỒ
+寧	Ninh	Lịch thiệp				Dưới MÁI NHÀ nhìn vào MẮT TRÁI TIM đinh NINH là LỊCH THIỆP
+臆	Ức		Rụt rè					Em NGUYỆT có Ý nhưng vẫn RỤT RÈ
+釜	Phủ		Nồi						BỐ dùng VÀNG đi mua NỒI
+隙	Khích	Lỗ hổng					Lỗ em BỒ càng NGÀY càng NHỎ
+股	Cổ		Cái đùi					Em NGUYỆT bị kẻ THÙ sờ ĐÙI
+桁	Hành	Trụ gỗ					CÂY HÀNH làm TRỤ GỖ
+啓	Khải	Làm sáng tỏ				Ở CỬA bị ĐÁNH vào MỒM LÀM SÁNG TỎ
+催	Thôi	Thôi thúc				NGƯỜI bị THÔI THÚC lên NÚI bắt CHIM
+宴	Yến		Yến tiệc				Dưới MÁI NHÀ cả NGÀY vui chơi với phụ NỮ là YẾN TIỆC
+妥	Thỏa	Thỏa thuận				THỎA THUẬN CÀO CẤU với phụ NỮ
+婿	Tế		Chú rể					Con RỂ yêu người phụ NỮ khác tên NGUYỆT là HẠ NHÂN
+酬	Thù		Báo đáp					Uống RƯỢU như CHÂU để BÁO ĐÁP
+妬	Đố		Đố kị					Phụ NỮ cầm ĐÁ ĐỐ KỊ
+剥	Bác		Bóc						EM THỦY dùng ĐAO để BÓC
+勃	Bột		Bồng bột				Mất 10 ĐÊM nỗ LỰC nuôi thằng CON BỒNG BỘT
+辣	Lạt		Gian ác					Thúc giục ăn CAY là GIAN ÁC
+嫉	Tật		Ghen ghét				Phụ NỮ có TẬT GHEN GHÉT
+芯	Tâm		Cái lõi					CÁI LÕI TRÁI TIM cô THẢO
+脊	Tích	Cột sống				4 NGƯỜI tên NGUYỆT đều đau CỘT SỐNG
+煎	Tiên	Rang					Muốn RANG trước TIÊN phải đốt LỬA
+撃	Kích	Công kích				CÔNG KÍCH XE kẻ THÙ bằng TAY
+繋	Hệ		Kết nối					KẾT NỐI XE kẻ THÙ bằng TƠ
