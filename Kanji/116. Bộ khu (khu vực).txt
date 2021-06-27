@@ -1,1 +1,10 @@
-dsads
+1. Khu			Khu vực
+Mê tủ đựng ở khu đó
+2. Khu			Tiến đến
+Con ngựa đang tiến đến khu đó
+3. Xu			Khu trung tâm
+Cái cây được trồng ở khu khu trung tâm
+4. Âu			Châu âu
+Khu bị thiếu là châu âu
+5. Ẩu			Ẩu đả
+Đến khu của kẻ thù dễ xảy ra ẩu đả

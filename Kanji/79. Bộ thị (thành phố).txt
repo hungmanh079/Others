@@ -1,1 +1,8 @@
-đa
+1.Thị		Thành phố
+Đầu đội khắn là người thành phố
+2.Thị		Cây hồng
+Cây trồng nhiều nhất ở thành phố là cây hồng
+3.Tỉ		Chị gái
+Người con gái sống ở thành phố là chị gái
+4.Phế		Phổi
+Nguyệt sống ở thành phố nên bị bệnh phổi

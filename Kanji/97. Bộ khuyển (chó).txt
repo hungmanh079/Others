@@ -1,1 +1,14 @@
-sds
+1. Phục			Phục kích
+Người dẫn chó đi phục kích
+2. Trạng		Trạng thái
+Trạng thái con chó đứng cạnh tường
+3. Ngục			Địa ngục
+Bị 2 con chó nói là như sống trong địa ngục
+4. Thú			Thú vật
+Con chó sủa trên ruộng 3 tiếng bằng 1 cái mồm là thú vật
+5. Hiến			Hiến dâng
+Hiến dâng đất phía nam để nuôi chó
+6. Nhiên		Tự nhiên
+Nguyệt ăn chó nướng rất tự nhiên
+7. Nhiên		Nhiên liệu
+Lửa được dùng làm nhiên liệu cho động cơ

@@ -1,1 +1,14 @@
-dsads
+1. Phẩm			Sản phẩm
+3 cái mồm tạo nên sản phẩm
+2. Lâm			Lâm thời
+Thần nằm lên sản phẩm là lâm thời
+3. Khí			Vũ khí
+Có 4 cái mồm to là vũ khí
+4. Thao			Thao tác
+Tay thao tác tạo ra cây sản phẩm
+5. Sào			Kéo tơ
+Sợi tơ quấn quanh cây sản phẩm là đang kéo tơ
+6. Tảo			Tảo biển
+Vây sản phẩm ở dưới nước giống như cỏ là tảo biển
+7. Táo			Khô ráo
+Cây sản phẩm hơ qua lửa thì khô ráo

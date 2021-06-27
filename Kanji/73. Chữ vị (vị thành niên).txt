@@ -1,1 +1,14 @@
-đấ
+1. Vị		Vị thành niên
+Vị thành niên to bằng 1 cái cây
+2. Vị		Hương vị
+Vị thành niên mở miệng nếm hương vị
+3. Muội		Em gái
+Cô gái chưa đến tuổi vị thành niên là em gái
+4. Muội		Ngu muội
+Chưa đến tuổi vị thành niên cả ngày ngu muội
+5. Mị		Ma mị
+Con quỷ chưa đến tuổi vị thành niên rất ma mị
+6. Mạt		Cuối cùng
+Mạt ngược với Vị
+7. Mạt		Mạt sát
+Tay cuối cùng chỉ biết đi mạt sát người

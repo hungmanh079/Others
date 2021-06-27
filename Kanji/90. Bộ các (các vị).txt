@@ -1,1 +1,24 @@
-đấ
+1.Các		Các vị
+Phía sau miệng các vị khách
+2.Khách		Quý khách
+Dưới mái nhà có các vị khách
+3.Ngạch		Kim ngạch
+Khách hàng trả tiền giấy tạo ra kim ngạch
+4.Cách		Tính cách
+Cái cây thể hiện tính cách của các vị
+5.Lạc		Rơi xuống
+Cô thảo đẩy các vị rơi xuống nước
+6.Lạc		Liên lạc
+Các vị dùng sợi tơ để liên lạc
+7.Lạc		Bơ lạc
+Các vị uống rượu với bơ lạc
+8.Các		Nội các
+Dưới cánh cổng các vị đang họp nội các
+9.Lược		Chiến lược
+Các vị đang bàn chiến lược ở trên ruộng
+10.Lộ		Hối lộ
+Dùng bảo bối để hối lộ các vị
+11.Lộ		Con đường
+Chân các vị đang đặt trên con đường
+12.Lộ		Sương mù
+Mưa trên con đường là sương mù

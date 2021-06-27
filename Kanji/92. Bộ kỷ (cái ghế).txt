@@ -1,1 +1,30 @@
-sdas
+1.Kỉ			Cái ghế
+Trông giống cái ghế
+2.Ki, cơ		Cái bàn
+Dùng cây làm bàn ghế
+3.Cơ			Da
+Nguyệt ngồi trên ghế hở da thịt
+4.Cơ			Đói
+Đói ăn cả ghế
+5.Xử			Xử lý
+Cầm ghế phía sau để xử lý
+6.Cứ			Chứng cứ
+Tay xử lý chứng cứ
+7.Nhũng			Trò đùa
+Trong đêm cầm ghế đùa nhau
+8.Hàng			Hàng không
+Trên thuyền ngồi hàng ghế đầu
+9.Kháng			Kháng cự
+Bị ghế đập đầu dùng tay để kháng cự
+10.Khanh		Hố đào
+Bị ghế đập vào đầu ngã xuống đất thành cái hố
+11.Phàm			Phi phàm
+Cái ghế rất phi phàm
+12.Phàm			Thuyền buồm
+Dùng khăn phi phàm làm thuyền buồm
+13.Phiếm		Phù phiếm
+Nước phi phàm là phù phiếm
+14.Trúc			Kiến trúc
+Trúc có công lực phi phàm biến cây thành kiến trúc
+15.Khủng		Khủng hoảng
+Công lực phi phàm khiến trái tim khủng hoảng

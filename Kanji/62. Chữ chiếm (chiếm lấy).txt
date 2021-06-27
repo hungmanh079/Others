@@ -1,1 +1,10 @@
-dsad
+1. Chiếm		Chiếm lấy
+Miệng to có thể chiếm hết đồ ăn người khác
+2. Điếm			Cửa hàng
+Chiếm lấy mái hiên làm cửa hàng
+3. Điểm			Điểm số
+Học máu lửa chiếm hết phần người khác để giành điểm cao
+4. Niêm			Dính
+Chiếm hết gạo làm chất dính
+5. Thiếp		Dán
+Chiếm lấy bảo bối để dán

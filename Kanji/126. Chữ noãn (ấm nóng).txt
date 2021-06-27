@@ -1,1 +1,8 @@
-dsadas
+1. Noãn			Ấm
+Cả ngày cắt móng tay cho 1 đứa bạn thì ấm lên
+2. Hoãn			Trì hoãn
+Sợi tơ buộc vào móng tay của 1 đứa bạn làm trì hoãn công việc
+3. Viện			Chi viện
+Tay đang cắt móng tay cho 1 đứa bạn đang là chi viện
+4. Viện			Bà hoàng
+Người con gái đang cắt móng tay cho1 đứa bạn là bà hoàng

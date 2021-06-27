@@ -1,1 +1,16 @@
-đấ
+1.Kim			Bây giờ
+Người đó nói bây giờ là 11 giờ
+2.Ngâm			Ngâm thơ
+Miệng bây giờ đang ngâm thơ
+3.Hàm			Nội hàm
+Bây giờ trong miệng chỉ còn lại hàm
+4.Tham			Tham lam
+Bây giờ vẫn đòi bảo bối là tham lam
+5.Niệm			Kỷ niệm
+Bây giờ trong tim chỉ còn lại kỷ niệm
+6.Niệm			Vặn, xoắn
+Kỷ niệm lúc tay mình bị vặn
+7.Âm			Âm u
+Bồ ơi, bây giờ là 24h rồi trời âm u quá
+8.Cầm			Đàn
+2 ông vua bây giờ đang chơi đàn

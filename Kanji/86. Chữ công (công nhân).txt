@@ -1,1 +1,20 @@
-đa
+1.Công			Công nhân
+Giống chữ e trong katakana
+2.Công			Tấn công
+Công nhân bị đánh nên tấn công lại
+3.Công			Thành công
+Công nhân có sức lực mới thành công
+4.Cống			Cống hiến
+Công nhân mang bảo bối đi cống hiến
+5.Hồng			Hồng trà
+Công nhân dùng sợi tơ để khuấy hồng trà
+6.Hồng			Cầu vồng
+Công nhân nhìn thấy côn trùng hình cầu vồng
+7.Giang			Giang sơn
+Có công dựng nước tạo giang sơn
+8.Hạng			Hạng mục
+Công nhân viết lên giấy những hạng mục
+9.Không			Không khí
+Công nhân dưới cái lỗ không có không khí
+10.Khống		Khống chế
+Dùng tay không để khống chế

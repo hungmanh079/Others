@@ -1,1 +1,10 @@
-đas
+1.Ti		Quản lý
+Có khả năng nhất là quản lý
+2.Tứ		Dò xét
+Người quản lý hay dò xét
+3.Từ		Ca từ
+Lời nói của quản lý như ca từ
+4.Tự		Nuôi
+Ăn cùng quản lý là được nuôi
+5.Tự		Con cháu
+Quản lý việc con cháu mở miệng đọc sách
