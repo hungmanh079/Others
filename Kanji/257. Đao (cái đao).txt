@@ -1,0 +1,8 @@
+1. Biên			Biên giới
+Dẫn đao ra biên giới
+2. Sơ			Lần đầu
+Lần đầu ra mắt mặc y phục cầm đao
+3. Thiết		Cắt
+Dùng 7 cái đao để cắt
+4. Thiết		Ăn cắp
+Cắt cái lỗ để trộm cắp

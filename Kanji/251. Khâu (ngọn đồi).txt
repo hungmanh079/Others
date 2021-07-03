@@ -1,0 +1,8 @@
+1. Khâu			Ngọn đồi
+Cầm 1 chiếc rìu đi lên ngọn đồi
+2. Binh			Binh sĩ
+Có 8 binh sĩ đang nấp ở trên ngọn đồi
+3. Banh			Bãi biển
+Binh sĩ nghịch nước ở bãi biển
+4. Nhạc			Núi cao
+Đồi + núi = núi cao

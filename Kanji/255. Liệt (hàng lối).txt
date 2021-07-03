@@ -1,0 +1,8 @@
+1. Liệt			Hàng lối
+1 mình ta cầm đao đứng xếp hàng
+2. Lệ			Ví dụ
+Đứng xếp hàng đưa ra ví dụ
+3. Liệt			Mãnh liệt
+Xếp hàng quanh đống lửa đang cháy mãnh liệt
+4. Liệt			Xé rách
+Đang xếp hàng bị xé rách y phục

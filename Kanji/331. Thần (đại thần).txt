@@ -1,0 +1,20 @@
+1. Thần			Đại thần
+Trong tủ đựng 1 vị trung thần
+2. Cơ			Công chúa
+Nữ thần là công chúa
+3. Lãm			Triển lãm
+Thần nằm 1 mình xem triển lãm
+4. Giám			Giám đốc
+Thần nằm 1 mình trên đĩa là giám đốc
+5. Giám			Gương
+Giám đốc là tấm gương vàng để mọi người noi theo
+6. Hạm			Chiến hạm
+Thuyền của giám đốc là chiến hạm
+7. Lam			Xanh lam
+Giám đốc thích cỏ màu xanh lam
+8. Lạm			Tràn đầy
+Giám đốc đổ nước tràn đầy ra nhà
+9. Tàng			Tàng trữ
+Thần rất tươi khi thăm bảo tàng
+10. Tạng		Nội tạng
+Nguyệt tàng trữ nội tạng trái phép

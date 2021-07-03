@@ -1,0 +1,16 @@
+1. Sách			Quyển sách
+Chắp tay ngồi ở biên giới đọc sách
+2. Sách			Hàng rào
+Ngồi dưới gốc cây cạnh hàng rào đọc sách
+3. Luân			Luân lí
+Người đứng nhìn người đang đọc 1 cuốn sách luân lí
+4. Luân			Bánh xe
+Người đọc 1 cuốn sách về các loại xe có bánh
+5. Luận			Tranh luận
+Người đọc 1 cuốn sách nói lời tranh luận
+6. Biên			Đan
+Chỉ ngồi cạnh cửa đọc sách đan len
+7. Biến			Phổ biến
+Dẫn ra cửa ngồi đọc sách là phổ biến
+8. Thiên		Thiên vị
+Người đọc sách cạnh cửa được thiên vị

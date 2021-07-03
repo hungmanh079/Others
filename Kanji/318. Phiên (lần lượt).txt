@@ -1,0 +1,8 @@
+1. Phiên		Lần lượt
+Tới phiên mình đi cắt lúa gạo trên ruộng
+2. Phiên		Phiên dịch
+Phiên có thêm đôi cánh thì bay đi làm phiên dịch
+3. Phiên		Bờ rào
+Tới phiên đi cắt cỏ và tưới nước ở bờ rào
+4. Thẩm			Thẩm phán
+Dưới mái nhà có phiên tòa phúc thẩm

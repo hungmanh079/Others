@@ -1,0 +1,32 @@
+1. Đầu			Đầu tư
+Đầu tư vào tay kẻ thù
+2. Dịch			Chiến dịch
+Chiến dịch đè kẻ thù
+3. Sát			Sát hại
+Đánh dấu X trên cây là nơi sát hại kẻ thù
+4. Thiết		Thiết lập
+Lời nói xóa bỏ thù oán thiết lập hòa bình
+5. Điện			Cung điện
+Kẻ thù mang xác chết từ nơi công cộng vào cung điện
+6. Ban, bàn		Bình thường
+Thuyền của kẻ thù nhìn rất bình thường
+7. Ban, bàn		Vận chuyển
+Ngày xưa vận chuyển bình thường là dùng tay
+8. Bàn			Bàn tính
+Địa bàn này bình thường là nơi buôn bán bát đĩa
+9. Một			Chìm đắm
+Kẻ thù bị nước nhấn chìm
+10. Cổ			Bẹn, háng
+Nguyệt đá vào bẹn kẻ thù
+11. Dịch		Bệnh dịch
+Kẻ thù phát bênh tạo ra dịch bệnh
+12. Kích		Công kích
+Công kích xe kẻ thù bằng tay
+13. Xác			Vỏ
+Binh sĩ trong đêm cầm ghế đập kẻ thù bay xác
+14. Cốc			Ngũ cốc
+Binh sĩ trong đêm lấy lúa và ngũ cốc của kẻ thù
+15. Đoạn		Giai đoạn
+Đến giai đoạn 2 phải ép kẻ thù
+16. Đoán		Rèn luyện
+Rèn luyện vàng phải qua nhiều giai đoạn

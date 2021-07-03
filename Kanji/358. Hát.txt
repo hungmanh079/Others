@@ -1,0 +1,12 @@
+1. Yết			Niêm yết
+Niêm yết danh sách những tay ca sĩ hát hay
+2. Yết			Yết kiến
+Chương trình yết kiến bao gồm nói chuyện và múa hát
+3. Hát			Quát mắng
+Mồm hát mà như là đang quát mắng
+4. Hạt			Sắc nâu
+Khi hát mặc y phục màu nâu
+5. Khát			Khát khô
+Hát mà không uống nước thì khát không
+6. Cát			Sắn dây
+Cô thỏa vừa hát vừa cuốc sắn dây

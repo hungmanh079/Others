@@ -1,0 +1,12 @@
+1. Tịnh			Xếp hàng
+Xếp hàng thành 2 hàng chữ V 2 hàng ngang 2 hàng dọc
+2. Linh			Linh hồn
+Linh hồn xếp hàng dưới mưa
+3. Phổ			Phổ thông
+Ở nhật xếp hàng là việc phổ thông
+4. Phổ			Gia phả
+Lời nói phổ thông đưa vào gia phả
+5. Thấp			Ẩm thấp
+Đứng xếp hàng cả ngày nước bốc lên ẩm thấp
+6. Hiển			Hiển nhiên
+Ở nhật xếp hàng nhặt được tiền giấy là hiển nhiên

@@ -1,0 +1,18 @@
+1. Mô			Mô hình
+Dùng cây làm mô hình
+2. Mô			Màng
+Nguyệt đang làm mô hình màng bọc
+3. Mạc			Sa mạc
+Làm mô hình sa mạc có nước
+4. Mạc			Bắt chước
+Tay bắt chước theo mô hình
+5. Mộ			Tối
+Làm mô hình mặt trời tối đen
+6. Mộ			Chiêu mộ
+Có lực làm mô hình sẽ được chiêu mộ
+7. Mộ			Ngôi mộ
+Mô hình đống đất là ngôi mộ
+8. Mộ			Hâm mộ
+Mô hình trái tim được hâm mộ
+9. Mạc			Màn, rèm
+Dùng mô hình chiếc khăn để làm rèm
